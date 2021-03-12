@@ -1,0 +1,117 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/csvw",
+        {
+            "@language": "cs"
+        }
+    ],
+    "url": "orp.csv",
+    "dc:title": "COVID-19: Přehled epidemiologické situace dle hlášení krajských hygienických stanic podle ORP",
+    "dc:description": "Obsahem je komplexní přehled základních epidemiologických parametrů (počty diagnostikovaných osob s COVID-19, počty aktuálně nakažených, hospitalizovaní pacienti) se zaměřením na seniorní zranitelné skupiny obyvatel (kategorie věku 65+, 75+) na geografické úrovni obcí s rozšířenou působností (ORP).",
+    "dc:source": "Krajské hygienické stanice v ČR",
+    "dcat:keyword": [
+        "koronavirus",
+        "covid-19",
+        "prokázaná nákaza",
+        "krajská hygienická stanice",
+        "incidence",
+        "prevalence",
+        "hospitalizace",
+        "obec s rozšířenou působností",
+        "PCR test"
+    ],
+    "dc:publisher": {
+        "schema:name": "ÚZIS ČR",
+        "schema:url": {
+            "@id": "https://www.uzis.cz/"
+        }
+    },
+    "dc:license": {
+        "@id": "https://data.gov.cz/podmínky-užití/volný-přístup/"
+    },
+    "dc:modified": {
+        "@value": "2021-02-27",
+        "@type": "xsd:date"
+    },
+    "tableSchema": {
+        "columns": [
+            {
+                "name": "den",
+                "titles": "den",
+                "datatype": "string",
+                "dc:description": "Označení příslušného dne."
+            },
+            {
+                "name": "datum",
+                "titles": "datum",
+                "datatype": "date"
+            },
+            {
+                "name": "orp_kod",
+                "titles": "orp_kod",
+                "datatype": "string",
+                "dc:description": "Kód obce s rozšířenou působností dle číselníku ÚZIS ČR (https://pzu-api.uzis.cz/api/orp)."
+            },
+            {
+                "name": "orp_nazev",
+                "titles": "orp_nazev",
+                "datatype": "string",
+                "dc:description": "Název obce s rozšířenou působností."
+            },
+            {
+                "name": "incidence_7",
+                "titles": "incidence_7",
+                "datatype": "integer",
+                "dc:description": "Celkový počet všech nově diagnostikovaných za týden zpětně ode dne uvedeného ve sloupci Datum."
+            },
+            {
+                "name": "incidence_65_7",
+                "titles": "incidence_65_7",
+                "datatype": "integer",
+                "dc:description": "Celkový počet nově diagnostikovaných ve věkové skupině 65+ za týden zpětně ode dne uvedeného ve sloupci Datum."
+            },
+            {
+                "name": "incidence_75_7",
+                "titles": "incidence_75_7",
+                "datatype": "integer",
+                "dc:description": "Celkový počet nově diagnostikovaných ve věkové skupině 75+ za týden zpětně ode dne uvedeného ve sloupci Datum."
+            },
+            {
+                "name": "prevalence",
+                "titles": "prevalence",
+                "datatype": "integer",
+                "dc:description": "Aktuální počet aktivních případů ve stavu COVID+."
+            },
+            {
+                "name": "prevalence_65",
+                "titles": "prevalence_65",
+                "datatype": "integer",
+                "dc:description": "Aktuální počet aktivních případů ve věkové skupině 65+ ve stavu COVID+."
+            },
+            {
+                "name": "prevalence_75",
+                "titles": "prevalence_75",
+                "datatype": "integer",
+                "dc:description": "Aktuální počet aktivních případů ve věkové skupině 75+ ve stavu COVID+."
+            },
+            {
+                "name": "aktualni_pocet_hospitalizovanych_osob",
+                "titles": "aktualni_pocet_hospitalizovanych_osob",
+                "datatype": "integer",
+                "dc:description": "Aktuální počet hospitalizovaných (dle bydliště v daném ORP)."
+            },
+            {
+                "name": "nove_hosp_7",
+                "titles": "nove_hosp_7",
+                "datatype": "integer",
+                "dc:description": "Celkový počet nově hospitalizovaných za týden zpětně ode dne uvedeného ve sloupci Datum (dle bydliště v daném ORP)."
+            },
+            {
+                "name": "testy_7",
+                "titles": "testy_7",
+                "datatype": "integer",
+                "dc:description": "Celkový počet provedených PCR testů za týden zpětně ode dne uvedeného ve sloupci Datum (dle bydliště v daném ORP)."
+            }
+        ]
+    }
+}

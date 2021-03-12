@@ -1,0 +1,34 @@
+set key left
+set grid
+set title "Celkove umrti - histogram"
+
+# deaths histogram for whole CZ
+binwidth=2
+set boxwidth binwidth
+set style fill solid 0.5
+bin(x,width)=width*floor(x/width)
+set datafile separator comma
+set xtics 0,binwidth
+
+set table "dhist.dat"
+plot "umrti.csv" u (bin($2,binwidth)):(1.0) smooth freq with boxes
+unset table
+
+set output 'death_hist.png'
+set term png enhanced truecolor lw 2 size 2048,1024
+
+stats "umrti.csv" u (strptime("%Y-%m-%d",strcol(1))/(3600*24)-18343):2
+
+
+set fit logfile 'deaths.fit'
+f(x) = c*a*exp(b*x*d)*exp(a/b*(1-exp(b*x*d)))
+a=0.00150838
+b=11.5873
+c=401.543
+d=0.00943643
+set datafile separator
+fit [*:*] f(x) "dhist.dat" u 1:2 via a,b,c,d
+
+set datafile separator comma
+plot "umrti.csv" u (bin($2,binwidth)):(1.0) smooth freq with boxes lt -1 title 'umrti-histogram', f(x) w l lw 2 lt -1 title 'c*a*exp(b*x*d)*exp(a/b*(1-exp(b*x*d)))'
+
