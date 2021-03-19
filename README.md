@@ -66,32 +66,11 @@ Few lame BASH & AWK & GNUPLOT scripts that extract ORP and LAU level data publis
 2020-12-01 B.1.1.7 confirmed in December
 2021-02-25 B.1.351 confirmed
 ```
-## Example output for LAU
-<br>
-<em>Havl Brod</em><br>
-<img src="./figs-lau/HavlickuvBrod/CZ0631.png" width="1024"/><br>
-<img src="./figs-lau/HavlickuvBrod/CZ0631d.png" width="1024"/><br>
-<img src="./figs-lau/HavlickuvBrod/CZ0631hist.png" width="1024"/><br>
-<img src="./figs-lau/HavlickuvBrod/aCZ0631.png" width="1024"/><br>
-<img src="./figs-lau/HavlickuvBrod/aCZ0631d.png" width="1024"/><br>
 
-## Example output for ORP
-<br>
-<em>Havl Brod</em><br>
-<img src="./figs/HavlickuvBrod/6302dif.png" width="1024"/><br>
-<img src="./figs/HavlickuvBrod/6302dif65.png" width="1024"/><br>
-<img src="./figs/HavlickuvBrod/6302new.png" width="1024"/><br>
-<img src="./figs/HavlickuvBrod/6302new65.png" width="1024"/><br>
-<img src="./figs/HavlickuvBrod/6302p.png" width="1024"/><br>
-<img src="./figs/HavlickuvBrod/6302p65.png" width="1024"/><br>
-<img src="./figs/HavlickuvBrod/a6302dif.png" width="1024"/><br>
-<img src="./figs/HavlickuvBrod/a6302dif65.png" width="1024"/><br>
-<img src="./figs/HavlickuvBrod/a6302new.png" width="1024"/><br>
-<img src="./figs/HavlickuvBrod/a6302new65.png" width="1024"/><br>
-<img src="./figs/HavlickuvBrod/a6302p.png" width="1024"/><br>
-<img src="./figs/HavlickuvBrod/a6302p65.png" width="1024"/><br>
+## Time evolution of deaths histograms
+<img src="./death_hist_evol.png" width="1024"/><br>
 
-## Overall deaths histogram
+## Up-to-date overall deaths histogram
 <img src="./death_hist.png" width="1024"/><br>
 ## Histogram statistics
 ```
@@ -177,3 +156,29 @@ b               0.998  1.000
 c              -0.998 -1.000  1.000 
 d              -0.999 -1.000  1.000  1.000 
 ```
+
+## Example output for LAU
+<br>
+<em>Havl Brod</em><br>
+<img src="./figs-lau/HavlickuvBrod/CZ0631.png" width="1024"/><br>
+<img src="./figs-lau/HavlickuvBrod/CZ0631d.png" width="1024"/><br>
+<img src="./figs-lau/HavlickuvBrod/CZ0631hist.png" width="1024"/><br>
+<img src="./figs-lau/HavlickuvBrod/aCZ0631.png" width="1024"/><br>
+<img src="./figs-lau/HavlickuvBrod/aCZ0631d.png" width="1024"/><br>
+
+## Example output for ORP
+<br>
+<em>Havl Brod</em><br>
+<img src="./figs/HavlickuvBrod/6302dif.png" width="1024"/><br>
+<img src="./figs/HavlickuvBrod/6302dif65.png" width="1024"/><br>
+<img src="./figs/HavlickuvBrod/6302new.png" width="1024"/><br>
+<img src="./figs/HavlickuvBrod/6302new65.png" width="1024"/><br>
+<img src="./figs/HavlickuvBrod/6302p.png" width="1024"/><br>
+<img src="./figs/HavlickuvBrod/6302p65.png" width="1024"/><br>
+<img src="./figs/HavlickuvBrod/a6302dif.png" width="1024"/><br>
+<img src="./figs/HavlickuvBrod/a6302dif65.png" width="1024"/><br>
+<img src="./figs/HavlickuvBrod/a6302new.png" width="1024"/><br>
+<img src="./figs/HavlickuvBrod/a6302new65.png" width="1024"/><br>
+<img src="./figs/HavlickuvBrod/a6302p.png" width="1024"/><br>
+<img src="./figs/HavlickuvBrod/a6302p65.png" width="1024"/><br>
+
