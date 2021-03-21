@@ -1,7 +1,7 @@
 # c19_cz orp data extractor with gnuplot visualization
-Few lame BASH & AWK & GNUPLOT scripts that extract ORP and LAU level data published by MZCR
+Few lame BASH & AWK & GNUPLOT scripts that extract ORP, LAU level and other data published by MZCR
 
-## TL;DR - graphs are in ./figs & ./figs-lau directories
+## TL;DR - graphs are in ./figs & ./figs-lau directories and at the bottom of this README.md
 
 **Data source**: https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/orp.csv
 
@@ -66,6 +66,11 @@ Few lame BASH & AWK & GNUPLOT scripts that extract ORP and LAU level data publis
 2020-12-01 B.1.1.7 confirmed in December
 2021-02-25 B.1.351 confirmed
 ```
+## Time evolution of C-19 positively tested population
+<img src="./incidence_hist_evol.png" width="1024"/><br>
+
+## Incidence divided among age groups
+<img src="./incidence_by_grp.png" width="1024"/><br>
 
 ## Time evolution of deaths histograms
 <img src="./death_hist_evol.png" width="1024"/><br>
