@@ -25,13 +25,13 @@ plot "osoby.csv" u ($2):(strptime("%Y-%m-%d",strcol(1)) < strptime("%Y-%m-%d","2
    "osoby.csv" u ($2):(strptime("%Y-%m-%d",strcol(1)) < strptime("%Y-%m-%d","2020-09-01") ? 1 : 0 ) smooth freq with boxes title 'until 1.9.2020'
 
 
-# C19 incidency age separated groups
+# C19 prevalence of age separated groups
 set style fill transparent solid 0.5
 set xrange [0:*]
 set yrange [0:3000]
 set xtics font ",8"
 set xtics 0,14
-set title 'Incidence by age groups'
-set output 'incidence_by_grp.png'
+set title 'Prevalence by age groups'
+set output 'prevalence_by_grp.png'
 
-plot "osoby.csv"u ( $2>=60 ? -1 : bin(1./(3600*24)*(strptime("%Y-%m-%d",strcol(1))-strptime("%Y-%m-%d","2020-01-01")),binwidth)):(strptime("%Y-%m-%d",strcol(1)) > strptime("%Y-%m-%d","2020-01-01") ? .2 : 1/0) smooth freq with boxes title 'incidence 0-59(x.5)',""u ( $2<60 || $2>=70 ? -1 : bin(1./(3600*24)*(strptime("%Y-%m-%d",strcol(1))-strptime("%Y-%m-%d","2020-01-01")),binwidth)):(strptime("%Y-%m-%d",strcol(1)) > strptime("%Y-%m-%d","2020-01-01") ? 1.0 : 1/0) smooth freq with boxes title 'incidence 60-69',"" u ( $2<70 || $2>=80 ? -1 : bin(1./(3600*24)*(strptime("%Y-%m-%d",strcol(1))-strptime("%Y-%m-%d","2020-01-01")),binwidth)):(strptime("%Y-%m-%d",strcol(1)) > strptime("%Y-%m-%d","2020-01-01") ? 1.0 : 1/0) smooth freq with boxes title 'incidence 70-79',"" u ( $2<80 ? -1 : bin(1./(3600*24)*(strptime("%Y-%m-%d",strcol(1))-strptime("%Y-%m-%d","2020-01-01")),binwidth)):(strptime("%Y-%m-%d",strcol(1)) > strptime("%Y-%m-%d","2020-01-01") ? 1.0 : 1/0) smooth freq with boxes title 'incidence 80+'
+plot "osoby.csv"u ( $2>=60 ? -1 : bin(1./(3600*24)*(strptime("%Y-%m-%d",strcol(1))-strptime("%Y-%m-%d","2020-01-01")),binwidth)):(strptime("%Y-%m-%d",strcol(1)) > strptime("%Y-%m-%d","2020-01-01") ? .2 : 1/0) smooth freq with boxes title 'prevalence 0-59(x.5)',""u ( $2<60 || $2>=70 ? -1 : bin(1./(3600*24)*(strptime("%Y-%m-%d",strcol(1))-strptime("%Y-%m-%d","2020-01-01")),binwidth)):(strptime("%Y-%m-%d",strcol(1)) > strptime("%Y-%m-%d","2020-01-01") ? 1.0 : 1/0) smooth freq with boxes title 'prevalence 60-69',"" u ( $2<70 || $2>=80 ? -1 : bin(1./(3600*24)*(strptime("%Y-%m-%d",strcol(1))-strptime("%Y-%m-%d","2020-01-01")),binwidth)):(strptime("%Y-%m-%d",strcol(1)) > strptime("%Y-%m-%d","2020-01-01") ? 1.0 : 1/0) smooth freq with boxes title 'prevalence 70-79',"" u ( $2<80 ? -1 : bin(1./(3600*24)*(strptime("%Y-%m-%d",strcol(1))-strptime("%Y-%m-%d","2020-01-01")),binwidth)):(strptime("%Y-%m-%d",strcol(1)) > strptime("%Y-%m-%d","2020-01-01") ? 1.0 : 1/0) smooth freq with boxes title 'prevalence 80+'

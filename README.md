@@ -69,8 +69,8 @@ Few lame BASH & AWK & GNUPLOT scripts that extract ORP, LAU level and other data
 ## Time evolution of C-19 positively tested population
 <img src="./incidence_hist_evol.png" width="1024"/><br>
 
-## Incidence divided among age groups
-<img src="./incidence_by_grp.png" width="1024"/><br>
+## Prevalence divided among age groups
+<img src="./prevalence_by_grp.png" width="1024"/><br>
 
 ## Time evolution of deaths histograms
 <img src="./death_hist_evol.png" width="1024"/><br>
