@@ -37,4 +37,5 @@ done
 #make overall deaths histogram
 gnuplot plotdh.plg >& dstats.txt
 rm deaths.fit
+gnuplot plotdg.plg
 ./make_Readme.sh

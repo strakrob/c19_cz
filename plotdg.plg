@@ -1,0 +1,28 @@
+set key left
+set grid
+
+# C19 deaths by age group
+binwidth=1
+set boxwidth binwidth
+bin(x,width)=width*floor(x/width)
+set datafile separator comma
+set xtics 0,binwidth
+set style fill solid 0.5
+set xrange [0:*]
+set yrange [0:300]
+set xtics font ",8"
+set xtics 0,14
+
+set term png enhanced truecolor lw 2 size 2048,1024
+
+set xtics font ",6"
+set title 'C19 deaths by age group'
+set output 'deaths_by_grp.png'
+plot "umrti.csv"u ( $2<1 ? -1 : bin(1./(3600*24)*(strptime("%Y-%m-%d",strcol(1))-strptime("%Y-%m-%d","2020-01-01")),binwidth)):(strptime("%Y-%m-%d",strcol(1)) > strptime("%Y-%m-%d","2020-01-01") ? 1 : 1/0) smooth freq with boxes title '0-39',\
+""u ( $2<40 ? -1 : bin(1./(3600*24)*(strptime("%Y-%m-%d",strcol(1))-strptime("%Y-%m-%d","2020-01-01")),binwidth)):(strptime("%Y-%m-%d",strcol(1)) > strptime("%Y-%m-%d","2020-01-01") ? 1 : 1/0) smooth freq with boxes title '40-49',\
+""u ( $2<50 ? -1 : bin(1./(3600*24)*(strptime("%Y-%m-%d",strcol(1))-strptime("%Y-%m-%d","2020-01-01")),binwidth)):(strptime("%Y-%m-%d",strcol(1)) > strptime("%Y-%m-%d","2020-01-01") ? 1 : 1/0) smooth freq with boxes title '50-59',\
+""u ( $2<60 ? -1 : bin(1./(3600*24)*(strptime("%Y-%m-%d",strcol(1))-strptime("%Y-%m-%d","2020-01-01")),binwidth)):(strptime("%Y-%m-%d",strcol(1)) > strptime("%Y-%m-%d","2020-01-01") ? 1 : 1/0) smooth freq with boxes title '60-69',\
+""u ( $2<70 ? -1 : bin(1./(3600*24)*(strptime("%Y-%m-%d",strcol(1))-strptime("%Y-%m-%d","2020-01-01")),binwidth)):(strptime("%Y-%m-%d",strcol(1)) > strptime("%Y-%m-%d","2020-01-01") ? 1 : 1/0) smooth freq with boxes title '70-79',\
+""u ( $2<80 ? -1 : bin(1./(3600*24)*(strptime("%Y-%m-%d",strcol(1))-strptime("%Y-%m-%d","2020-01-01")),binwidth)):(strptime("%Y-%m-%d",strcol(1)) > strptime("%Y-%m-%d","2020-01-01") ? 1 : 1/0) smooth freq with boxes title '80-89',\
+""u ( $2<90 ? -1 : bin(1./(3600*24)*(strptime("%Y-%m-%d",strcol(1))-strptime("%Y-%m-%d","2020-01-01")),binwidth)):(strptime("%Y-%m-%d",strcol(1)) > strptime("%Y-%m-%d","2020-01-01") ? 1 : 1/0) smooth freq with boxes title '90-'
+

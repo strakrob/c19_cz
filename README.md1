@@ -72,6 +72,9 @@ Few lame BASH & AWK & GNUPLOT scripts that extract ORP, LAU level and other data
 ## Prevalence divided among age groups
 <img src="./prevalence_by_grp.png" width="1024"/><br>
 
+## Time evolution of deaths by age groups
+<img src="./deaths_by_grp.png" width="1024"/><br>
+
 ## Time evolution of deaths histograms
 <img src="./death_hist_evol.png" width="1024"/><br>
 
