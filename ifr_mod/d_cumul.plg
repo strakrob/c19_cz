@@ -4,7 +4,47 @@ set xrange [0:*]
 set xlabel 'days since 1.1.2020'
 set ylabel 'cumulative deaths'
 set xtics 0,14
+set term png enhanced truecolor lw 2 size 2048,1024
 
+td1=7
+td2=7
 
+pr2=.8
+set title '0-29'
+set output 'd0_29c.png'
+plot "d0_29d.dat" u 1:($1>0 ? $2 : 0) smooth cumulative w l lw 3 title 'reported',"d0_29p.dat" u ($1+td1):($1>0 ? $2 : 0) smooth cumulative w l lw 3 title sprintf("predicted (t+%dd)",td1),"" u ($1+td2):($1>0 ? pr2*($2) : 0) smooth cumulative w l lw 3 title sprintf("predicted%+-d%% (t+%dd)",100*(pr2-1),td2)
 
-plot "d_alld.dat" u 1:($1>0 ? $2 : 0) smooth cumulative w l lw 2 title 'reported',"d_allp.dat" u ($1+3):($1>0 ? $2 : 0) smooth cumulative w l lw 2 title 'predicted (t+3)',"d_allp.dat" u ($1+3):($1>0 ? 1.2*($2) : 0) smooth cumulative w l lw 2 title 'predicted+20% (t+3)'
+pr2=.95
+set title '30-39'
+set output 'd30_39c.png'
+plot "d30_39d.dat" u 1:($1>0 ? $2 : 0) smooth cumulative w l lw 3 title 'reported',"d30_39p.dat" u ($1+td1):($1>0 ? $2 : 0) smooth cumulative w l lw 3 title sprintf("predicted (t+%dd)",td1),"" u ($1+td2):($1>0 ? pr2*($2) : 0) smooth cumulative w l lw 3 title sprintf("predicted%+-d%% (t+%dd)",100*(pr2-1),td2)
+
+pr2=.7
+set title '40-49'
+set output 'd40_49c.png'
+plot "d40_49d.dat" u 1:($1>0 ? $2 : 0) smooth cumulative w l lw 3 title 'reported',"d40_49p.dat" u ($1+td1):($1>0 ? $2 : 0) smooth cumulative w l lw 3 title sprintf("predicted (t+%dd)",td1),"" u ($1+td2):($1>0 ? pr2*($2) : 0) smooth cumulative w l lw 3 title sprintf("predicted%+-d%% (t+%dd)",100*(pr2-1),td2)
+
+pr2=.8
+set title '50-59'
+set output 'd50_59c.png'
+plot "d50_59d.dat" u 1:($1>0 ? $2 : 0) smooth cumulative w l lw 3 title 'reported',"d50_59p.dat" u ($1+td1):($1>0 ? $2 : 0) smooth cumulative w l lw 3 title sprintf("predicted (t+%dd)",td1),"" u ($1+td2):($1>0 ? pr2*($2) : 0) smooth cumulative w l lw 3 title sprintf("predicted%+-d%% (t+%dd)",100*(pr2-1),td2)
+
+pr2=1.6
+set title '60-69'
+set output 'd60_69c.png'
+plot "d60_69d.dat" u 1:($1>0 ? $2 : 0) smooth cumulative w l lw 3 title 'reported',"d60_69p.dat" u ($1+td1):($1>0 ? $2 : 0) smooth cumulative w l lw 3 title sprintf("predicted (t+%dd)",td1),"" u ($1+td2):($1>0 ? pr2*($2) : 0) smooth cumulative w l lw 3 title sprintf("predicted%+-d%% (t+%dd)",100*(pr2-1),td2)
+
+pr2=1.95
+set title '70-79'
+set output 'd70_79c.png'
+plot "d70_79d.dat" u 1:($1>0 ? $2 : 0) smooth cumulative w l lw 3 title 'reported',"d70_79p.dat" u ($1+td1):($1>0 ? $2 : 0) smooth cumulative w l lw 3 title sprintf("predicted (t+%dd)",td1),"" u ($1+td2):($1>0 ? pr2*($2) : 0) smooth cumulative w l lw 3 title sprintf("predicted%+-d%% (t+%dd)",100*(pr2-1),td2)
+
+pr2=1.25
+set title '80-89'
+set output 'd80_89c.png'
+plot "d80_89d.dat" u 1:($1>0 ? $2 : 0) smooth cumulative w l lw 3 title 'reported',"d80_89p.dat" u ($1+td1):($1>0 ? $2 : 0) smooth cumulative w l lw 3 title sprintf("predicted (t+%dd)",td1),"" u ($1+td2):($1>0 ? pr2*($2) : 0) smooth cumulative w l lw 3 title sprintf("predicted%+-d%% (t+%dd)",100*(pr2-1),td2)
+
+pr2=.52
+set title '90+'
+set output 'd90c.png'
+plot "d90d.dat" u 1:($1>0 ? $2 : 0) smooth cumulative w l lw 3 title 'reported',"d90p.dat" u ($1+td1):($1>0 ? $2 : 0) smooth cumulative w l lw 3 title sprintf("predicted (t+%dd)",td1),"" u ($1+td2):($1>0 ? pr2*($2) : 0) smooth cumulative w l lw 3 title sprintf("predicted%+-d%% (t+%dd)",100*(pr2-1),td2)
