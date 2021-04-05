@@ -8,15 +8,16 @@ nafitovano a pouzito jako odhad pro CFR na datove rady z MZ/UZIS pro ruzne vekov
 cfr_wt(x) = (x<=29 ? IFR(x)*.8 : x<=39 ? IFR(x) : x<=49 ? IFR(x)*.7: x<=59 ? IFR(x)*.85 : x<=69 ? IFR(x)*1.6 : x<=79 ? IFR(x)*1.95 : x<=89 ? IFR(x)*1.25 : IFR(x)*.52)
 ```
 t.j. 'rucni optimalizaci & optickou konvergenci' sem dostal nasledujici koeficienty:<br>
-*vek      koeficient*<br>
-0-29     .8<br>
-30-39    1.<br>
-40-49    .7<br>
-50-59    .85<br>
-60-69    1.6<br>
-70-79    1.95<br>
-80-89    1.25<br>
-90+      .52<br>
+|*vek*| *koeficient*|
+|---|---|
+|0-29 |    .8|
+|30-39|    1.|
+|40-49|    .7|
+|50-59|    .85|
+|60-69|    1.6|
+|70-79|    1.95|
+|80-89|    1.25|
+|90+  |    .52|
 <br>
 od poloviny unora odhad prestava sledovat hlasene umrti, jedna z hypotez je prevladnuti mutace B.1.1.7?
 modifikovana CFR od 16.2.2021 (prenasobeno koeficientem zohlednujicim zvysene umrti vzhledem k incidenci)
@@ -25,14 +26,15 @@ cfr_B7(x) = (x<=29 ? IFR(x)*.8*1.35 : x<=39 ? IFR(x)*1.3 : x<=49 ? IFR(x)*.7*1.7
 ```
 druha sada koeficientu:<br>
 *vek*|*koeficient*|*celkovy koef. pro puvodni IFR*|
+|---|---|---|
 |0-29|     1.35   |     1.08|
 |30-39|    1.3    |     1.3|
 |40-49|    1.7    |     1.19|
-50-59    1.7         1.445<br>
-60-69    1.428       2.2848<br>
-70-79    1.3         2.535<br>
-80-89    1.3         1.625<br>
-90+      1.5         .78<br>
+|50-59|    1.7    |     1.445|
+|60-69|    1.428  |     2.2848|
+|70-79|    1.3    |     2.535|
+|80-89|    1.3    |     1.625|
+|90+  |    1.5    |     .78|
 <br>
 pocet umrti denne pro dany vek *A* v case *T* (pocet dni od zacatku 2020) je tedy odhadnut jako
 ```
