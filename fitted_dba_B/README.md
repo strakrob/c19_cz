@@ -21,13 +21,13 @@ t.j. 'rucni optimalizaci & optickou konvergenci' sem dostal nasledujici koeficie
 od poloviny unora odhad prestava sledovat hlasene umrti, jedna z hypotez je prevladnuti mutace B.1.1.7?
 modifikovana CFR od 16.2.2021 (prenasobeno koeficientem zohlednujicim zvysene umrti vzhledem k incidenci)
 ```
-cfr_B7(x) = (x<=29 ? db(x)*.8*1.35 : x<=39 ? db(x)*1.3 : x<=49 ? db(x)*.7*1.7: x<=59 ? db(x)*.85*1.7 : x<=69 ? db(x)*1.6*1.428 : x<=79 ? db(x)*1.95*1.3 : x<=89 ? db(x)*1.25*1.3 : db(x)*.52*1.5)
+cfr_B7(x) = (x<=29 ? IFR(x)*.8*1.35 : x<=39 ? IFR(x)*1.3 : x<=49 ? IFR(x)*.7*1.7: x<=59 ? IFR(x)*.85*1.7 : x<=69 ? IFR(x)*1.6*1.428 : x<=79 ? IFR(x)*1.95*1.3 : x<=89 ? IFR(x)*1.25*1.3 : IFR(x)*.52*1.5)
 ```
 druha sada koeficientu:<br>
-*vek      koeficient  celkovy koef. pro puvodni IFR*<br>
-0-29     1.35        1.08<br>
-30-39    1.3         1.3<br>
-40-49    1.7         1.19<br>
+*vek*|*koeficient*|*celkovy koef. pro puvodni IFR*|
+|0-29|     1.35   |     1.08|
+|30-39|    1.3    |     1.3|
+|40-49|    1.7    |     1.19|
 50-59    1.7         1.445<br>
 60-69    1.428       2.2848<br>
 70-79    1.3         2.535<br>
@@ -44,7 +44,7 @@ D(A,T) = INC(A,T-7)*CFR(A,T-7)
 CFR(A,T) = cfr_wt(A) pro 0<T<411
 CFR(A,T) = cfr_B7(A) pro T>411
 ```
-vykresy s porovnanim hlasenych / odhadnutych na zaklade nafitovane CFR umrti<br>
+vykresy s porovnanim umrti hlasenych vs. odhadnutych na zaklade nafitovane CFR<br>
 *pocet umrti/den 7denni prumer / pocet umrti/den / kumulativni pocty umrti*<br>
 <br>
 #vekova kategorie 0-29<br>
