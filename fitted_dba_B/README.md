@@ -1,4 +1,4 @@
-## IFR/CFR odhad umrti
+# IFR/CFR odhad umrti
 
 IFR z prace Levin et. al (2020) [doi: 10.1007/s10654-020-00698-1](http://doi.org/10.1007/s10654-020-00698-1)
 ```
@@ -47,32 +47,32 @@ D(A,T) = INC(A,T-7)*CFR(A,T-7)
 CFR(A,T) = cfr_wt(A) pro 0<T<411
 CFR(A,T) = cfr_B7(A) pro T>411
 ```
-## vykresy s porovnanim umrti hlasenych vs. odhadnutych na zaklade nafitovane CFR
+# vykresy s porovnanim umrti hlasenych vs. odhadnutych na zaklade nafitovane CFR
 *pocet umrti/den (7denni prumer) ;  pocet umrti/den ; kumulativni pocty umrti*
 
-# vekova kategorie 0-29
+## vekova kategorie 0-29
 <img src="./ad0_29.png" width="256"/><img src="./d0_29.png" width="256"/><img src="./d0_29c.png" width="256"/>
 
-# vekova kategorie 30-39
+## vekova kategorie 30-39
 <img src="./ad30_39.png" width="256"/><img src="./d30_39.png" width="256"/><img src="./d30_39c.png" width="256"/>
 
-# vekova kategorie 40-49
+## vekova kategorie 40-49
 <img src="./ad40_49.png" width="256"/><img src="./d40_49.png" width="256"/><img src="./d40_49c.png" width="256"/>
 
-# vekova kategorie 50-59
+## vekova kategorie 50-59
 <img src="./ad50_59.png" width="256"/><img src="./d50_59.png" width="256"/><img src="./d50_59c.png" width="256"/>
 
-# vekova kategorie 60-69
+## vekova kategorie 60-69
 <img src="./ad60_69.png" width="256"/><img src="./d60_69.png" width="256"/><img src="./d60_69c.png" width="256"/>
 
-# vekova kategorie 70-79
+## vekova kategorie 70-79
 <img src="./ad70_79.png" width="256"/><img src="./d70_79.png" width="256"/><img src="./d70_79c.png" width="256"/>
 
-# vekova kategorie 80-89
+## vekova kategorie 80-89
 <img src="./ad80_89.png" width="256"/><img src="./d80_89.png" width="256"/><img src="./d80_89c.png" width="256"/>
 
-# vekova kategorie 90+
+## vekova kategorie 90+
 <img src="./ad90.png" width="256"/><img src="./d90.png" width="256"/><img src="./d90c.png" width="256"/>
 
-# celkove
+## celkove
 <img src="./ad_all.png" width="256"/><img src="./d_all.png" width="256"/><img src="./dallc.png" width="256"/>
