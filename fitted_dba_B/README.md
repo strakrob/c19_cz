@@ -51,14 +51,13 @@ CFR(A,T) = cfr_B7(A) pro T>411
 *pocet umrti/den (7denni prumer) ;  pocet umrti/den ; kumulativni pocty umrti*
 
 # vekova kategorie 0-29
+
 <img src="./ad0_29.png" width="256"/>
 <img src="./d0_29.png" width="256"/>
 <img src="./d0_29c.png" width="256"/>
 
 # vekova kategorie 30-39
-<img src="./ad30_39.png" width="256"/>
-<img src="./d30_39.png" width="256"/>
-<img src="./d30_39c.png" width="256"/>
+<img src="./ad30_39.png" width="256"/><img src="./d30_39.png" width="256"/><img src="./d30_39c.png" width="256"/>
 
 # vekova kategorie 40-49
 <img src="./ad40_49.png" width="256"/>
