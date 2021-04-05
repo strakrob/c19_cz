@@ -25,7 +25,7 @@ modifikovana CFR od 16.2.2021 (prenasobeno koeficientem zohlednujicim zvysene um
 cfr_B7(x) = (x<=29 ? IFR(x)*.8*1.35 : x<=39 ? IFR(x)*1.3 : x<=49 ? IFR(x)*.7*1.7: x<=59 ? IFR(x)*.85*1.7 : x<=69 ? IFR(x)*1.6*1.428 : x<=79 ? IFR(x)*1.95*1.3 : x<=89 ? IFR(x)*1.25*1.3 : IFR(x)*.52*1.5)
 ```
 druha sada koeficientu:<br>
-*vek*|*koeficient*|*celkovy koef. pro puvodni IFR*|
+|*vek*|*koeficient*|*celkovy koef. pro puvodni IFR*|
 |---|---|---|
 |0-29|     1.35   |     1.08|
 |30-39|    1.3    |     1.3|
