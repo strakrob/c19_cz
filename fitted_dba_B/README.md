@@ -1,9 +1,9 @@
 ## IFR/CFR odhad umrti
 
 IFR z prace Levin et. al (2020) [doi: 10.1007/s10654-020-00698-1](http://doi.org/10.1007/s10654-020-00698-1)
-
-**IFR(age) = 10^(-3.27 + 0.0524 x age)/100**
-
+```
+IFR(AGE) = 10^(-3.27 + 0.0524*AGE)/100
+```
 nafitovano a pouzito jako odhad pro CFR na datove rady z MZ/UZIS pro ruzne vekove kategorie do 16.2.2021
 ```
 cfr_wt(x) = (x<=29 ? IFR(x)*.8 : x<=39 ? IFR(x) : x<=49 ? IFR(x)*.7: x<=59 ? IFR(x)*.85 : x<=69 ? IFR(x)*1.6 : x<=79 ? IFR(x)*1.95 : x<=89 ? IFR(x)*1.25 : IFR(x)*.52)
