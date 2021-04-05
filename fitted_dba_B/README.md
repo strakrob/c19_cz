@@ -1,5 +1,6 @@
 ## IFR/CFR odhad umrti
-IFR z prace Levin et. al (2020) doi: 10.1007/s10654-020-00698-1
+
+IFR z prace Levin et. al (2020) [doi: 10.1007/s10654-020-00698-1](http://doi.org/10.1007/s10654-020-00698-1)
 
 **IFR(age) = 10^(-3.27 + 0.0524 x age)/100**
 
