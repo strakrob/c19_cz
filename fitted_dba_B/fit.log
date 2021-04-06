@@ -1,0 +1,36 @@
+
+
+*******************************************************************************
+Tue Apr  6 00:10:46 2021
+
+
+FIT:    data read from 'd_dvspA.dat'
+        format = z
+        #datapoints = 380
+        residuals are weighted equally (unit weight)
+
+function used for fitting: l(x)
+	l(x)=a*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 6.2985138526e+04   0.00e+00  7.36e+01    1.000000e+00   1.000000e+00
+   4 6.0029272171e+04  -7.58e-04  7.36e-03    1.037066e+00  -1.683666e+00
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 60029.3
+rel. change during last iteration : -7.58359e-09
+
+degrees of freedom    (FIT_NDF)                        : 378
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 12.6019
+variance of residuals (reduced chisquare) = WSSR/ndf   : 158.808
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.03707          +/- 0.008592     (0.8285%)
+b               = -1.68367         +/- 0.8947       (53.14%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.691  1.000 

@@ -39,7 +39,7 @@ druha sada koeficientu:
 
 pocet umrti denne pro dany vek *A* v case *T* (pocet dni od zacatku 2020) je tedy odhadnut jako
 ```
-D(A,T) = INC(A,T-7)*CFR(A,T-7)
+D(A,T+7) = INC(A,T)*CFR(A,T)
 ```
 *INC(A,T)* je incidence pro vek *A* v case *T* (data z MZ/UZIS)
 *CRF(A,T)* je case fatality ratio pro vek *A* v case *T* tj
