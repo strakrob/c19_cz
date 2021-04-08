@@ -1,0 +1,14 @@
+CZ010 Praha
+CZ020 Stredocesky
+CZ031 Jihocesky
+CZ032 Plzensky
+CZ041 Karlovarsky
+CZ042 Ustecky
+CZ051 Liberecky
+CZ052 Kralovehradecky
+CZ053 Pardubicky
+CZ063 Vysocina
+CZ064 Jihomoravsky
+CZ071 Olomoucky
+CZ072 Zlinsky
+CZ080 Moravskoslezsky

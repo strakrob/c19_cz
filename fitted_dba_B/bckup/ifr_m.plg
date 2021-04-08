@@ -1,0 +1,75 @@
+binwidth=1
+bin(x,width)=width*floor(x/width)
+set key left
+set grid
+set xrange [0:*]
+set boxwidth binwidth
+set style fill transparent solid 0.5
+set xlabel 'days since 1.1.2020'
+set ylabel 'deaths/day'
+set xtics 0,14
+set term png enhanced truecolor lw 2 size 2048,1024
+
+a1=0
+a2=30
+set title '0-29'
+file="d0_29"
+set output sprintf("%s.png",file)
+plot sprintf("%sd.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'reported deaths',sprintf("%sp.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'CFR predicted deaths'
+
+a1=30
+a2=40
+set title '30-39'
+file="d30_39"
+set output sprintf("%s.png",file)
+plot sprintf("%sd.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'reported deaths',sprintf("%sp.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'CFR predicted deaths'
+
+a1=40
+a2=50
+set title '40-49'
+file="d40_49"
+set output sprintf("%s.png",file)
+plot sprintf("%sd.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'reported deaths',sprintf("%sp.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'CFR predicted deaths'
+
+a1=50
+a2=60
+set title '50-59'
+file="d50_59"
+set output sprintf("%s.png",file)
+plot sprintf("%sd.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'reported deaths',sprintf("%sp.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'CFR predicted deaths'
+
+a1=60
+a2=70
+set title '60-69'
+file="d60_69"
+set output sprintf("%s.png",file)
+plot sprintf("%sd.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'reported deaths',sprintf("%sp.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'CFR predicted deaths'
+
+a1=70
+a2=80
+set title '70-79'
+file="d70_79"
+set output sprintf("%s.png",file)
+plot sprintf("%sd.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'reported deaths',sprintf("%sp.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'CFR predicted deaths'
+
+a1=80
+a2=90
+set title '80-89'
+file="d80_89"
+set output sprintf("%s.png",file)
+plot sprintf("%sd.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'reported deaths',sprintf("%sp.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'CFR predicted deaths'
+
+a1=90
+a2=150
+set title '90+'
+file="d90"
+set output sprintf("%s.png",file)
+plot sprintf("%sd.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'reported deaths',sprintf("%sp.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'CFR predicted deaths'
+
+a1=0
+a2=150
+set title '0-150'
+file="d_all"
+set output sprintf("%s.png",file)
+plot sprintf("%sd.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'reported deaths',sprintf("%sp.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'CFR predicted deaths'
+

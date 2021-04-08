@@ -1,0 +1,93 @@
+#xtract vaccination doses
+binwidth=1
+bin(x,width)=width*floor(x/width)
+
+set boxwidth binwidth
+set datafile separator comma
+
+#day since 2020-01-01
+ds20(x)=1./(3600*24)*(strptime("%Y-%m-%d",x)-strptime("%Y-%m-%d","2020-01-01"))
+
+#date of extraction start
+t_start="2020-01-01"
+
+print "0-29"
+set title '0-29'
+set table "v0_29f.dat"
+plot "./vacc.csv"u ( $5=='0-17' || $5=='18-24' || $5=='25-29' ? bin(ds20(strcol(1)),binwidth):-1 ):( strptime("%Y-%m-%d",strcol(1)) > strptime("%Y-%m-%d",t_start) ? $6 : 1/0 ) smooth freq with boxes title '1st dose'
+unset table
+set table "v0_29s.dat"
+plot "./vacc.csv"u ( $5=='0-17' || $5=='18-24' || $5=='25-29' ? bin(ds20(strcol(1)),binwidth):-1 ):( strptime("%Y-%m-%d",strcol(1)) > strptime("%Y-%m-%d",t_start) ? $7 : 1/0 ) smooth freq with boxes title '2nd dose'
+unset table
+
+print "30-39"
+set title '30-39'
+set table "v30_39f.dat"
+plot "./vacc.csv"u ( $5=='30-34' || $5=='35-39' ? bin(ds20(strcol(1)),binwidth):-1 ):( strptime("%Y-%m-%d",strcol(1)) > strptime("%Y-%m-%d",t_start) ? $6 : 1/0 ) smooth freq with boxes title '1st dose'
+unset table
+set table "v30_39s.dat"
+plot "./vacc.csv"u ( $5=='30-34' || $5=='35-39' ? bin(ds20(strcol(1)),binwidth):-1 ):( strptime("%Y-%m-%d",strcol(1)) > strptime("%Y-%m-%d",t_start) ? $7 : 1/0 ) smooth freq with boxes title '2nd dose'
+unset table
+
+print "40-49"
+set title '40-49'
+set table "v40_49f.dat"
+plot "./vacc.csv"u ( $5=='40-44' || $5=='45-49' ? bin(ds20(strcol(1)),binwidth):-1 ):( strptime("%Y-%m-%d",strcol(1)) > strptime("%Y-%m-%d",t_start) ? $6 : 1/0 ) smooth freq with boxes title '1st dose'
+unset table
+set table "v40_49s.dat"
+plot "./vacc.csv"u ( $5=='40-44' || $5=='45-49' ? bin(ds20(strcol(1)),binwidth):-1 ):( strptime("%Y-%m-%d",strcol(1)) > strptime("%Y-%m-%d",t_start) ? $7 : 1/0 ) smooth freq with boxes title '2nd dose'
+unset table
+
+print "50-59"
+set title '50-59'
+set table "v50_59f.dat"
+plot "./vacc.csv"u ( $5=='50-54' || $5=='55-59' ? bin(ds20(strcol(1)),binwidth):-1 ):( strptime("%Y-%m-%d",strcol(1)) > strptime("%Y-%m-%d",t_start) ? $6 : 1/0 ) smooth freq with boxes title '1st dose'
+unset table
+set table "v50_59s.dat"
+plot "./vacc.csv"u ( $5=='50-54' || $5=='55-59' ? bin(ds20(strcol(1)),binwidth):-1 ):( strptime("%Y-%m-%d",strcol(1)) > strptime("%Y-%m-%d",t_start) ? $7 : 1/0 ) smooth freq with boxes title '2nd dose'
+unset table
+
+print "60-69"
+set title '60-69'
+set table "v60_69f.dat"
+plot "./vacc.csv"u ( $5=='60-64' || $5=='65-69' ? bin(ds20(strcol(1)),binwidth):-1 ):( strptime("%Y-%m-%d",strcol(1)) > strptime("%Y-%m-%d",t_start) ? $6 : 1/0 ) smooth freq with boxes title '1st dose'
+unset table
+set table "v60_69s.dat"
+plot "./vacc.csv"u ( $5=='60-64' || $5=='65-69' ? bin(ds20(strcol(1)),binwidth):-1 ):( strptime("%Y-%m-%d",strcol(1)) > strptime("%Y-%m-%d",t_start) ? $7 : 1/0 ) smooth freq with boxes title '2nd dose'
+unset table
+
+print "70-79"
+set title '70-79'
+set table "v70_79f.dat"
+plot "./vacc.csv"u ( $5=='70-74' || $5=='75-79' ? bin(ds20(strcol(1)),binwidth):-1 ):( strptime("%Y-%m-%d",strcol(1)) > strptime("%Y-%m-%d",t_start) ? $6 : 1/0 ) smooth freq with boxes title '1st dose'
+unset table
+set table "v70_79s.dat"
+plot "./vacc.csv"u ( $5=='70-74' || $5=='75-79' ? bin(ds20(strcol(1)),binwidth):-1 ):( strptime("%Y-%m-%d",strcol(1)) > strptime("%Y-%m-%d",t_start) ? $7 : 1/0 ) smooth freq with boxes title '2nd dose'
+unset table
+
+print "80+"
+set title '80+'
+set table "v80_89f.dat"
+plot "./vacc.csv"u ( $5=='80+' ? bin(ds20(strcol(1)),binwidth):-1 ):( strptime("%Y-%m-%d",strcol(1)) > strptime("%Y-%m-%d",t_start) ? $6 : 1/0 ) smooth freq with boxes title '1st dose'
+unset table
+set table "v80_89s.dat"
+plot "./vacc.csv"u ( $5=='80+' ? bin(ds20(strcol(1)),binwidth):-1 ):( strptime("%Y-%m-%d",strcol(1)) > strptime("%Y-%m-%d",t_start) ? $7 : 1/0 ) smooth freq with boxes title '2nd dose'
+unset table
+
+print "90+"
+set title '80+'
+set table "v90f.dat"
+plot "./vacc.csv"u ( $5=='80+' ? bin(ds20(strcol(1)),binwidth):-1 ):( strptime("%Y-%m-%d",strcol(1)) > strptime("%Y-%m-%d",t_start) ? $6 : 1/0 ) smooth freq with boxes title '1st dose'
+unset table
+set table "v90s.dat"
+plot "./vacc.csv"u ( $5=='80+' ? bin(ds20(strcol(1)),binwidth):-1 ):( strptime("%Y-%m-%d",strcol(1)) > strptime("%Y-%m-%d",t_start) ? $7 : 1/0 ) smooth freq with boxes title '2nd dose'
+unset table
+
+print "0-150"
+set title '0-150'
+set table "v_allf.dat"
+plot "./vacc.csv"u ( bin(ds20(strcol(1)),binwidth)):( strptime("%Y-%m-%d",strcol(1)) > strptime("%Y-%m-%d",t_start) ? $6 : 1/0 ) smooth freq with boxes title '1st dose'
+unset table
+set table "v_alls.dat"
+plot "./vacc.csv"u ( bin(ds20(strcol(1)),binwidth) ):( strptime("%Y-%m-%d",strcol(1)) > strptime("%Y-%m-%d",t_start) ? $7 : 1/0 ) smooth freq with boxes title '2nd dose'
+unset table

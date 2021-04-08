@@ -6,6 +6,7 @@ lauNamesShort=("Praha" "Benesov" "Beroun" "Kladno" "Kolin" "KutnaHora" "Melnik" 
 #get CSV data
 wget -O lau.csv https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/kraj-okres-nakazeni-vyleceni-umrti.csv
 wget -O umrti.csv https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/umrti.csv
+wget -O vacc.csv https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/ockovani.csv
 #get rid off stupid ^M
 awk '{sub(/\r/,"")}1' umrti.csv > umrti.csv1
 mv umrti.csv1 umrti.csv
