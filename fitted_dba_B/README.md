@@ -75,4 +75,4 @@ CFR(A,T) = cfr_B7(A) pro T>411
 <img src="./ad90.png" width="256"/><img src="./d90.png" width="256"/><img src="./d90c.png" width="256"/>
 
 ## celkove
-<img src="./ad_all.png" width="256"/><img src="./d_all.png" width="256"/><img src="./dallc.png" width="256"/>
+<img src="./ad_all.png" width="256"/><img src="./d_all.png" width="256"/><img src="./d_allc.png" width="256"/>
