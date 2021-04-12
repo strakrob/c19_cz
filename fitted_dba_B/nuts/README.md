@@ -3,20 +3,20 @@
 *pocet umrti/den (7denni prumer) ;  pocet umrti/den ; kumulativni pocty umrti*
 
 ## vekova kategorie 0-29
-Jihocesky      <img src="./Jihocesky/ad0_29.png" width="256"/><img src="./Jihocesky/d0_29.png" width="256"/><img src="./Jihocesky/d0_29c.png" width="256"/><br>
-Jihomoravsky   <img src="./Jihomoravsky/ad0_29.png" width="256"/><img src="./Jihomoravsky/d0_29.png" width="256"/><img src="./Jihomoravsky/d0_29c.png" width="256"/><br>
-Karlovarsky    <img src="./Karlovarsky/ad0_29.png" width="256"/><img src="./Karlovarsky/d0_29.png" width="256"/><img src="./Karlovarsky/d0_29c.png" width="256"/><br>
-Kralovehradecky<img src="./Kralovehradecky/ad0_29.png" width="256"/><img src="./Kralovehradecky/d0_29.png" width="256"/><img src="./Kralovehradecky/d0_29c.png" width="256"/><br>
-Liberecky      <img src="./Liberecky/ad0_29.png" width="256"/><img src="./Liberecky/d0_29.png" width="256"/><img src="./Liberecky/d0_29c.png" width="256"/><br>
-Moravskoslezsky<img src="./Moravskoslezsky/ad0_29.png" width="256"/><img src="./Moravskoslezsky/d0_29.png" width="256"/><img src="./Moravskoslezsky/d0_29c.png" width="256"/><br>
-Olomoucky      <img src="./Olomoucky/ad0_29.png" width="256"/><img src="./Olomoucky/d0_29.png" width="256"/><img src="./Olomoucky/d0_29c.png" width="256"/><br>
-Pardubicky     <img src="./Pardubicky/ad0_29.png" width="256"/><img src="./Pardubicky/d0_29.png" width="256"/><img src="./Pardubicky/d0_29c.png" width="256"/><br>
-Plzensky       <img src="./Plzensky/ad0_29.png" width="256"/><img src="./Plzensky/d0_29.png" width="256"/><img src="./Plzensky/d0_29c.png" width="256"/><br>
-Praha          <img src="./Praha/ad0_29.png" width="256"/><img src="./Praha/d0_29.png" width="256"/><img src="./Praha/d0_29c.png" width="256"/><br>
-Stredocesky    <img src="./Stredocesky/ad0_29.png" width="256"/><img src="./Stredocesky/d0_29.png" width="256"/><img src="./Stredocesky/d0_29c.png" width="256"/><br>
-Ustecky        <img src="./Ustecky/ad0_29.png" width="256"/><img src="./Ustecky/d0_29.png" width="256"/><img src="./Ustecky/d0_29c.png" width="256"/><br>
-Vysocina       <img src="./Vysocina/ad0_29.png" width="256"/><img src="./Vysocina/d0_29.png" width="256"/><img src="./Vysocina/d0_29c.png" width="256"/><br>
-Zlinsky        <img src="./Zlinsky/ad0_29.png" width="256"/><img src="./Zlinsky/d0_29.png" width="256"/><img src="./Zlinsky/d0_29c.png" width="256"/><br>
+Jihocesky      <br><img src="./Jihocesky/ad0_29.png" width="256"/><img src="./Jihocesky/d0_29.png" width="256"/><img src="./Jihocesky/d0_29c.png" width="256"/><br>
+Jihomoravsky   <br><img src="./Jihomoravsky/ad0_29.png" width="256"/><img src="./Jihomoravsky/d0_29.png" width="256"/><img src="./Jihomoravsky/d0_29c.png" width="256"/><br>
+Karlovarsky    <br><img src="./Karlovarsky/ad0_29.png" width="256"/><img src="./Karlovarsky/d0_29.png" width="256"/><img src="./Karlovarsky/d0_29c.png" width="256"/><br>
+Kralovehradecky<br><img src="./Kralovehradecky/ad0_29.png" width="256"/><img src="./Kralovehradecky/d0_29.png" width="256"/><img src="./Kralovehradecky/d0_29c.png" width="256"/><br>
+Liberecky      <br><img src="./Liberecky/ad0_29.png" width="256"/><img src="./Liberecky/d0_29.png" width="256"/><img src="./Liberecky/d0_29c.png" width="256"/><br>
+Moravskoslezsky<br><img src="./Moravskoslezsky/ad0_29.png" width="256"/><img src="./Moravskoslezsky/d0_29.png" width="256"/><img src="./Moravskoslezsky/d0_29c.png" width="256"/><br>
+Olomoucky      <br><img src="./Olomoucky/ad0_29.png" width="256"/><img src="./Olomoucky/d0_29.png" width="256"/><img src="./Olomoucky/d0_29c.png" width="256"/><br>
+Pardubicky     <br><img src="./Pardubicky/ad0_29.png" width="256"/><img src="./Pardubicky/d0_29.png" width="256"/><img src="./Pardubicky/d0_29c.png" width="256"/><br>
+Plzensky       <br><img src="./Plzensky/ad0_29.png" width="256"/><img src="./Plzensky/d0_29.png" width="256"/><img src="./Plzensky/d0_29c.png" width="256"/><br>
+Praha          <br><img src="./Praha/ad0_29.png" width="256"/><img src="./Praha/d0_29.png" width="256"/><img src="./Praha/d0_29c.png" width="256"/><br>
+Stredocesky    <br><img src="./Stredocesky/ad0_29.png" width="256"/><img src="./Stredocesky/d0_29.png" width="256"/><img src="./Stredocesky/d0_29c.png" width="256"/><br>
+Ustecky        <br><img src="./Ustecky/ad0_29.png" width="256"/><img src="./Ustecky/d0_29.png" width="256"/><img src="./Ustecky/d0_29c.png" width="256"/><br>
+Vysocina       <br><img src="./Vysocina/ad0_29.png" width="256"/><img src="./Vysocina/d0_29.png" width="256"/><img src="./Vysocina/d0_29c.png" width="256"/><br>
+Zlinsky        <br><img src="./Zlinsky/ad0_29.png" width="256"/><img src="./Zlinsky/d0_29.png" width="256"/><img src="./Zlinsky/d0_29c.png" width="256"/><br>
 
 
 ## vekova kategorie 30-39
