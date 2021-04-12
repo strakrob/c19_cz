@@ -205,7 +205,7 @@ max_vs = STATS_max_y > 0 ? STATS_max_y : 1
 max_v = (max_vf > max_vs ? max_vf : max_vs)
 cf = 0.1*max_d/max_v
 print init(0)
-plot [xmin:xmax] sprintf("d%sd.dat",file) u 1:($1>0 ? avg7($2) : 0*init(0)) w l lw 2 title 'reported',sprintf("d%spB7.dat",file) u 1:($1>0 ? avg7($2) : 0*init(0)) w l lw 2 title "CFR modelled(B7)",sprintf("d%sp.dat",file) u 1:($1>0 ? avg7($2) : 0*init(0)) w l lw 2 title "CFR modelled",sprintf("v%sf.dat",file) u 1:(-$2*cf) w boxes title '1st vac',sprintf("v%ss.dat",file) u 1:(-$2*cf) w boxes title '2nd vac'
+plot [xmin:xmax] sprintf("d%sd.dat",file) u 1:($1>0 ? avg7($2) : 0*init(0)) w l lw 2 title 'reported',1/0*init(0) notitle,sprintf("d%spB7.dat",file) u 1:($1>0 ? avg7($2) : 0*init(0)) w l lw 2 lt 2 title "CFR modelled(B7)",1/0*init(0)notitle,sprintf("d%sp.dat",file) u 1:($1>0 ? avg7($2) : 0*init(0)) w l lw 2 lt 3 title "CFR modelled",sprintf("v%sf.dat",file) u 1:(-$2*cf) w boxes lt 4 title '1st vac',sprintf("v%ss.dat",file) u 1:(-$2*cf) w boxes lt 5 title '2nd vac'
 print init(0)
 set table sprintf("ad%sd.dat",file)
 plot [xmin:xmax] sprintf("d%sd.dat",file) u 1:($1>0 ? avg7($2) : 0*init(0)) w l lw 2 title 'reported'
