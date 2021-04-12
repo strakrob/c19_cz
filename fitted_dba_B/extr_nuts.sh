@@ -3,9 +3,9 @@
 nutsList=("CZ010" "CZ020" "CZ031" "CZ032" "CZ041" "CZ042" "CZ051" "CZ052" "CZ053" "CZ063" "CZ064" "CZ071" "CZ072" "CZ080")
 nutsNames=("Praha" "Stredocesky" "Jihocesky" "Plzensky" "Karlovarsky" "Ustecky" "Liberecky" "Kralovehradecky" "Pardubicky" "Vysocina" "Jihomoravsky" "Olomoucky" "Zlinsky" "Moravskoslezsky")
 basedir="$PWD"
-#grep -v 'neza' ./../vacc.csv > ./vacc.csv
-#cp ./../osoby.csv ./osoby.csv
-#cp ./../umrti.csv ./umrti.csv
+grep -v 'neza' ./../vacc.csv > ./vacc.csv
+cp ./../osoby.csv ./osoby.csv
+cp ./../umrti.csv ./umrti.csv
 
 #extract data for nuts to apropriate files, compute differences, averages and plot them
 for nuts in ${nutsList[@]}
@@ -21,7 +21,7 @@ do
 #   mkdir -p ./nuts/$nutsn;
    grep $nuts ./umrti.csv > ./nuts/$nutsn/umrti.csv
    grep $nuts ./osoby.csv > ./nuts/$nutsn/osoby.csv
-   grep $nuts ./vacc.csv > ./nuts/$nutsn/vacc.tmp
+   grep $nuts ./vacc.csv > ./nuts/$nutsn/vacc.csv
 
 #FIXME remove after optimalization of CFR
    cp $basedir/nuts/cfr_mb.plg $basedir/nuts/$nutsn/

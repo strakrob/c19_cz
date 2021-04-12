@@ -24,7 +24,7 @@ stats [0:*] sprintf("v%ss.dat",file) u 1:2
 max_vs = STATS_max_y
 max_v = (max_vf > max_vs ? max_vf : max_vs)
 cf = 0.1*max_d/max_v
-plot sprintf("d%sd.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'reported deaths',sprintf("d%sp.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'CFR predicted deaths',sprintf("v%sf.dat",file) u 1:(-$2*cf) w boxes title '1st vac',sprintf("v%ss.dat",file) u 1:(-$2*cf) w boxes title '2nd vac'
+plot sprintf("d%sd.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'reported deaths',sprintf("d%spB7.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'CFR predicted deaths B.1.1.7',sprintf("d%sp.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'CFR predicted deaths',sprintf("v%sf.dat",file) u 1:(-$2*cf) w boxes title '1st vac',sprintf("v%ss.dat",file) u 1:(-$2*cf) w boxes title '2nd vac'
 
 a1=30
 a2=40
@@ -40,7 +40,7 @@ stats [0:*] sprintf("v%ss.dat",file) u 1:2
 max_vs = STATS_max_y
 max_v = (max_vf > max_vs ? max_vf : max_vs)
 cf = 0.1*max_d/max_v
-plot sprintf("d%sd.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'reported deaths',sprintf("d%sp.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'CFR predicted deaths',sprintf("v%sf.dat",file) u 1:(-$2*cf) w boxes title '1st vac',sprintf("v%ss.dat",file) u 1:(-$2*cf) w boxes title '2nd vac'
+plot sprintf("d%sd.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'reported deaths',sprintf("d%spB7.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'CFR predicted deaths B.1.1.7',sprintf("d%sp.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'CFR predicted deaths',sprintf("v%sf.dat",file) u 1:(-$2*cf) w boxes title '1st vac',sprintf("v%ss.dat",file) u 1:(-$2*cf) w boxes title '2nd vac'
 
 a1=40
 a2=50
@@ -56,7 +56,7 @@ stats [0:*] sprintf("v%ss.dat",file) u 1:2
 max_vs = STATS_max_y
 max_v = (max_vf > max_vs ? max_vf : max_vs)
 cf = 0.1*max_d/max_v
-plot sprintf("d%sd.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'reported deaths',sprintf("d%sp.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'CFR predicted deaths',sprintf("v%sf.dat",file) u 1:(-$2*cf) w boxes title '1st vac',sprintf("v%ss.dat",file) u 1:(-$2*cf) w boxes title '2nd vac'
+plot sprintf("d%sd.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'reported deaths',sprintf("d%spB7.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'CFR predicted deaths B.1.1.7',sprintf("d%sp.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'CFR predicted deaths',sprintf("v%sf.dat",file) u 1:(-$2*cf) w boxes title '1st vac',sprintf("v%ss.dat",file) u 1:(-$2*cf) w boxes title '2nd vac'
 
 a1=50
 a2=60
@@ -72,7 +72,7 @@ stats [0:*] sprintf("v%ss.dat",file) u 1:2
 max_vs = STATS_max_y
 max_v = (max_vf > max_vs ? max_vf : max_vs)
 cf = 0.1*max_d/max_v
-plot sprintf("d%sd.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'reported deaths',sprintf("d%sp.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'CFR predicted deaths',sprintf("v%sf.dat",file) u 1:(-$2*cf) w boxes title '1st vac',sprintf("v%ss.dat",file) u 1:(-$2*cf) w boxes title '2nd vac'
+plot sprintf("d%sd.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'reported deaths',sprintf("d%spB7.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'CFR predicted deaths B.1.1.7',sprintf("d%sp.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'CFR predicted deaths',sprintf("v%sf.dat",file) u 1:(-$2*cf) w boxes title '1st vac',sprintf("v%ss.dat",file) u 1:(-$2*cf) w boxes title '2nd vac'
 
 a1=60
 a2=70
@@ -88,7 +88,7 @@ stats [0:*] sprintf("v%ss.dat",file) u 1:2
 max_vs = STATS_max_y
 max_v = (max_vf > max_vs ? max_vf : max_vs)
 cf = 0.1*max_d/max_v
-plot sprintf("d%sd.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'reported deaths',sprintf("d%sp.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'CFR predicted deaths',sprintf("v%sf.dat",file) u 1:(-$2*cf) w boxes title '1st vac',sprintf("v%ss.dat",file) u 1:(-$2*cf) w boxes title '2nd vac'
+plot sprintf("d%sd.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'reported deaths',sprintf("d%spB7.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'CFR predicted deaths B.1.1.7',sprintf("d%sp.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'CFR predicted deaths',sprintf("v%sf.dat",file) u 1:(-$2*cf) w boxes title '1st vac',sprintf("v%ss.dat",file) u 1:(-$2*cf) w boxes title '2nd vac'
 
 a1=70
 a2=80
@@ -104,7 +104,7 @@ stats [0:*] sprintf("v%ss.dat",file) u 1:2
 max_vs = STATS_max_y
 max_v = (max_vf > max_vs ? max_vf : max_vs)
 cf = 0.1*max_d/max_v
-plot sprintf("d%sd.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'reported deaths',sprintf("d%sp.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'CFR predicted deaths',sprintf("v%sf.dat",file) u 1:(-$2*cf) w boxes title '1st vac',sprintf("v%ss.dat",file) u 1:(-$2*cf) w boxes title '2nd vac'
+plot sprintf("d%sd.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'reported deaths',sprintf("d%spB7.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'CFR predicted deaths B.1.1.7',sprintf("d%sp.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'CFR predicted deaths',sprintf("v%sf.dat",file) u 1:(-$2*cf) w boxes title '1st vac',sprintf("v%ss.dat",file) u 1:(-$2*cf) w boxes title '2nd vac'
 
 a1=80
 a2=90
@@ -119,7 +119,7 @@ stats [0:*] sprintf("v%ss.dat",file) u 1:2
 max_vs = STATS_max_y
 max_v = (max_vf > max_vs ? max_vf : max_vs)
 cf = 0.1*max_d/max_v
-plot sprintf("d%sd.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'reported deaths',sprintf("d%sp.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'CFR predicted deaths',sprintf("v%sf.dat",file) u 1:(-$2*cf) w boxes title '1st vac',sprintf("v%ss.dat",file) u 1:(-$2*cf) w boxes title '2nd vac'
+plot sprintf("d%sd.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'reported deaths',sprintf("d%spB7.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'CFR predicted deaths B.1.1.7',sprintf("d%sp.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'CFR predicted deaths',sprintf("v%sf.dat",file) u 1:(-$2*cf) w boxes title '1st vac',sprintf("v%ss.dat",file) u 1:(-$2*cf) w boxes title '2nd vac'
 
 a1=90
 a2=150
@@ -135,7 +135,7 @@ stats [0:*] sprintf("v%ss.dat",file) u 1:2
 max_vs = STATS_max_y
 max_v = (max_vf > max_vs ? max_vf : max_vs)
 cf = 0.1*max_d/max_v
-plot sprintf("d%sd.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'reported deaths',sprintf("d%sp.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'CFR predicted deaths',sprintf("v%sf.dat",file) u 1:(-$2*cf) w boxes title '1st vac',sprintf("v%ss.dat",file) u 1:(-$2*cf) w boxes title '2nd vac'
+plot sprintf("d%sd.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'reported deaths',sprintf("d%spB7.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'CFR predicted deaths B.1.1.7',sprintf("d%sp.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'CFR predicted deaths',sprintf("v%sf.dat",file) u 1:(-$2*cf) w boxes title '1st vac',sprintf("v%ss.dat",file) u 1:(-$2*cf) w boxes title '2nd vac'
 
 a1=0
 a2=150
@@ -151,4 +151,4 @@ stats [0:*] sprintf("v%ss.dat",file) u 1:2
 max_vs = STATS_max_y
 max_v = (max_vf > max_vs ? max_vf : max_vs)
 cf = 0.1*max_d/max_v
-plot sprintf("d%sd.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'reported deaths',sprintf("d%sp.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'CFR predicted deaths',sprintf("v%sf.dat",file) u 1:(-$2*cf) w boxes title '1st vac',sprintf("v%ss.dat",file) u 1:(-$2*cf) w boxes title '2nd vac'
+plot sprintf("d%sd.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'reported deaths',sprintf("d%spB7.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'CFR predicted deaths B.1.1.7',sprintf("d%sp.dat",file) u 1:($1>0 ? $2 : 1/0) w boxes title 'CFR predicted deaths',sprintf("v%sf.dat",file) u 1:(-$2*cf) w boxes title '1st vac',sprintf("v%ss.dat",file) u 1:(-$2*cf) w boxes title '2nd vac'
