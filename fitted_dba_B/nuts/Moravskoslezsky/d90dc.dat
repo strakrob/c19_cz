@@ -1,5 +1,5 @@
 
-# Curve 0 of 1, 159 points
+# Curve 0 of 1, 164 points
 # Curve title: ""d90d.dat" u 1:($1>0 ? $2 : 0)"
 # x y type
 -1  0  o
@@ -161,4 +161,9 @@
  457  324  i
  458  325  i
  459  326  i
+ 460  329  i
+ 461  330  i
+ 463  332  i
+ 464  333  i
+ 465  334  i
 

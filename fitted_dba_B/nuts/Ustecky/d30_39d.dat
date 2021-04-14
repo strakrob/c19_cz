@@ -1,8 +1,8 @@
 
-# Curve 0 of 1, 10 points
+# Curve 0 of 1, 11 points
 # Curve title: "reported deaths"
 # x y xlow xhigh type
--1  2166 -1 -1  i
+-1  2258 -1 -1  i
  295  1  295  295  i
  313  1  313  313  i
  316  1  316  316  i
@@ -11,5 +11,6 @@
  394  1  394  394  i
  418  1  418  418  i
  433  1  433  433  i
+ 466  1  466  466  i
 
 
