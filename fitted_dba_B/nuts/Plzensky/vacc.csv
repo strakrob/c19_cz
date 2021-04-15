@@ -87,7 +87,7 @@
 2021-01-08,Comirnaty,CZ032,"Plzeňský kraj",25-29,24,0,24
 2021-01-08,Comirnaty,CZ032,"Plzeňský kraj",30-34,26,0,26
 2021-01-08,Comirnaty,CZ032,"Plzeňský kraj",35-39,36,0,36
-2021-01-08,Comirnaty,CZ032,"Plzeňský kraj",40-44,50,0,50
+2021-01-08,Comirnaty,CZ032,"Plzeňský kraj",40-44,49,0,49
 2021-01-08,Comirnaty,CZ032,"Plzeňský kraj",45-49,55,0,55
 2021-01-08,Comirnaty,CZ032,"Plzeňský kraj",50-54,38,0,38
 2021-01-08,Comirnaty,CZ032,"Plzeňský kraj",55-59,31,0,31
@@ -436,7 +436,7 @@
 2021-02-05,Comirnaty,CZ032,"Plzeňský kraj",25-29,0,29,29
 2021-02-05,Comirnaty,CZ032,"Plzeňský kraj",30-34,0,24,24
 2021-02-05,Comirnaty,CZ032,"Plzeňský kraj",35-39,0,33,33
-2021-02-05,Comirnaty,CZ032,"Plzeňský kraj",40-44,0,43,43
+2021-02-05,Comirnaty,CZ032,"Plzeňský kraj",40-44,0,42,42
 2021-02-05,Comirnaty,CZ032,"Plzeňský kraj",45-49,0,55,55
 2021-02-05,Comirnaty,CZ032,"Plzeňský kraj",50-54,0,47,47
 2021-02-05,Comirnaty,CZ032,"Plzeňský kraj",55-59,0,25,25
@@ -1329,7 +1329,7 @@
 2021-03-15,VAXZEVRIA,CZ032,"Plzeňský kraj",75-79,111,0,111
 2021-03-15,VAXZEVRIA,CZ032,"Plzeňský kraj",80+,64,0,64
 2021-03-16,Comirnaty,CZ032,"Plzeňský kraj",18-24,16,6,22
-2021-03-16,Comirnaty,CZ032,"Plzeňský kraj",25-29,14,10,24
+2021-03-16,Comirnaty,CZ032,"Plzeňský kraj",25-29,15,10,25
 2021-03-16,Comirnaty,CZ032,"Plzeňský kraj",30-34,11,12,23
 2021-03-16,Comirnaty,CZ032,"Plzeňský kraj",35-39,17,14,31
 2021-03-16,Comirnaty,CZ032,"Plzeňský kraj",40-44,11,27,38
@@ -1351,7 +1351,7 @@
 2021-03-16,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",55-59,8,0,8
 2021-03-16,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",60-64,2,0,2
 2021-03-16,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",65-69,2,0,2
-2021-03-16,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",70-74,308,0,308
+2021-03-16,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",70-74,307,0,307
 2021-03-16,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",75-79,134,0,134
 2021-03-16,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",80+,19,0,19
 2021-03-16,VAXZEVRIA,CZ032,"Plzeňský kraj",18-24,1,0,1
@@ -1524,7 +1524,7 @@
 2021-03-22,Comirnaty,CZ032,"Plzeňský kraj",30-34,11,23,34
 2021-03-22,Comirnaty,CZ032,"Plzeňský kraj",35-39,19,29,48
 2021-03-22,Comirnaty,CZ032,"Plzeňský kraj",40-44,19,44,63
-2021-03-22,Comirnaty,CZ032,"Plzeňský kraj",45-49,21,57,78
+2021-03-22,Comirnaty,CZ032,"Plzeňský kraj",45-49,22,57,79
 2021-03-22,Comirnaty,CZ032,"Plzeňský kraj",50-54,22,55,77
 2021-03-22,Comirnaty,CZ032,"Plzeňský kraj",55-59,15,98,113
 2021-03-22,Comirnaty,CZ032,"Plzeňský kraj",60-64,16,71,87
@@ -1586,7 +1586,7 @@
 2021-03-23,VAXZEVRIA,CZ032,"Plzeňský kraj",80+,38,0,38
 2021-03-24,Comirnaty,CZ032,"Plzeňský kraj",0-17,0,3,3
 2021-03-24,Comirnaty,CZ032,"Plzeňský kraj",18-24,24,14,38
-2021-03-24,Comirnaty,CZ032,"Plzeňský kraj",25-29,24,25,49
+2021-03-24,Comirnaty,CZ032,"Plzeňský kraj",25-29,25,25,50
 2021-03-24,Comirnaty,CZ032,"Plzeňský kraj",30-34,33,36,69
 2021-03-24,Comirnaty,CZ032,"Plzeňský kraj",35-39,47,62,109
 2021-03-24,Comirnaty,CZ032,"Plzeňský kraj",40-44,51,99,150
@@ -1595,8 +1595,8 @@
 2021-03-24,Comirnaty,CZ032,"Plzeňský kraj",55-59,58,98,156
 2021-03-24,Comirnaty,CZ032,"Plzeňský kraj",60-64,46,154,200
 2021-03-24,Comirnaty,CZ032,"Plzeňský kraj",65-69,46,113,159
-2021-03-24,Comirnaty,CZ032,"Plzeňský kraj",70-74,389,112,501
-2021-03-24,Comirnaty,CZ032,"Plzeňský kraj",75-79,173,354,527
+2021-03-24,Comirnaty,CZ032,"Plzeňský kraj",70-74,391,112,503
+2021-03-24,Comirnaty,CZ032,"Plzeňský kraj",75-79,172,354,526
 2021-03-24,Comirnaty,CZ032,"Plzeňský kraj",80+,66,221,287
 2021-03-24,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",60-64,2,0,2
 2021-03-24,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",65-69,3,0,3
@@ -1606,7 +1606,7 @@
 2021-03-24,VAXZEVRIA,CZ032,"Plzeňský kraj",18-24,4,0,4
 2021-03-24,VAXZEVRIA,CZ032,"Plzeňský kraj",25-29,10,0,10
 2021-03-24,VAXZEVRIA,CZ032,"Plzeňský kraj",30-34,5,0,5
-2021-03-24,VAXZEVRIA,CZ032,"Plzeňský kraj",35-39,15,0,15
+2021-03-24,VAXZEVRIA,CZ032,"Plzeňský kraj",35-39,16,0,16
 2021-03-24,VAXZEVRIA,CZ032,"Plzeňský kraj",40-44,13,0,13
 2021-03-24,VAXZEVRIA,CZ032,"Plzeňský kraj",45-49,3,0,3
 2021-03-24,VAXZEVRIA,CZ032,"Plzeňský kraj",50-54,2,0,2
@@ -1726,7 +1726,7 @@
 2021-03-29,Comirnaty,CZ032,"Plzeňský kraj",55-59,24,109,133
 2021-03-29,Comirnaty,CZ032,"Plzeňský kraj",60-64,46,75,121
 2021-03-29,Comirnaty,CZ032,"Plzeňský kraj",65-69,61,65,126
-2021-03-29,Comirnaty,CZ032,"Plzeňský kraj",70-74,210,281,491
+2021-03-29,Comirnaty,CZ032,"Plzeňský kraj",70-74,210,282,492
 2021-03-29,Comirnaty,CZ032,"Plzeňský kraj",75-79,121,436,557
 2021-03-29,Comirnaty,CZ032,"Plzeňský kraj",80+,40,155,195
 2021-03-29,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",40-44,0,1,1
@@ -1753,7 +1753,7 @@
 2021-03-30,Comirnaty,CZ032,"Plzeňský kraj",35-39,26,52,78
 2021-03-30,Comirnaty,CZ032,"Plzeňský kraj",40-44,38,77,115
 2021-03-30,Comirnaty,CZ032,"Plzeňský kraj",45-49,39,93,132
-2021-03-30,Comirnaty,CZ032,"Plzeňský kraj",50-54,15,173,188
+2021-03-30,Comirnaty,CZ032,"Plzeňský kraj",50-54,15,174,189
 2021-03-30,Comirnaty,CZ032,"Plzeňský kraj",55-59,23,102,125
 2021-03-30,Comirnaty,CZ032,"Plzeňský kraj",60-64,32,172,204
 2021-03-30,Comirnaty,CZ032,"Plzeňský kraj",65-69,33,110,143
@@ -1769,7 +1769,7 @@
 2021-03-30,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",50-54,0,4,4
 2021-03-30,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",55-59,0,5,5
 2021-03-30,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",60-64,0,3,3
-2021-03-30,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",65-69,0,3,3
+2021-03-30,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",65-69,1,3,4
 2021-03-30,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",70-74,0,32,32
 2021-03-30,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",75-79,0,102,102
 2021-03-30,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",80+,0,47,47
@@ -1990,15 +1990,15 @@
 2021-04-07,VAXZEVRIA,CZ032,"Plzeňský kraj",65-69,55,0,55
 2021-04-07,VAXZEVRIA,CZ032,"Plzeňský kraj",70-74,159,0,159
 2021-04-07,VAXZEVRIA,CZ032,"Plzeňský kraj",75-79,104,0,104
-2021-04-07,VAXZEVRIA,CZ032,"Plzeňský kraj",80+,71,0,71
+2021-04-07,VAXZEVRIA,CZ032,"Plzeňský kraj",80+,72,0,72
 2021-04-08,Comirnaty,CZ032,"Plzeňský kraj",18-24,48,12,60
-2021-04-08,Comirnaty,CZ032,"Plzeňský kraj",25-29,57,9,66
+2021-04-08,Comirnaty,CZ032,"Plzeňský kraj",25-29,58,9,67
 2021-04-08,Comirnaty,CZ032,"Plzeňský kraj",30-34,70,9,79
 2021-04-08,Comirnaty,CZ032,"Plzeňský kraj",35-39,106,14,120
-2021-04-08,Comirnaty,CZ032,"Plzeňský kraj",40-44,121,22,143
+2021-04-08,Comirnaty,CZ032,"Plzeňský kraj",40-44,122,22,144
 2021-04-08,Comirnaty,CZ032,"Plzeňský kraj",45-49,143,29,172
 2021-04-08,Comirnaty,CZ032,"Plzeňský kraj",50-54,136,19,155
-2021-04-08,Comirnaty,CZ032,"Plzeňský kraj",55-59,117,26,143
+2021-04-08,Comirnaty,CZ032,"Plzeňský kraj",55-59,118,26,144
 2021-04-08,Comirnaty,CZ032,"Plzeňský kraj",60-64,106,17,123
 2021-04-08,Comirnaty,CZ032,"Plzeňský kraj",65-69,336,11,347
 2021-04-08,Comirnaty,CZ032,"Plzeňský kraj",70-74,979,53,1032
@@ -2019,14 +2019,14 @@
 2021-04-08,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",80+,8,12,20
 2021-04-08,VAXZEVRIA,CZ032,"Plzeňský kraj",30-34,2,0,2
 2021-04-08,VAXZEVRIA,CZ032,"Plzeňský kraj",35-39,1,0,1
-2021-04-08,VAXZEVRIA,CZ032,"Plzeňský kraj",40-44,3,0,3
+2021-04-08,VAXZEVRIA,CZ032,"Plzeňský kraj",40-44,4,0,4
 2021-04-08,VAXZEVRIA,CZ032,"Plzeňský kraj",45-49,6,0,6
-2021-04-08,VAXZEVRIA,CZ032,"Plzeňský kraj",50-54,5,0,5
+2021-04-08,VAXZEVRIA,CZ032,"Plzeňský kraj",50-54,6,0,6
 2021-04-08,VAXZEVRIA,CZ032,"Plzeňský kraj",55-59,15,0,15
 2021-04-08,VAXZEVRIA,CZ032,"Plzeňský kraj",60-64,25,0,25
-2021-04-08,VAXZEVRIA,CZ032,"Plzeňský kraj",65-69,83,0,83
-2021-04-08,VAXZEVRIA,CZ032,"Plzeňský kraj",70-74,219,0,219
-2021-04-08,VAXZEVRIA,CZ032,"Plzeňský kraj",75-79,190,0,190
+2021-04-08,VAXZEVRIA,CZ032,"Plzeňský kraj",65-69,85,0,85
+2021-04-08,VAXZEVRIA,CZ032,"Plzeňský kraj",70-74,218,0,218
+2021-04-08,VAXZEVRIA,CZ032,"Plzeňský kraj",75-79,193,0,193
 2021-04-08,VAXZEVRIA,CZ032,"Plzeňský kraj",80+,112,0,112
 2021-04-09,Comirnaty,CZ032,"Plzeňský kraj",0-17,1,2,3
 2021-04-09,Comirnaty,CZ032,"Plzeňský kraj",18-24,29,26,55
@@ -2053,7 +2053,7 @@
 2021-04-09,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",60-64,0,27,27
 2021-04-09,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",65-69,1,8,9
 2021-04-09,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",70-74,1,108,109
-2021-04-09,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",75-79,0,170,170
+2021-04-09,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",75-79,0,171,171
 2021-04-09,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",80+,1,89,90
 2021-04-09,VAXZEVRIA,CZ032,"Plzeňský kraj",25-29,3,0,3
 2021-04-09,VAXZEVRIA,CZ032,"Plzeňský kraj",30-34,4,0,4
@@ -2061,12 +2061,12 @@
 2021-04-09,VAXZEVRIA,CZ032,"Plzeňský kraj",40-44,2,0,2
 2021-04-09,VAXZEVRIA,CZ032,"Plzeňský kraj",45-49,5,0,5
 2021-04-09,VAXZEVRIA,CZ032,"Plzeňský kraj",50-54,8,0,8
-2021-04-09,VAXZEVRIA,CZ032,"Plzeňský kraj",55-59,15,0,15
-2021-04-09,VAXZEVRIA,CZ032,"Plzeňský kraj",60-64,36,0,36
-2021-04-09,VAXZEVRIA,CZ032,"Plzeňský kraj",65-69,74,0,74
-2021-04-09,VAXZEVRIA,CZ032,"Plzeňský kraj",70-74,188,0,188
-2021-04-09,VAXZEVRIA,CZ032,"Plzeňský kraj",75-79,152,0,152
-2021-04-09,VAXZEVRIA,CZ032,"Plzeňský kraj",80+,121,0,121
+2021-04-09,VAXZEVRIA,CZ032,"Plzeňský kraj",55-59,16,0,16
+2021-04-09,VAXZEVRIA,CZ032,"Plzeňský kraj",60-64,37,0,37
+2021-04-09,VAXZEVRIA,CZ032,"Plzeňský kraj",65-69,75,0,75
+2021-04-09,VAXZEVRIA,CZ032,"Plzeňský kraj",70-74,192,0,192
+2021-04-09,VAXZEVRIA,CZ032,"Plzeňský kraj",75-79,157,0,157
+2021-04-09,VAXZEVRIA,CZ032,"Plzeňský kraj",80+,127,0,127
 2021-04-10,Comirnaty,CZ032,"Plzeňský kraj",18-24,38,9,47
 2021-04-10,Comirnaty,CZ032,"Plzeňský kraj",25-29,48,14,62
 2021-04-10,Comirnaty,CZ032,"Plzeňský kraj",30-34,35,8,43
@@ -2130,13 +2130,13 @@
 2021-04-12,Comirnaty,CZ032,"Plzeňský kraj",30-34,19,12,31
 2021-04-12,Comirnaty,CZ032,"Plzeňský kraj",35-39,26,19,45
 2021-04-12,Comirnaty,CZ032,"Plzeňský kraj",40-44,36,20,56
-2021-04-12,Comirnaty,CZ032,"Plzeňský kraj",45-49,44,19,63
+2021-04-12,Comirnaty,CZ032,"Plzeňský kraj",45-49,44,20,64
 2021-04-12,Comirnaty,CZ032,"Plzeňský kraj",50-54,39,22,61
 2021-04-12,Comirnaty,CZ032,"Plzeňský kraj",55-59,103,14,117
 2021-04-12,Comirnaty,CZ032,"Plzeňský kraj",60-64,191,16,207
 2021-04-12,Comirnaty,CZ032,"Plzeňský kraj",65-69,239,33,272
 2021-04-12,Comirnaty,CZ032,"Plzeňský kraj",70-74,916,80,996
-2021-04-12,Comirnaty,CZ032,"Plzeňský kraj",75-79,138,271,409
+2021-04-12,Comirnaty,CZ032,"Plzeňský kraj",75-79,137,271,408
 2021-04-12,Comirnaty,CZ032,"Plzeňský kraj",80+,69,40,109
 2021-04-12,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",18-24,0,1,1
 2021-04-12,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",25-29,0,3,3
@@ -2155,47 +2155,86 @@
 2021-04-12,VAXZEVRIA,CZ032,"Plzeňský kraj",30-34,2,0,2
 2021-04-12,VAXZEVRIA,CZ032,"Plzeňský kraj",35-39,3,0,3
 2021-04-12,VAXZEVRIA,CZ032,"Plzeňský kraj",40-44,4,0,4
-2021-04-12,VAXZEVRIA,CZ032,"Plzeňský kraj",50-54,7,0,7
+2021-04-12,VAXZEVRIA,CZ032,"Plzeňský kraj",50-54,6,0,6
 2021-04-12,VAXZEVRIA,CZ032,"Plzeňský kraj",55-59,14,0,14
 2021-04-12,VAXZEVRIA,CZ032,"Plzeňský kraj",60-64,33,0,33
-2021-04-12,VAXZEVRIA,CZ032,"Plzeňský kraj",65-69,108,0,108
-2021-04-12,VAXZEVRIA,CZ032,"Plzeňský kraj",70-74,200,0,200
-2021-04-12,VAXZEVRIA,CZ032,"Plzeňský kraj",75-79,121,0,121
-2021-04-12,VAXZEVRIA,CZ032,"Plzeňský kraj",80+,78,0,78
+2021-04-12,VAXZEVRIA,CZ032,"Plzeňský kraj",65-69,109,0,109
+2021-04-12,VAXZEVRIA,CZ032,"Plzeňský kraj",70-74,203,0,203
+2021-04-12,VAXZEVRIA,CZ032,"Plzeňský kraj",75-79,129,0,129
+2021-04-12,VAXZEVRIA,CZ032,"Plzeňský kraj",80+,84,0,84
 2021-04-13,Comirnaty,CZ032,"Plzeňský kraj",0-17,0,2,2
 2021-04-13,Comirnaty,CZ032,"Plzeňský kraj",18-24,16,26,42
-2021-04-13,Comirnaty,CZ032,"Plzeňský kraj",25-29,10,13,23
+2021-04-13,Comirnaty,CZ032,"Plzeňský kraj",25-29,10,14,24
 2021-04-13,Comirnaty,CZ032,"Plzeňský kraj",30-34,12,19,31
 2021-04-13,Comirnaty,CZ032,"Plzeňský kraj",35-39,18,39,57
 2021-04-13,Comirnaty,CZ032,"Plzeňský kraj",40-44,32,47,79
-2021-04-13,Comirnaty,CZ032,"Plzeňský kraj",45-49,113,60,173
-2021-04-13,Comirnaty,CZ032,"Plzeňský kraj",50-54,70,51,121
-2021-04-13,Comirnaty,CZ032,"Plzeňský kraj",55-59,52,117,169
-2021-04-13,Comirnaty,CZ032,"Plzeňský kraj",60-64,83,34,117
-2021-04-13,Comirnaty,CZ032,"Plzeňský kraj",65-69,82,54,136
-2021-04-13,Comirnaty,CZ032,"Plzeňský kraj",70-74,413,384,797
-2021-04-13,Comirnaty,CZ032,"Plzeňský kraj",75-79,137,262,399
-2021-04-13,Comirnaty,CZ032,"Plzeňský kraj",80+,26,76,102
+2021-04-13,Comirnaty,CZ032,"Plzeňský kraj",45-49,115,61,176
+2021-04-13,Comirnaty,CZ032,"Plzeňský kraj",50-54,71,51,122
+2021-04-13,Comirnaty,CZ032,"Plzeňský kraj",55-59,57,117,174
+2021-04-13,Comirnaty,CZ032,"Plzeňský kraj",60-64,86,34,120
+2021-04-13,Comirnaty,CZ032,"Plzeňský kraj",65-69,89,55,144
+2021-04-13,Comirnaty,CZ032,"Plzeňský kraj",70-74,436,394,830
+2021-04-13,Comirnaty,CZ032,"Plzeňský kraj",75-79,139,264,403
+2021-04-13,Comirnaty,CZ032,"Plzeňský kraj",80+,26,77,103
 2021-04-13,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",18-24,0,5,5
 2021-04-13,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",25-29,0,2,2
 2021-04-13,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",30-34,0,5,5
 2021-04-13,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",35-39,0,15,15
-2021-04-13,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",40-44,2,23,25
-2021-04-13,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",45-49,4,24,28
-2021-04-13,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",50-54,1,18,19
+2021-04-13,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",40-44,2,25,27
+2021-04-13,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",45-49,5,25,30
+2021-04-13,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",50-54,1,22,23
 2021-04-13,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",55-59,0,8,8
-2021-04-13,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",60-64,2,3,5
-2021-04-13,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",65-69,5,4,9
-2021-04-13,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",70-74,2,276,278
-2021-04-13,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",75-79,1,138,139
-2021-04-13,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",80+,0,28,28
+2021-04-13,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",60-64,3,4,7
+2021-04-13,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",65-69,7,4,11
+2021-04-13,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",70-74,2,297,299
+2021-04-13,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",75-79,1,143,144
+2021-04-13,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",80+,0,29,29
 2021-04-13,VAXZEVRIA,CZ032,"Plzeňský kraj",30-34,1,0,1
+2021-04-13,VAXZEVRIA,CZ032,"Plzeňský kraj",35-39,1,0,1
 2021-04-13,VAXZEVRIA,CZ032,"Plzeňský kraj",40-44,1,0,1
 2021-04-13,VAXZEVRIA,CZ032,"Plzeňský kraj",45-49,5,0,5
-2021-04-13,VAXZEVRIA,CZ032,"Plzeňský kraj",50-54,3,0,3
+2021-04-13,VAXZEVRIA,CZ032,"Plzeňský kraj",50-54,4,0,4
 2021-04-13,VAXZEVRIA,CZ032,"Plzeňský kraj",55-59,11,0,11
-2021-04-13,VAXZEVRIA,CZ032,"Plzeňský kraj",60-64,25,0,25
-2021-04-13,VAXZEVRIA,CZ032,"Plzeňský kraj",65-69,90,0,90
-2021-04-13,VAXZEVRIA,CZ032,"Plzeňský kraj",70-74,117,0,117
-2021-04-13,VAXZEVRIA,CZ032,"Plzeňský kraj",75-79,82,0,82
-2021-04-13,VAXZEVRIA,CZ032,"Plzeňský kraj",80+,52,0,52
+2021-04-13,VAXZEVRIA,CZ032,"Plzeňský kraj",60-64,29,0,29
+2021-04-13,VAXZEVRIA,CZ032,"Plzeňský kraj",65-69,101,0,101
+2021-04-13,VAXZEVRIA,CZ032,"Plzeňský kraj",70-74,134,0,134
+2021-04-13,VAXZEVRIA,CZ032,"Plzeňský kraj",75-79,92,0,92
+2021-04-13,VAXZEVRIA,CZ032,"Plzeňský kraj",80+,55,0,55
+2021-04-14,Comirnaty,CZ032,"Plzeňský kraj",18-24,13,21,34
+2021-04-14,Comirnaty,CZ032,"Plzeňský kraj",25-29,6,19,25
+2021-04-14,Comirnaty,CZ032,"Plzeňský kraj",30-34,19,30,49
+2021-04-14,Comirnaty,CZ032,"Plzeňský kraj",35-39,15,39,54
+2021-04-14,Comirnaty,CZ032,"Plzeňský kraj",40-44,40,44,84
+2021-04-14,Comirnaty,CZ032,"Plzeňský kraj",45-49,91,53,144
+2021-04-14,Comirnaty,CZ032,"Plzeňský kraj",50-54,77,43,120
+2021-04-14,Comirnaty,CZ032,"Plzeňský kraj",55-59,79,60,139
+2021-04-14,Comirnaty,CZ032,"Plzeňský kraj",60-64,108,40,148
+2021-04-14,Comirnaty,CZ032,"Plzeňský kraj",65-69,162,46,208
+2021-04-14,Comirnaty,CZ032,"Plzeňský kraj",70-74,744,360,1104
+2021-04-14,Comirnaty,CZ032,"Plzeňský kraj",75-79,143,170,313
+2021-04-14,Comirnaty,CZ032,"Plzeňský kraj",80+,38,68,106
+2021-04-14,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",18-24,0,1,1
+2021-04-14,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",25-29,3,3,6
+2021-04-14,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",30-34,2,8,10
+2021-04-14,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",35-39,0,7,7
+2021-04-14,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",40-44,1,20,21
+2021-04-14,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",45-49,4,17,21
+2021-04-14,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",50-54,1,10,11
+2021-04-14,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",55-59,2,4,6
+2021-04-14,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",60-64,0,4,4
+2021-04-14,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",65-69,5,5,10
+2021-04-14,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",70-74,0,279,279
+2021-04-14,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",75-79,0,134,134
+2021-04-14,"COVID-19 Vaccine Moderna",CZ032,"Plzeňský kraj",80+,0,32,32
+2021-04-14,VAXZEVRIA,CZ032,"Plzeňský kraj",18-24,2,0,2
+2021-04-14,VAXZEVRIA,CZ032,"Plzeňský kraj",30-34,1,0,1
+2021-04-14,VAXZEVRIA,CZ032,"Plzeňský kraj",35-39,0,1,1
+2021-04-14,VAXZEVRIA,CZ032,"Plzeňský kraj",40-44,6,0,6
+2021-04-14,VAXZEVRIA,CZ032,"Plzeňský kraj",45-49,7,0,7
+2021-04-14,VAXZEVRIA,CZ032,"Plzeňský kraj",50-54,6,1,7
+2021-04-14,VAXZEVRIA,CZ032,"Plzeňský kraj",55-59,9,0,9
+2021-04-14,VAXZEVRIA,CZ032,"Plzeňský kraj",60-64,39,1,40
+2021-04-14,VAXZEVRIA,CZ032,"Plzeňský kraj",65-69,117,1,118
+2021-04-14,VAXZEVRIA,CZ032,"Plzeňský kraj",70-74,115,0,115
+2021-04-14,VAXZEVRIA,CZ032,"Plzeňský kraj",75-79,70,2,72
+2021-04-14,VAXZEVRIA,CZ032,"Plzeňský kraj",80+,66,5,71

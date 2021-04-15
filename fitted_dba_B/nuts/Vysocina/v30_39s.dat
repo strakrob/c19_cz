@@ -1,8 +1,8 @@
 
-# Curve 0 of 1, 93 points
+# Curve 0 of 1, 94 points
 # Curve title: "2nd dose"
 # x y xlow xhigh type
--1  34251 -1 -1  i
+-1  36034 -1 -1  i
  366  0  366  366  i
  367  0  367  367  i
  368  0  368  368  i
@@ -94,5 +94,6 @@
  466  1  466  466  i
  467  6  467  467  i
  468  41  468  468  i
+ 469  38  469  469  i
 
 

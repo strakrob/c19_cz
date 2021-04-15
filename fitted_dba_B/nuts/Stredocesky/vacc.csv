@@ -31,8 +31,8 @@
 2021-01-04,Comirnaty,CZ020,"Středočeský kraj",55-59,18,0,18
 2021-01-04,Comirnaty,CZ020,"Středočeský kraj",60-64,9,0,9
 2021-01-04,Comirnaty,CZ020,"Středočeský kraj",65-69,6,0,6
-2021-01-04,Comirnaty,CZ020,"Středočeský kraj",70-74,2,0,2
-2021-01-04,Comirnaty,CZ020,"Středočeský kraj",75-79,1,0,1
+2021-01-04,Comirnaty,CZ020,"Středočeský kraj",70-74,3,0,3
+2021-01-04,Comirnaty,CZ020,"Středočeský kraj",75-79,2,0,2
 2021-01-05,Comirnaty,CZ020,"Středočeský kraj",18-24,5,0,5
 2021-01-05,Comirnaty,CZ020,"Středočeský kraj",25-29,14,0,14
 2021-01-05,Comirnaty,CZ020,"Středočeský kraj",30-34,29,0,29
@@ -207,7 +207,7 @@
 2021-01-20,Comirnaty,CZ020,"Středočeský kraj",40-44,117,0,117
 2021-01-20,Comirnaty,CZ020,"Středočeský kraj",45-49,159,0,159
 2021-01-20,Comirnaty,CZ020,"Středočeský kraj",50-54,177,0,177
-2021-01-20,Comirnaty,CZ020,"Středočeský kraj",55-59,129,0,129
+2021-01-20,Comirnaty,CZ020,"Středočeský kraj",55-59,130,0,130
 2021-01-20,Comirnaty,CZ020,"Středočeský kraj",60-64,99,0,99
 2021-01-20,Comirnaty,CZ020,"Středočeský kraj",65-69,70,0,70
 2021-01-20,Comirnaty,CZ020,"Středočeský kraj",70-74,44,0,44
@@ -264,8 +264,8 @@
 2021-01-25,Comirnaty,CZ020,"Středočeský kraj",55-59,72,17,89
 2021-01-25,Comirnaty,CZ020,"Středočeský kraj",60-64,54,8,62
 2021-01-25,Comirnaty,CZ020,"Středočeský kraj",65-69,44,6,50
-2021-01-25,Comirnaty,CZ020,"Středočeský kraj",70-74,30,2,32
-2021-01-25,Comirnaty,CZ020,"Středočeský kraj",75-79,20,1,21
+2021-01-25,Comirnaty,CZ020,"Středočeský kraj",70-74,30,3,33
+2021-01-25,Comirnaty,CZ020,"Středočeský kraj",75-79,20,2,22
 2021-01-25,Comirnaty,CZ020,"Středočeský kraj",80+,188,0,188
 2021-01-26,Comirnaty,CZ020,"Středočeský kraj",18-24,28,6,34
 2021-01-26,Comirnaty,CZ020,"Středočeský kraj",25-29,38,15,53
@@ -311,7 +311,7 @@
 2021-01-29,Comirnaty,CZ020,"Středočeský kraj",25-29,14,87,101
 2021-01-29,Comirnaty,CZ020,"Středočeský kraj",30-34,18,78,96
 2021-01-29,Comirnaty,CZ020,"Středočeský kraj",35-39,30,107,137
-2021-01-29,Comirnaty,CZ020,"Středočeský kraj",40-44,54,167,221
+2021-01-29,Comirnaty,CZ020,"Středočeský kraj",40-44,54,168,222
 2021-01-29,Comirnaty,CZ020,"Středočeský kraj",45-49,101,180,281
 2021-01-29,Comirnaty,CZ020,"Středočeský kraj",50-54,59,121,180
 2021-01-29,Comirnaty,CZ020,"Středočeský kraj",55-59,66,118,184
@@ -458,7 +458,7 @@
 2021-02-08,Comirnaty,CZ020,"Středočeský kraj",65-69,12,84,96
 2021-02-08,Comirnaty,CZ020,"Středočeský kraj",70-74,10,64,74
 2021-02-08,Comirnaty,CZ020,"Středočeský kraj",75-79,22,28,50
-2021-02-08,Comirnaty,CZ020,"Středočeský kraj",80+,163,176,339
+2021-02-08,Comirnaty,CZ020,"Středočeský kraj",80+,164,176,340
 2021-02-08,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",25-29,1,0,1
 2021-02-08,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",30-34,2,0,2
 2021-02-08,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",40-44,2,0,2
@@ -563,7 +563,7 @@
 2021-02-12,Comirnaty,CZ020,"Středočeský kraj",25-29,15,44,59
 2021-02-12,Comirnaty,CZ020,"Středočeský kraj",30-34,9,65,74
 2021-02-12,Comirnaty,CZ020,"Středočeský kraj",35-39,25,68,93
-2021-02-12,Comirnaty,CZ020,"Středočeský kraj",40-44,25,127,152
+2021-02-12,Comirnaty,CZ020,"Středočeský kraj",40-44,25,128,153
 2021-02-12,Comirnaty,CZ020,"Středočeský kraj",45-49,30,150,180
 2021-02-12,Comirnaty,CZ020,"Středočeský kraj",50-54,38,129,167
 2021-02-12,Comirnaty,CZ020,"Středočeský kraj",55-59,34,120,154
@@ -778,7 +778,7 @@
 2021-02-19,Comirnaty,CZ020,"Středočeský kraj",65-69,33,24,57
 2021-02-19,Comirnaty,CZ020,"Středočeský kraj",70-74,27,26,53
 2021-02-19,Comirnaty,CZ020,"Středočeský kraj",75-79,44,28,72
-2021-02-19,Comirnaty,CZ020,"Středočeský kraj",80+,709,253,962
+2021-02-19,Comirnaty,CZ020,"Středočeský kraj",80+,709,254,963
 2021-02-19,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",75-79,2,0,2
 2021-02-19,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",80+,56,0,56
 2021-02-19,VAXZEVRIA,CZ020,"Středočeský kraj",18-24,4,0,4
@@ -1081,7 +1081,7 @@
 2021-03-01,Comirnaty,CZ020,"Středočeský kraj",65-69,131,10,141
 2021-03-01,Comirnaty,CZ020,"Středočeský kraj",70-74,165,17,182
 2021-03-01,Comirnaty,CZ020,"Středočeský kraj",75-79,99,37,136
-2021-03-01,Comirnaty,CZ020,"Středočeský kraj",80+,517,241,758
+2021-03-01,Comirnaty,CZ020,"Středočeský kraj",80+,517,242,759
 2021-03-01,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",18-24,4,0,4
 2021-03-01,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",25-29,16,0,16
 2021-03-01,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",30-34,14,0,14
@@ -1118,7 +1118,7 @@
 2021-03-02,Comirnaty,CZ020,"Středočeský kraj",55-59,355,15,370
 2021-03-02,Comirnaty,CZ020,"Středočeský kraj",60-64,286,5,291
 2021-03-02,Comirnaty,CZ020,"Středočeský kraj",65-69,108,9,117
-2021-03-02,Comirnaty,CZ020,"Středočeský kraj",70-74,186,7,193
+2021-03-02,Comirnaty,CZ020,"Středočeský kraj",70-74,187,7,194
 2021-03-02,Comirnaty,CZ020,"Středočeský kraj",75-79,170,9,179
 2021-03-02,Comirnaty,CZ020,"Středočeský kraj",80+,481,92,573
 2021-03-02,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",18-24,1,0,1
@@ -1156,7 +1156,7 @@
 2021-03-03,Comirnaty,CZ020,"Středočeský kraj",70-74,293,6,299
 2021-03-03,Comirnaty,CZ020,"Středočeský kraj",75-79,188,2,190
 2021-03-03,Comirnaty,CZ020,"Středočeský kraj",80+,266,54,320
-2021-03-03,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",25-29,1,4,5
+2021-03-03,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",25-29,2,4,6
 2021-03-03,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",30-34,1,1,2
 2021-03-03,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",35-39,4,4,8
 2021-03-03,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",40-44,3,10,13
@@ -1369,9 +1369,9 @@
 2021-03-09,Comirnaty,CZ020,"Středočeský kraj",50-54,112,33,145
 2021-03-09,Comirnaty,CZ020,"Středočeský kraj",55-59,116,41,157
 2021-03-09,Comirnaty,CZ020,"Středočeský kraj",60-64,91,21,112
-2021-03-09,Comirnaty,CZ020,"Středočeský kraj",65-69,58,9,67
+2021-03-09,Comirnaty,CZ020,"Středočeský kraj",65-69,59,9,68
 2021-03-09,Comirnaty,CZ020,"Středočeský kraj",70-74,680,13,693
-2021-03-09,Comirnaty,CZ020,"Středočeský kraj",75-79,1446,17,1463
+2021-03-09,Comirnaty,CZ020,"Středočeský kraj",75-79,1448,17,1465
 2021-03-09,Comirnaty,CZ020,"Středočeský kraj",80+,316,156,472
 2021-03-09,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",18-24,0,1,1
 2021-03-09,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",25-29,2,1,3
@@ -1404,7 +1404,7 @@
 2021-03-10,Comirnaty,CZ020,"Středočeský kraj",25-29,87,27,114
 2021-03-10,Comirnaty,CZ020,"Středočeský kraj",30-34,107,37,144
 2021-03-10,Comirnaty,CZ020,"Středočeský kraj",35-39,198,48,246
-2021-03-10,Comirnaty,CZ020,"Středočeský kraj",40-44,269,79,348
+2021-03-10,Comirnaty,CZ020,"Středočeský kraj",40-44,271,79,350
 2021-03-10,Comirnaty,CZ020,"Středočeský kraj",45-49,181,85,266
 2021-03-10,Comirnaty,CZ020,"Středočeský kraj",50-54,131,60,191
 2021-03-10,Comirnaty,CZ020,"Středočeský kraj",55-59,146,39,185
@@ -1481,10 +1481,10 @@
 2021-03-12,Comirnaty,CZ020,"Středočeský kraj",25-29,70,19,89
 2021-03-12,Comirnaty,CZ020,"Středočeský kraj",30-34,85,21,106
 2021-03-12,Comirnaty,CZ020,"Středočeský kraj",35-39,116,27,143
-2021-03-12,Comirnaty,CZ020,"Středočeský kraj",40-44,236,40,276
+2021-03-12,Comirnaty,CZ020,"Středočeský kraj",40-44,237,40,277
 2021-03-12,Comirnaty,CZ020,"Středočeský kraj",45-49,198,55,253
 2021-03-12,Comirnaty,CZ020,"Středočeský kraj",50-54,138,44,182
-2021-03-12,Comirnaty,CZ020,"Středočeský kraj",55-59,109,51,160
+2021-03-12,Comirnaty,CZ020,"Středočeský kraj",55-59,110,51,161
 2021-03-12,Comirnaty,CZ020,"Středočeský kraj",60-64,94,32,126
 2021-03-12,Comirnaty,CZ020,"Středočeský kraj",65-69,104,39,143
 2021-03-12,Comirnaty,CZ020,"Středočeský kraj",70-74,1084,38,1122
@@ -1555,7 +1555,7 @@
 2021-03-14,Comirnaty,CZ020,"Středočeský kraj",18-24,13,1,14
 2021-03-14,Comirnaty,CZ020,"Středočeský kraj",25-29,15,3,18
 2021-03-14,Comirnaty,CZ020,"Středočeský kraj",30-34,25,0,25
-2021-03-14,Comirnaty,CZ020,"Středočeský kraj",35-39,40,6,46
+2021-03-14,Comirnaty,CZ020,"Středočeský kraj",35-39,41,6,47
 2021-03-14,Comirnaty,CZ020,"Středočeský kraj",40-44,35,4,39
 2021-03-14,Comirnaty,CZ020,"Středočeský kraj",45-49,28,2,30
 2021-03-14,Comirnaty,CZ020,"Středočeský kraj",50-54,21,3,24
@@ -1594,22 +1594,22 @@
 2021-03-15,Comirnaty,CZ020,"Středočeský kraj",55-59,66,6,72
 2021-03-15,Comirnaty,CZ020,"Středočeský kraj",60-64,69,4,73
 2021-03-15,Comirnaty,CZ020,"Středočeský kraj",65-69,81,7,88
-2021-03-15,Comirnaty,CZ020,"Středočeský kraj",70-74,731,10,741
+2021-03-15,Comirnaty,CZ020,"Středočeský kraj",70-74,732,10,742
 2021-03-15,Comirnaty,CZ020,"Středočeský kraj",75-79,871,9,880
 2021-03-15,Comirnaty,CZ020,"Středočeský kraj",80+,127,503,630
 2021-03-15,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",18-24,7,0,7
 2021-03-15,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",25-29,7,0,7
-2021-03-15,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",30-34,16,1,17
+2021-03-15,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",30-34,17,1,18
 2021-03-15,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",35-39,27,3,30
-2021-03-15,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",40-44,44,4,48
-2021-03-15,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",45-49,44,8,52
-2021-03-15,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",50-54,24,2,26
-2021-03-15,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",55-59,29,2,31
-2021-03-15,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",60-64,19,4,23
-2021-03-15,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",65-69,21,9,30
-2021-03-15,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",70-74,265,15,280
-2021-03-15,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",75-79,137,21,158
-2021-03-15,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",80+,49,683,732
+2021-03-15,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",40-44,47,4,51
+2021-03-15,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",45-49,48,8,56
+2021-03-15,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",50-54,29,2,31
+2021-03-15,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",55-59,33,2,35
+2021-03-15,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",60-64,24,4,28
+2021-03-15,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",65-69,25,9,34
+2021-03-15,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",70-74,279,15,294
+2021-03-15,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",75-79,157,21,178
+2021-03-15,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",80+,55,683,738
 2021-03-15,VAXZEVRIA,CZ020,"Středočeský kraj",18-24,5,0,5
 2021-03-15,VAXZEVRIA,CZ020,"Středočeský kraj",25-29,3,0,3
 2021-03-15,VAXZEVRIA,CZ020,"Středočeský kraj",30-34,3,0,3
@@ -1634,7 +1634,7 @@
 2021-03-16,Comirnaty,CZ020,"Středočeský kraj",65-69,67,14,81
 2021-03-16,Comirnaty,CZ020,"Středočeský kraj",70-74,1168,10,1178
 2021-03-16,Comirnaty,CZ020,"Středočeský kraj",75-79,906,6,912
-2021-03-16,Comirnaty,CZ020,"Středočeský kraj",80+,217,538,755
+2021-03-16,Comirnaty,CZ020,"Středočeský kraj",80+,218,538,756
 2021-03-16,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",18-24,10,1,11
 2021-03-16,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",25-29,15,2,17
 2021-03-16,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",30-34,17,3,20
@@ -1652,7 +1652,7 @@
 2021-03-16,VAXZEVRIA,CZ020,"Středočeský kraj",30-34,2,0,2
 2021-03-16,VAXZEVRIA,CZ020,"Středočeský kraj",35-39,2,0,2
 2021-03-16,VAXZEVRIA,CZ020,"Středočeský kraj",40-44,2,0,2
-2021-03-16,VAXZEVRIA,CZ020,"Středočeský kraj",45-49,4,0,4
+2021-03-16,VAXZEVRIA,CZ020,"Středočeský kraj",45-49,5,0,5
 2021-03-16,VAXZEVRIA,CZ020,"Středočeský kraj",50-54,9,0,9
 2021-03-16,VAXZEVRIA,CZ020,"Středočeský kraj",55-59,5,0,5
 2021-03-16,VAXZEVRIA,CZ020,"Středočeský kraj",60-64,5,0,5
@@ -1661,32 +1661,32 @@
 2021-03-16,VAXZEVRIA,CZ020,"Středočeský kraj",75-79,165,0,165
 2021-03-16,VAXZEVRIA,CZ020,"Středočeský kraj",80+,45,0,45
 2021-03-17,Comirnaty,CZ020,"Středočeský kraj",0-17,1,0,1
-2021-03-17,Comirnaty,CZ020,"Středočeský kraj",18-24,28,1,29
+2021-03-17,Comirnaty,CZ020,"Středočeský kraj",18-24,29,1,30
 2021-03-17,Comirnaty,CZ020,"Středočeský kraj",25-29,25,1,26
 2021-03-17,Comirnaty,CZ020,"Středočeský kraj",30-34,28,3,31
 2021-03-17,Comirnaty,CZ020,"Středočeský kraj",35-39,44,10,54
 2021-03-17,Comirnaty,CZ020,"Středočeský kraj",40-44,54,6,60
-2021-03-17,Comirnaty,CZ020,"Středočeský kraj",45-49,64,11,75
+2021-03-17,Comirnaty,CZ020,"Středočeský kraj",45-49,63,11,74
 2021-03-17,Comirnaty,CZ020,"Středočeský kraj",50-54,67,16,83
-2021-03-17,Comirnaty,CZ020,"Středočeský kraj",55-59,83,6,89
-2021-03-17,Comirnaty,CZ020,"Středočeský kraj",60-64,60,7,67
+2021-03-17,Comirnaty,CZ020,"Středočeský kraj",55-59,82,6,88
+2021-03-17,Comirnaty,CZ020,"Středočeský kraj",60-64,59,7,66
 2021-03-17,Comirnaty,CZ020,"Středočeský kraj",65-69,25,7,32
-2021-03-17,Comirnaty,CZ020,"Středočeský kraj",70-74,1127,4,1131
-2021-03-17,Comirnaty,CZ020,"Středočeský kraj",75-79,725,5,730
-2021-03-17,Comirnaty,CZ020,"Středočeský kraj",80+,100,276,376
+2021-03-17,Comirnaty,CZ020,"Středočeský kraj",70-74,1134,4,1138
+2021-03-17,Comirnaty,CZ020,"Středočeský kraj",75-79,723,5,728
+2021-03-17,Comirnaty,CZ020,"Středočeský kraj",80+,99,276,375
 2021-03-17,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",18-24,5,1,6
 2021-03-17,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",25-29,11,1,12
 2021-03-17,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",30-34,13,1,14
 2021-03-17,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",35-39,20,2,22
 2021-03-17,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",40-44,39,4,43
-2021-03-17,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",45-49,42,1,43
+2021-03-17,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",45-49,43,1,44
 2021-03-17,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",50-54,53,7,60
-2021-03-17,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",55-59,53,5,58
-2021-03-17,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",60-64,43,1,44
+2021-03-17,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",55-59,54,5,59
+2021-03-17,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",60-64,44,1,45
 2021-03-17,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",65-69,36,2,38
 2021-03-17,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",70-74,324,4,328
-2021-03-17,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",75-79,352,1,353
-2021-03-17,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",80+,54,127,181
+2021-03-17,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",75-79,355,1,356
+2021-03-17,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",80+,55,127,182
 2021-03-17,VAXZEVRIA,CZ020,"Středočeský kraj",18-24,1,0,1
 2021-03-17,VAXZEVRIA,CZ020,"Středočeský kraj",35-39,2,0,2
 2021-03-17,VAXZEVRIA,CZ020,"Středočeský kraj",40-44,9,0,9
@@ -1719,7 +1719,7 @@
 2021-03-18,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",40-44,18,0,18
 2021-03-18,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",45-49,25,1,26
 2021-03-18,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",50-54,18,0,18
-2021-03-18,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",55-59,24,1,25
+2021-03-18,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",55-59,24,2,26
 2021-03-18,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",60-64,17,3,20
 2021-03-18,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",65-69,23,7,30
 2021-03-18,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",70-74,127,5,132
@@ -1832,7 +1832,7 @@
 2021-03-22,Comirnaty,CZ020,"Středočeský kraj",55-59,38,244,282
 2021-03-22,Comirnaty,CZ020,"Středočeský kraj",60-64,29,121,150
 2021-03-22,Comirnaty,CZ020,"Středočeský kraj",65-69,26,88,114
-2021-03-22,Comirnaty,CZ020,"Středočeský kraj",70-74,547,91,638
+2021-03-22,Comirnaty,CZ020,"Středočeský kraj",70-74,548,91,639
 2021-03-22,Comirnaty,CZ020,"Středočeský kraj",75-79,281,65,346
 2021-03-22,Comirnaty,CZ020,"Středočeský kraj",80+,63,438,501
 2021-03-22,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",18-24,2,0,2
@@ -1870,7 +1870,7 @@
 2021-03-23,Comirnaty,CZ020,"Středočeský kraj",55-59,63,176,239
 2021-03-23,Comirnaty,CZ020,"Středočeský kraj",60-64,39,155,194
 2021-03-23,Comirnaty,CZ020,"Středočeský kraj",65-69,43,53,96
-2021-03-23,Comirnaty,CZ020,"Středočeský kraj",70-74,977,110,1087
+2021-03-23,Comirnaty,CZ020,"Středočeský kraj",70-74,977,111,1088
 2021-03-23,Comirnaty,CZ020,"Středočeský kraj",75-79,403,143,546
 2021-03-23,Comirnaty,CZ020,"Středočeský kraj",80+,80,413,493
 2021-03-23,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",18-24,1,0,1
@@ -1891,16 +1891,16 @@
 2021-03-23,VAXZEVRIA,CZ020,"Středočeský kraj",75-79,243,5,248
 2021-03-23,VAXZEVRIA,CZ020,"Středočeský kraj",80+,162,103,265
 2021-03-24,Comirnaty,CZ020,"Středočeský kraj",18-24,20,5,25
-2021-03-24,Comirnaty,CZ020,"Středočeský kraj",25-29,18,15,33
+2021-03-24,Comirnaty,CZ020,"Středočeský kraj",25-29,17,15,32
 2021-03-24,Comirnaty,CZ020,"Středočeský kraj",30-34,24,19,43
 2021-03-24,Comirnaty,CZ020,"Středočeský kraj",35-39,32,58,90
-2021-03-24,Comirnaty,CZ020,"Středočeský kraj",40-44,57,134,191
+2021-03-24,Comirnaty,CZ020,"Středočeský kraj",40-44,58,134,192
 2021-03-24,Comirnaty,CZ020,"Středočeský kraj",45-49,48,177,225
 2021-03-24,Comirnaty,CZ020,"Středočeský kraj",50-54,34,128,162
 2021-03-24,Comirnaty,CZ020,"Středočeský kraj",55-59,25,149,174
 2021-03-24,Comirnaty,CZ020,"Středočeský kraj",60-64,23,89,112
 2021-03-24,Comirnaty,CZ020,"Středočeský kraj",65-69,27,48,75
-2021-03-24,Comirnaty,CZ020,"Středočeský kraj",70-74,465,125,590
+2021-03-24,Comirnaty,CZ020,"Středočeský kraj",70-74,468,125,593
 2021-03-24,Comirnaty,CZ020,"Středočeský kraj",75-79,194,79,273
 2021-03-24,Comirnaty,CZ020,"Středočeský kraj",80+,61,408,469
 2021-03-24,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",18-24,10,2,12
@@ -1922,7 +1922,7 @@
 2021-03-24,VAXZEVRIA,CZ020,"Středočeský kraj",40-44,2,0,2
 2021-03-24,VAXZEVRIA,CZ020,"Středočeský kraj",45-49,7,0,7
 2021-03-24,VAXZEVRIA,CZ020,"Středočeský kraj",50-54,8,0,8
-2021-03-24,VAXZEVRIA,CZ020,"Středočeský kraj",55-59,10,0,10
+2021-03-24,VAXZEVRIA,CZ020,"Středočeský kraj",55-59,9,0,9
 2021-03-24,VAXZEVRIA,CZ020,"Středočeský kraj",60-64,33,0,33
 2021-03-24,VAXZEVRIA,CZ020,"Středočeský kraj",65-69,80,0,80
 2021-03-24,VAXZEVRIA,CZ020,"Středočeský kraj",70-74,226,0,226
@@ -2076,7 +2076,7 @@
 2021-03-29,Comirnaty,CZ020,"Středočeský kraj",55-59,36,200,236
 2021-03-29,Comirnaty,CZ020,"Středočeský kraj",60-64,28,165,193
 2021-03-29,Comirnaty,CZ020,"Středočeský kraj",65-69,44,91,135
-2021-03-29,Comirnaty,CZ020,"Středočeský kraj",70-74,164,517,681
+2021-03-29,Comirnaty,CZ020,"Středočeský kraj",70-74,164,518,682
 2021-03-29,Comirnaty,CZ020,"Středočeský kraj",75-79,133,747,880
 2021-03-29,Comirnaty,CZ020,"Středočeský kraj",80+,44,421,465
 2021-03-29,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",18-24,5,5,10
@@ -2114,7 +2114,7 @@
 2021-03-30,Comirnaty,CZ020,"Středočeský kraj",55-59,34,239,273
 2021-03-30,Comirnaty,CZ020,"Středočeský kraj",60-64,40,182,222
 2021-03-30,Comirnaty,CZ020,"Středočeský kraj",65-69,93,88,181
-2021-03-30,Comirnaty,CZ020,"Středočeský kraj",70-74,204,482,686
+2021-03-30,Comirnaty,CZ020,"Středočeský kraj",70-74,204,483,687
 2021-03-30,Comirnaty,CZ020,"Středočeský kraj",75-79,178,1001,1179
 2021-03-30,Comirnaty,CZ020,"Středočeský kraj",80+,88,332,420
 2021-03-30,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",18-24,5,4,9
@@ -2143,7 +2143,7 @@
 2021-03-31,Comirnaty,CZ020,"Středočeský kraj",18-24,17,58,75
 2021-03-31,Comirnaty,CZ020,"Středočeský kraj",25-29,13,78,91
 2021-03-31,Comirnaty,CZ020,"Středočeský kraj",30-34,17,87,104
-2021-03-31,Comirnaty,CZ020,"Středočeský kraj",35-39,24,133,157
+2021-03-31,Comirnaty,CZ020,"Středočeský kraj",35-39,24,134,158
 2021-03-31,Comirnaty,CZ020,"Středočeský kraj",40-44,59,155,214
 2021-03-31,Comirnaty,CZ020,"Středočeský kraj",45-49,50,105,155
 2021-03-31,Comirnaty,CZ020,"Středočeský kraj",50-54,39,80,119
@@ -2154,7 +2154,7 @@
 2021-03-31,Comirnaty,CZ020,"Středočeský kraj",75-79,71,738,809
 2021-03-31,Comirnaty,CZ020,"Středočeský kraj",80+,21,328,349
 2021-03-31,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",18-24,5,2,7
-2021-03-31,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",25-29,8,2,10
+2021-03-31,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",25-29,8,3,11
 2021-03-31,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",30-34,10,4,14
 2021-03-31,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",35-39,12,7,19
 2021-03-31,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",40-44,10,8,18
@@ -2221,10 +2221,10 @@
 2021-04-02,Comirnaty,CZ020,"Středočeský kraj",25-29,1,22,23
 2021-04-02,Comirnaty,CZ020,"Středočeský kraj",30-34,5,44,49
 2021-04-02,Comirnaty,CZ020,"Středočeský kraj",35-39,7,53,60
-2021-04-02,Comirnaty,CZ020,"Středočeský kraj",40-44,7,116,123
+2021-04-02,Comirnaty,CZ020,"Středočeský kraj",40-44,7,118,125
 2021-04-02,Comirnaty,CZ020,"Středočeský kraj",45-49,5,121,126
 2021-04-02,Comirnaty,CZ020,"Středočeský kraj",50-54,4,98,102
-2021-04-02,Comirnaty,CZ020,"Středočeský kraj",55-59,2,92,94
+2021-04-02,Comirnaty,CZ020,"Středočeský kraj",55-59,2,93,95
 2021-04-02,Comirnaty,CZ020,"Středočeský kraj",60-64,3,79,82
 2021-04-02,Comirnaty,CZ020,"Středočeský kraj",65-69,5,65,70
 2021-04-02,Comirnaty,CZ020,"Středočeský kraj",70-74,11,652,663
@@ -2281,10 +2281,10 @@
 2021-04-04,Comirnaty,CZ020,"Středočeský kraj",18-24,0,23,23
 2021-04-04,Comirnaty,CZ020,"Středočeský kraj",25-29,1,17,18
 2021-04-04,Comirnaty,CZ020,"Středočeský kraj",30-34,1,28,29
-2021-04-04,Comirnaty,CZ020,"Středočeský kraj",35-39,1,52,53
+2021-04-04,Comirnaty,CZ020,"Středočeský kraj",35-39,1,53,54
 2021-04-04,Comirnaty,CZ020,"Středočeský kraj",40-44,3,62,65
 2021-04-04,Comirnaty,CZ020,"Středočeský kraj",45-49,1,53,54
-2021-04-04,Comirnaty,CZ020,"Středočeský kraj",50-54,4,37,41
+2021-04-04,Comirnaty,CZ020,"Středočeský kraj",50-54,5,37,42
 2021-04-04,Comirnaty,CZ020,"Středočeský kraj",55-59,3,56,59
 2021-04-04,Comirnaty,CZ020,"Středočeský kraj",60-64,4,39,43
 2021-04-04,Comirnaty,CZ020,"Středočeský kraj",65-69,2,17,19
@@ -2327,9 +2327,9 @@
 2021-04-06,Comirnaty,CZ020,"Středočeský kraj",50-54,16,129,145
 2021-04-06,Comirnaty,CZ020,"Středočeský kraj",55-59,17,216,233
 2021-04-06,Comirnaty,CZ020,"Středočeský kraj",60-64,22,134,156
-2021-04-06,Comirnaty,CZ020,"Středočeský kraj",65-69,20,78,98
+2021-04-06,Comirnaty,CZ020,"Středočeský kraj",65-69,20,79,99
 2021-04-06,Comirnaty,CZ020,"Středočeský kraj",70-74,91,1006,1097
-2021-04-06,Comirnaty,CZ020,"Středočeský kraj",75-79,21,1041,1062
+2021-04-06,Comirnaty,CZ020,"Středočeský kraj",75-79,21,1042,1063
 2021-04-06,Comirnaty,CZ020,"Středočeský kraj",80+,15,384,399
 2021-04-06,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",18-24,2,0,2
 2021-04-06,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",25-29,4,2,6
@@ -2361,15 +2361,15 @@
 2021-04-07,Comirnaty,CZ020,"Středočeský kraj",25-29,9,26,35
 2021-04-07,Comirnaty,CZ020,"Středočeský kraj",30-34,9,34,43
 2021-04-07,Comirnaty,CZ020,"Středočeský kraj",35-39,15,86,101
-2021-04-07,Comirnaty,CZ020,"Středočeský kraj",40-44,73,149,222
-2021-04-07,Comirnaty,CZ020,"Středočeský kraj",45-49,50,116,166
+2021-04-07,Comirnaty,CZ020,"Středočeský kraj",40-44,73,151,224
+2021-04-07,Comirnaty,CZ020,"Středočeský kraj",45-49,50,117,167
 2021-04-07,Comirnaty,CZ020,"Středočeský kraj",50-54,30,98,128
 2021-04-07,Comirnaty,CZ020,"Středočeský kraj",55-59,42,97,139
 2021-04-07,Comirnaty,CZ020,"Středočeský kraj",60-64,27,62,89
 2021-04-07,Comirnaty,CZ020,"Středočeský kraj",65-69,36,41,77
-2021-04-07,Comirnaty,CZ020,"Středočeský kraj",70-74,192,317,509
-2021-04-07,Comirnaty,CZ020,"Středočeský kraj",75-79,139,766,905
-2021-04-07,Comirnaty,CZ020,"Středočeský kraj",80+,37,141,178
+2021-04-07,Comirnaty,CZ020,"Středočeský kraj",70-74,192,320,512
+2021-04-07,Comirnaty,CZ020,"Středočeský kraj",75-79,139,769,908
+2021-04-07,Comirnaty,CZ020,"Středočeský kraj",80+,37,160,197
 2021-04-07,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",18-24,2,1,3
 2021-04-07,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",25-29,0,2,2
 2021-04-07,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",30-34,3,4,7
@@ -2397,19 +2397,19 @@
 2021-04-07,VAXZEVRIA,CZ020,"Středočeský kraj",75-79,209,3,212
 2021-04-07,VAXZEVRIA,CZ020,"Středočeský kraj",80+,131,5,136
 2021-04-08,Comirnaty,CZ020,"Středočeský kraj",0-17,1,1,2
-2021-04-08,Comirnaty,CZ020,"Středočeský kraj",18-24,12,73,85
-2021-04-08,Comirnaty,CZ020,"Středočeský kraj",25-29,7,65,72
-2021-04-08,Comirnaty,CZ020,"Středočeský kraj",30-34,14,87,101
-2021-04-08,Comirnaty,CZ020,"Středočeský kraj",35-39,20,165,185
-2021-04-08,Comirnaty,CZ020,"Středočeský kraj",40-44,38,257,295
-2021-04-08,Comirnaty,CZ020,"Středočeský kraj",45-49,51,228,279
-2021-04-08,Comirnaty,CZ020,"Středočeský kraj",50-54,70,157,227
-2021-04-08,Comirnaty,CZ020,"Středočeský kraj",55-59,53,122,175
-2021-04-08,Comirnaty,CZ020,"Středočeský kraj",60-64,51,87,138
-2021-04-08,Comirnaty,CZ020,"Středočeský kraj",65-69,115,44,159
-2021-04-08,Comirnaty,CZ020,"Středočeský kraj",70-74,1174,1438,2612
-2021-04-08,Comirnaty,CZ020,"Středočeský kraj",75-79,345,707,1052
-2021-04-08,Comirnaty,CZ020,"Středočeský kraj",80+,43,149,192
+2021-04-08,Comirnaty,CZ020,"Středočeský kraj",18-24,12,74,86
+2021-04-08,Comirnaty,CZ020,"Středočeský kraj",25-29,8,72,80
+2021-04-08,Comirnaty,CZ020,"Středočeský kraj",30-34,14,93,107
+2021-04-08,Comirnaty,CZ020,"Středočeský kraj",35-39,20,172,192
+2021-04-08,Comirnaty,CZ020,"Středočeský kraj",40-44,38,258,296
+2021-04-08,Comirnaty,CZ020,"Středočeský kraj",45-49,51,231,282
+2021-04-08,Comirnaty,CZ020,"Středočeský kraj",50-54,72,160,232
+2021-04-08,Comirnaty,CZ020,"Středočeský kraj",55-59,53,123,176
+2021-04-08,Comirnaty,CZ020,"Středočeský kraj",60-64,52,89,141
+2021-04-08,Comirnaty,CZ020,"Středočeský kraj",65-69,138,44,182
+2021-04-08,Comirnaty,CZ020,"Středočeský kraj",70-74,1228,1441,2669
+2021-04-08,Comirnaty,CZ020,"Středočeský kraj",75-79,358,729,1087
+2021-04-08,Comirnaty,CZ020,"Středočeský kraj",80+,44,153,197
 2021-04-08,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",18-24,2,0,2
 2021-04-08,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",25-29,3,0,3
 2021-04-08,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",30-34,4,0,4
@@ -2432,24 +2432,24 @@
 2021-04-08,VAXZEVRIA,CZ020,"Středočeský kraj",50-54,21,0,21
 2021-04-08,VAXZEVRIA,CZ020,"Středočeský kraj",55-59,31,0,31
 2021-04-08,VAXZEVRIA,CZ020,"Středočeský kraj",60-64,63,0,63
-2021-04-08,VAXZEVRIA,CZ020,"Středočeský kraj",65-69,164,0,164
+2021-04-08,VAXZEVRIA,CZ020,"Středočeský kraj",65-69,165,0,165
 2021-04-08,VAXZEVRIA,CZ020,"Středočeský kraj",70-74,362,0,362
 2021-04-08,VAXZEVRIA,CZ020,"Středočeský kraj",75-79,301,0,301
 2021-04-08,VAXZEVRIA,CZ020,"Středočeský kraj",80+,151,0,151
 2021-04-09,Comirnaty,CZ020,"Středočeský kraj",0-17,0,8,8
-2021-04-09,Comirnaty,CZ020,"Středočeský kraj",18-24,16,55,71
-2021-04-09,Comirnaty,CZ020,"Středočeský kraj",25-29,25,66,91
-2021-04-09,Comirnaty,CZ020,"Středočeský kraj",30-34,30,64,94
-2021-04-09,Comirnaty,CZ020,"Středočeský kraj",35-39,37,106,143
-2021-04-09,Comirnaty,CZ020,"Středočeský kraj",40-44,49,190,239
-2021-04-09,Comirnaty,CZ020,"Středočeský kraj",45-49,73,162,235
-2021-04-09,Comirnaty,CZ020,"Středočeský kraj",50-54,83,115,198
-2021-04-09,Comirnaty,CZ020,"Středočeský kraj",55-59,94,92,186
-2021-04-09,Comirnaty,CZ020,"Středočeský kraj",60-64,108,78,186
-2021-04-09,Comirnaty,CZ020,"Středočeský kraj",65-69,156,79,235
-2021-04-09,Comirnaty,CZ020,"Středočeský kraj",70-74,773,1003,1776
-2021-04-09,Comirnaty,CZ020,"Středočeský kraj",75-79,620,704,1324
-2021-04-09,Comirnaty,CZ020,"Středočeský kraj",80+,89,132,221
+2021-04-09,Comirnaty,CZ020,"Středočeský kraj",18-24,26,70,96
+2021-04-09,Comirnaty,CZ020,"Středočeský kraj",25-29,39,82,121
+2021-04-09,Comirnaty,CZ020,"Středočeský kraj",30-34,49,75,124
+2021-04-09,Comirnaty,CZ020,"Středočeský kraj",35-39,58,120,178
+2021-04-09,Comirnaty,CZ020,"Středočeský kraj",40-44,71,202,273
+2021-04-09,Comirnaty,CZ020,"Středočeský kraj",45-49,97,179,276
+2021-04-09,Comirnaty,CZ020,"Středočeský kraj",50-54,90,132,222
+2021-04-09,Comirnaty,CZ020,"Středočeský kraj",55-59,115,102,217
+2021-04-09,Comirnaty,CZ020,"Středočeský kraj",60-64,134,96,230
+2021-04-09,Comirnaty,CZ020,"Středočeský kraj",65-69,192,100,292
+2021-04-09,Comirnaty,CZ020,"Středočeský kraj",70-74,821,1051,1872
+2021-04-09,Comirnaty,CZ020,"Středočeský kraj",75-79,652,737,1389
+2021-04-09,Comirnaty,CZ020,"Středočeský kraj",80+,98,132,230
 2021-04-09,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",18-24,10,2,12
 2021-04-09,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",25-29,10,5,15
 2021-04-09,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",30-34,12,0,12
@@ -2472,19 +2472,19 @@
 2021-04-09,VAXZEVRIA,CZ020,"Středočeský kraj",50-54,25,0,25
 2021-04-09,VAXZEVRIA,CZ020,"Středočeský kraj",55-59,40,0,40
 2021-04-09,VAXZEVRIA,CZ020,"Středočeský kraj",60-64,72,0,72
-2021-04-09,VAXZEVRIA,CZ020,"Středočeský kraj",65-69,207,0,207
+2021-04-09,VAXZEVRIA,CZ020,"Středočeský kraj",65-69,209,0,209
 2021-04-09,VAXZEVRIA,CZ020,"Středočeský kraj",70-74,370,0,370
 2021-04-09,VAXZEVRIA,CZ020,"Středočeský kraj",75-79,293,0,293
-2021-04-09,VAXZEVRIA,CZ020,"Středočeský kraj",80+,161,1,162
+2021-04-09,VAXZEVRIA,CZ020,"Středočeský kraj",80+,164,1,165
 2021-04-10,Comirnaty,CZ020,"Středočeský kraj",18-24,8,4,12
 2021-04-10,Comirnaty,CZ020,"Středočeský kraj",25-29,11,4,15
 2021-04-10,Comirnaty,CZ020,"Středočeský kraj",30-34,28,5,33
 2021-04-10,Comirnaty,CZ020,"Středočeský kraj",35-39,35,10,45
 2021-04-10,Comirnaty,CZ020,"Středočeský kraj",40-44,45,17,62
-2021-04-10,Comirnaty,CZ020,"Středočeský kraj",45-49,39,13,52
+2021-04-10,Comirnaty,CZ020,"Středočeský kraj",45-49,40,13,53
 2021-04-10,Comirnaty,CZ020,"Středočeský kraj",50-54,32,15,47
 2021-04-10,Comirnaty,CZ020,"Středočeský kraj",55-59,46,3,49
-2021-04-10,Comirnaty,CZ020,"Středočeský kraj",60-64,54,3,57
+2021-04-10,Comirnaty,CZ020,"Středočeský kraj",60-64,55,3,58
 2021-04-10,Comirnaty,CZ020,"Středočeský kraj",65-69,124,4,128
 2021-04-10,Comirnaty,CZ020,"Středočeský kraj",70-74,193,210,403
 2021-04-10,Comirnaty,CZ020,"Středočeský kraj",75-79,163,165,328
@@ -2512,7 +2512,7 @@
 2021-04-10,VAXZEVRIA,CZ020,"Středočeský kraj",55-59,2,2,4
 2021-04-10,VAXZEVRIA,CZ020,"Středočeský kraj",60-64,25,2,27
 2021-04-10,VAXZEVRIA,CZ020,"Středočeský kraj",65-69,51,0,51
-2021-04-10,VAXZEVRIA,CZ020,"Středočeský kraj",70-74,118,2,120
+2021-04-10,VAXZEVRIA,CZ020,"Středočeský kraj",70-74,119,2,121
 2021-04-10,VAXZEVRIA,CZ020,"Středočeský kraj",75-79,89,7,96
 2021-04-10,VAXZEVRIA,CZ020,"Středočeský kraj",80+,49,24,73
 2021-04-11,Comirnaty,CZ020,"Středočeský kraj",0-17,1,0,1
@@ -2539,7 +2539,7 @@
 2021-04-11,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",55-59,0,7,7
 2021-04-11,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",60-64,6,1,7
 2021-04-11,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",65-69,24,2,26
-2021-04-11,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",70-74,33,2,35
+2021-04-11,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",70-74,34,2,36
 2021-04-11,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",75-79,4,51,55
 2021-04-11,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",80+,3,6,9
 2021-04-11,VAXZEVRIA,CZ020,"Středočeský kraj",30-34,1,0,1
@@ -2553,80 +2553,121 @@
 2021-04-11,VAXZEVRIA,CZ020,"Středočeský kraj",70-74,19,0,19
 2021-04-11,VAXZEVRIA,CZ020,"Středočeský kraj",75-79,7,0,7
 2021-04-11,VAXZEVRIA,CZ020,"Středočeský kraj",80+,3,0,3
-2021-04-12,Comirnaty,CZ020,"Středočeský kraj",0-17,18,0,18
-2021-04-12,Comirnaty,CZ020,"Středočeský kraj",18-24,54,15,69
-2021-04-12,Comirnaty,CZ020,"Středočeský kraj",25-29,48,20,68
-2021-04-12,Comirnaty,CZ020,"Středočeský kraj",30-34,63,31,94
-2021-04-12,Comirnaty,CZ020,"Středočeský kraj",35-39,107,36,143
-2021-04-12,Comirnaty,CZ020,"Středočeský kraj",40-44,120,108,228
-2021-04-12,Comirnaty,CZ020,"Středočeský kraj",45-49,125,118,243
-2021-04-12,Comirnaty,CZ020,"Středočeský kraj",50-54,110,109,219
-2021-04-12,Comirnaty,CZ020,"Středočeský kraj",55-59,109,87,196
-2021-04-12,Comirnaty,CZ020,"Středočeský kraj",60-64,138,56,194
-2021-04-12,Comirnaty,CZ020,"Středočeský kraj",65-69,214,45,259
-2021-04-12,Comirnaty,CZ020,"Středočeský kraj",70-74,1783,1043,2826
-2021-04-12,Comirnaty,CZ020,"Středočeský kraj",75-79,479,665,1144
-2021-04-12,Comirnaty,CZ020,"Středočeský kraj",80+,142,141,283
+2021-04-12,Comirnaty,CZ020,"Středočeský kraj",0-17,23,0,23
+2021-04-12,Comirnaty,CZ020,"Středočeský kraj",18-24,57,15,72
+2021-04-12,Comirnaty,CZ020,"Středočeský kraj",25-29,48,22,70
+2021-04-12,Comirnaty,CZ020,"Středočeský kraj",30-34,64,31,95
+2021-04-12,Comirnaty,CZ020,"Středočeský kraj",35-39,108,37,145
+2021-04-12,Comirnaty,CZ020,"Středočeský kraj",40-44,125,109,234
+2021-04-12,Comirnaty,CZ020,"Středočeský kraj",45-49,130,120,250
+2021-04-12,Comirnaty,CZ020,"Středočeský kraj",50-54,116,111,227
+2021-04-12,Comirnaty,CZ020,"Středočeský kraj",55-59,112,90,202
+2021-04-12,Comirnaty,CZ020,"Středočeský kraj",60-64,143,58,201
+2021-04-12,Comirnaty,CZ020,"Středočeský kraj",65-69,225,61,286
+2021-04-12,Comirnaty,CZ020,"Středočeský kraj",70-74,1817,1127,2944
+2021-04-12,Comirnaty,CZ020,"Středočeský kraj",75-79,491,672,1163
+2021-04-12,Comirnaty,CZ020,"Středočeský kraj",80+,147,142,289
 2021-04-12,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",18-24,0,5,5
 2021-04-12,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",25-29,2,4,6
-2021-04-12,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",30-34,2,9,11
-2021-04-12,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",35-39,5,16,21
-2021-04-12,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",40-44,2,16,18
-2021-04-12,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",45-49,3,21,24
-2021-04-12,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",50-54,13,14,27
-2021-04-12,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",55-59,17,15,32
-2021-04-12,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",60-64,34,13,47
-2021-04-12,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",65-69,83,12,95
-2021-04-12,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",70-74,70,122,192
-2021-04-12,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",75-79,15,82,97
-2021-04-12,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",80+,8,37,45
+2021-04-12,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",30-34,2,10,12
+2021-04-12,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",35-39,6,16,22
+2021-04-12,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",40-44,2,20,22
+2021-04-12,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",45-49,3,25,28
+2021-04-12,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",50-54,13,18,31
+2021-04-12,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",55-59,18,19,37
+2021-04-12,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",60-64,34,19,53
+2021-04-12,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",65-69,83,15,98
+2021-04-12,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",70-74,70,137,207
+2021-04-12,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",75-79,16,102,118
+2021-04-12,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",80+,8,43,51
 2021-04-12,VAXZEVRIA,CZ020,"Středočeský kraj",25-29,1,0,1
 2021-04-12,VAXZEVRIA,CZ020,"Středočeský kraj",30-34,2,0,2
 2021-04-12,VAXZEVRIA,CZ020,"Středočeský kraj",35-39,6,0,6
 2021-04-12,VAXZEVRIA,CZ020,"Středočeský kraj",40-44,13,0,13
 2021-04-12,VAXZEVRIA,CZ020,"Středočeský kraj",45-49,16,0,16
-2021-04-12,VAXZEVRIA,CZ020,"Středočeský kraj",50-54,23,0,23
+2021-04-12,VAXZEVRIA,CZ020,"Středočeský kraj",50-54,24,0,24
 2021-04-12,VAXZEVRIA,CZ020,"Středočeský kraj",55-59,33,0,33
-2021-04-12,VAXZEVRIA,CZ020,"Středočeský kraj",60-64,66,0,66
-2021-04-12,VAXZEVRIA,CZ020,"Středočeský kraj",65-69,177,0,177
-2021-04-12,VAXZEVRIA,CZ020,"Středočeský kraj",70-74,406,0,406
-2021-04-12,VAXZEVRIA,CZ020,"Středočeský kraj",75-79,247,0,247
+2021-04-12,VAXZEVRIA,CZ020,"Středočeský kraj",60-64,67,0,67
+2021-04-12,VAXZEVRIA,CZ020,"Středočeský kraj",65-69,181,0,181
+2021-04-12,VAXZEVRIA,CZ020,"Středočeský kraj",70-74,415,0,415
+2021-04-12,VAXZEVRIA,CZ020,"Středočeský kraj",75-79,251,0,251
 2021-04-12,VAXZEVRIA,CZ020,"Středočeský kraj",80+,138,1,139
 2021-04-13,Comirnaty,CZ020,"Středočeský kraj",0-17,2,0,2
-2021-04-13,Comirnaty,CZ020,"Středočeský kraj",18-24,28,33,61
-2021-04-13,Comirnaty,CZ020,"Středočeský kraj",25-29,23,37,60
-2021-04-13,Comirnaty,CZ020,"Středočeský kraj",30-34,33,39,72
-2021-04-13,Comirnaty,CZ020,"Středočeský kraj",35-39,71,63,134
-2021-04-13,Comirnaty,CZ020,"Středočeský kraj",40-44,55,91,146
-2021-04-13,Comirnaty,CZ020,"Středočeský kraj",45-49,68,122,190
-2021-04-13,Comirnaty,CZ020,"Středočeský kraj",50-54,52,115,167
-2021-04-13,Comirnaty,CZ020,"Středočeský kraj",55-59,75,81,156
-2021-04-13,Comirnaty,CZ020,"Středočeský kraj",60-64,76,44,120
-2021-04-13,Comirnaty,CZ020,"Středočeský kraj",65-69,121,48,169
-2021-04-13,Comirnaty,CZ020,"Středočeský kraj",70-74,1832,1020,2852
-2021-04-13,Comirnaty,CZ020,"Středočeský kraj",75-79,403,530,933
-2021-04-13,Comirnaty,CZ020,"Středočeský kraj",80+,94,139,233
+2021-04-13,Comirnaty,CZ020,"Středočeský kraj",18-24,36,33,69
+2021-04-13,Comirnaty,CZ020,"Středočeský kraj",25-29,30,38,68
+2021-04-13,Comirnaty,CZ020,"Středočeský kraj",30-34,37,40,77
+2021-04-13,Comirnaty,CZ020,"Středočeský kraj",35-39,78,68,146
+2021-04-13,Comirnaty,CZ020,"Středočeský kraj",40-44,77,98,175
+2021-04-13,Comirnaty,CZ020,"Středočeský kraj",45-49,84,132,216
+2021-04-13,Comirnaty,CZ020,"Středočeský kraj",50-54,66,125,191
+2021-04-13,Comirnaty,CZ020,"Středočeský kraj",55-59,85,82,167
+2021-04-13,Comirnaty,CZ020,"Středočeský kraj",60-64,97,50,147
+2021-04-13,Comirnaty,CZ020,"Středočeský kraj",65-69,147,56,203
+2021-04-13,Comirnaty,CZ020,"Středočeský kraj",70-74,2059,1216,3275
+2021-04-13,Comirnaty,CZ020,"Středočeský kraj",75-79,471,563,1034
+2021-04-13,Comirnaty,CZ020,"Středočeský kraj",80+,161,179,340
 2021-04-13,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",18-24,2,3,5
 2021-04-13,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",25-29,3,6,9
 2021-04-13,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",30-34,3,11,14
-2021-04-13,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",35-39,3,15,18
-2021-04-13,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",40-44,5,33,38
-2021-04-13,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",45-49,6,40,46
-2021-04-13,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",50-54,8,22,30
-2021-04-13,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",55-59,11,25,36
-2021-04-13,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",60-64,10,21,31
-2021-04-13,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",65-69,26,16,42
-2021-04-13,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",70-74,54,127,181
-2021-04-13,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",75-79,29,85,114
-2021-04-13,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",80+,14,32,46
-2021-04-13,VAXZEVRIA,CZ020,"Středočeský kraj",30-34,3,0,3
+2021-04-13,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",35-39,4,16,20
+2021-04-13,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",40-44,8,35,43
+2021-04-13,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",45-49,7,43,50
+2021-04-13,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",50-54,10,25,35
+2021-04-13,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",55-59,12,27,39
+2021-04-13,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",60-64,13,21,34
+2021-04-13,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",65-69,28,17,45
+2021-04-13,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",70-74,57,135,192
+2021-04-13,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",75-79,30,86,116
+2021-04-13,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",80+,15,33,48
+2021-04-13,VAXZEVRIA,CZ020,"Středočeský kraj",30-34,4,0,4
 2021-04-13,VAXZEVRIA,CZ020,"Středočeský kraj",35-39,2,0,2
 2021-04-13,VAXZEVRIA,CZ020,"Středočeský kraj",40-44,6,0,6
-2021-04-13,VAXZEVRIA,CZ020,"Středočeský kraj",45-49,6,0,6
-2021-04-13,VAXZEVRIA,CZ020,"Středočeský kraj",50-54,17,0,17
-2021-04-13,VAXZEVRIA,CZ020,"Středočeský kraj",55-59,41,0,41
-2021-04-13,VAXZEVRIA,CZ020,"Středočeský kraj",60-64,69,0,69
-2021-04-13,VAXZEVRIA,CZ020,"Středočeský kraj",65-69,158,0,158
-2021-04-13,VAXZEVRIA,CZ020,"Středočeský kraj",70-74,316,0,316
-2021-04-13,VAXZEVRIA,CZ020,"Středočeský kraj",75-79,182,0,182
-2021-04-13,VAXZEVRIA,CZ020,"Středočeský kraj",80+,124,10,134
+2021-04-13,VAXZEVRIA,CZ020,"Středočeský kraj",45-49,9,0,9
+2021-04-13,VAXZEVRIA,CZ020,"Středočeský kraj",50-54,22,0,22
+2021-04-13,VAXZEVRIA,CZ020,"Středočeský kraj",55-59,54,0,54
+2021-04-13,VAXZEVRIA,CZ020,"Středočeský kraj",60-64,82,0,82
+2021-04-13,VAXZEVRIA,CZ020,"Středočeský kraj",65-69,204,0,204
+2021-04-13,VAXZEVRIA,CZ020,"Středočeský kraj",70-74,392,0,392
+2021-04-13,VAXZEVRIA,CZ020,"Středočeský kraj",75-79,204,0,204
+2021-04-13,VAXZEVRIA,CZ020,"Středočeský kraj",80+,142,10,152
+2021-04-14,Comirnaty,CZ020,"Středočeský kraj",0-17,1,0,1
+2021-04-14,Comirnaty,CZ020,"Středočeský kraj",18-24,15,12,27
+2021-04-14,Comirnaty,CZ020,"Středočeský kraj",25-29,30,15,45
+2021-04-14,Comirnaty,CZ020,"Středočeský kraj",30-34,24,21,45
+2021-04-14,Comirnaty,CZ020,"Středočeský kraj",35-39,49,26,75
+2021-04-14,Comirnaty,CZ020,"Středočeský kraj",40-44,55,52,107
+2021-04-14,Comirnaty,CZ020,"Středočeský kraj",45-49,60,59,119
+2021-04-14,Comirnaty,CZ020,"Středočeský kraj",50-54,44,33,77
+2021-04-14,Comirnaty,CZ020,"Středočeský kraj",55-59,60,31,91
+2021-04-14,Comirnaty,CZ020,"Středočeský kraj",60-64,107,30,137
+2021-04-14,Comirnaty,CZ020,"Středočeský kraj",65-69,194,18,212
+2021-04-14,Comirnaty,CZ020,"Středočeský kraj",70-74,890,1083,1973
+2021-04-14,Comirnaty,CZ020,"Středočeský kraj",75-79,205,511,716
+2021-04-14,Comirnaty,CZ020,"Středočeský kraj",80+,40,133,173
+2021-04-14,"COVID-19 Vaccine Janssen",CZ020,"Středočeský kraj",55-59,1,0,1
+2021-04-14,"COVID-19 Vaccine Janssen",CZ020,"Středočeský kraj",75-79,1,0,1
+2021-04-14,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",18-24,10,5,15
+2021-04-14,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",25-29,14,6,20
+2021-04-14,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",30-34,10,10,20
+2021-04-14,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",35-39,23,18,41
+2021-04-14,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",40-44,19,35,54
+2021-04-14,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",45-49,23,39,62
+2021-04-14,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",50-54,17,46,63
+2021-04-14,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",55-59,5,50,55
+2021-04-14,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",60-64,4,42,46
+2021-04-14,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",65-69,22,37,59
+2021-04-14,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",70-74,223,305,528
+2021-04-14,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",75-79,14,337,351
+2021-04-14,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",80+,7,51,58
+2021-04-14,VAXZEVRIA,CZ020,"Středočeský kraj",18-24,1,0,1
+2021-04-14,VAXZEVRIA,CZ020,"Středočeský kraj",30-34,2,0,2
+2021-04-14,VAXZEVRIA,CZ020,"Středočeský kraj",35-39,7,0,7
+2021-04-14,VAXZEVRIA,CZ020,"Středočeský kraj",40-44,12,0,12
+2021-04-14,VAXZEVRIA,CZ020,"Středočeský kraj",45-49,23,0,23
+2021-04-14,VAXZEVRIA,CZ020,"Středočeský kraj",50-54,24,0,24
+2021-04-14,VAXZEVRIA,CZ020,"Středočeský kraj",55-59,36,0,36
+2021-04-14,VAXZEVRIA,CZ020,"Středočeský kraj",60-64,92,0,92
+2021-04-14,VAXZEVRIA,CZ020,"Středočeský kraj",65-69,368,0,368
+2021-04-14,VAXZEVRIA,CZ020,"Středočeský kraj",70-74,346,2,348
+2021-04-14,VAXZEVRIA,CZ020,"Středočeský kraj",75-79,143,0,143
+2021-04-14,VAXZEVRIA,CZ020,"Středočeský kraj",80+,100,4,104
