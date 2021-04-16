@@ -49,13 +49,13 @@ gnuplot extract_v.plg
 gnuplot ifr_m.plg
 gnuplot f_cumul.plg
 gnuplot cfr_mb.plg
-cd $basedir/wo_B117
-cp ./../vacc.csv ./vacc.csv
-cp ./../osoby.csv ./osoby.csv
-cp ./../umrti.csv ./umrti.csv
-gnuplot extract.plg
-gnuplot extract_v.plg
-gnuplot ifr_m.plg
-gnuplot f_cumul.plg
-gnuplot cfr_mb.plg
-cd $basedir
+#cd $basedir/wo_B117
+#cp ./../vacc.csv ./vacc.csv
+#cp ./../osoby.csv ./osoby.csv
+#cp ./../umrti.csv ./umrti.csv
+#gnuplot extract.plg
+#gnuplot extract_v.plg
+#gnuplot ifr_m.plg
+#gnuplot f_cumul.plg
+#gnuplot cfr_mb.plg
+#cd $basedir

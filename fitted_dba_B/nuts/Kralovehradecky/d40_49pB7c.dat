@@ -1,5 +1,5 @@
 
-# Curve 0 of 1, 299 points
+# Curve 0 of 1, 300 points
 # Curve title: ""d40_49pB7.dat" u 1:($1>0 ? $2 : 0)"
 # x y type
 -1  0  o
@@ -301,4 +301,5 @@
  474  21.6282  i
  475  21.6639  i
  476  21.7029  i
+ 477  21.7218  i
 
