@@ -59,3 +59,4 @@ gnuplot cfr_mb.plg
 #gnuplot f_cumul.plg
 #gnuplot cfr_mb.plg
 #cd $basedir
+./weekly.sh

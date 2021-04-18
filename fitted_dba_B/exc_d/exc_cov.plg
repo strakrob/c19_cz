@@ -1,0 +1,95 @@
+set key left
+set grid
+set xrange [0:*]
+set boxwidth 1/7.
+set style fill transparent solid 0.5
+set xlabel 'weeks since 1.1.2020'
+set ylabel 'deaths/week'
+set xtics 0,2
+set term png enhanced truecolor lw 1 size 2048,1024
+
+set title '0-29 - weekly deaths'
+age=29
+file="0_29"
+set output sprintf("de%sw.png",file)
+plot [0:*] "d20_21exc.dat" u ($2 == age ? $1/7 : 1/0):($3) w boxes title 'excess deaths',sprintf("./../d%sdw.dat",file) u ($1-1)/7:($2) w boxes title 'covid-19 deaths',sprintf("./../d%spw.dat",file) u ($1-2)/7:($2) w boxes ls 4 title 'predicted covid-19 deaths', sprintf("./../d%spB7w.dat",file) u ($1-3)/7:($2) w boxes ls 7 title 'predicted covid-19 deaths (B7)'
+set table sprintf("de%sw.dat",file)
+filter = sprintf("< awk -v a=%d '{ if ($2 == a) print $1, $3}'",age)
+plot filter.' d20_21exc.dat'
+unset table
+
+set title '30-39 - weekly deaths'
+age=39
+file="30_39"
+set output sprintf("de%sw.png",file)
+plot [0:*] "d20_21exc.dat" u ($2 == age ? $1/7 : 1/0):($3) w boxes title 'excess deaths',sprintf("./../d%sdw.dat",file) u ($1-1)/7:($2) w boxes title 'covid-19 deaths',sprintf("./../d%spw.dat",file) u ($1-2)/7:($2) w boxes ls 4 title 'predicted covid-19 deaths', sprintf("./../d%spB7w.dat",file) u ($1-3)/7:($2) w boxes ls 7 title 'predicted covid-19 deaths (B7)'
+set table sprintf("de%sw.dat",file)
+filter = sprintf("< awk -v a=%d '{ if ($2 == a) print $1, $3}'",age)
+plot filter.' d20_21exc.dat'
+unset table
+
+set title '40-49 - weekly deaths'
+age=49
+file="40_49"
+set output sprintf("de%sw.png",file)
+plot [0:*] "d20_21exc.dat" u ($2 == age ? $1/7 : 1/0):($3) w boxes title 'excess deaths',sprintf("./../d%sdw.dat",file) u ($1-1)/7:($2) w boxes title 'covid-19 deaths',sprintf("./../d%spw.dat",file) u ($1-2)/7:($2) w boxes ls 4 title 'predicted covid-19 deaths', sprintf("./../d%spB7w.dat",file) u ($1-3)/7:($2) w boxes ls 7 title 'predicted covid-19 deaths (B7)'
+set table sprintf("de%sw.dat",file)
+filter = sprintf("< awk -v a=%d '{ if ($2 == a) print $1, $3}'",age)
+plot filter.' d20_21exc.dat'
+unset table
+
+set title '50-59 - weekly deaths'
+age=59
+file="50_59"
+set output sprintf("de%sw.png",file)
+plot [0:*] "d20_21exc.dat" u ($2 == age ? $1/7 : 1/0):($3) w boxes title 'excess deaths',sprintf("./../d%sdw.dat",file) u ($1-1)/7:($2) w boxes title 'covid-19 deaths',sprintf("./../d%spw.dat",file) u ($1-2)/7:($2) w boxes ls 4 title 'predicted covid-19 deaths', sprintf("./../d%spB7w.dat",file) u ($1-3)/7:($2) w boxes ls 7 title 'predicted covid-19 deaths (B7)'
+set table sprintf("de%sw.dat",file)
+filter = sprintf("< awk -v a=%d '{ if ($2 == a) print $1, $3}'",age)
+plot filter.' d20_21exc.dat'
+unset table
+
+set title '60-69 - weekly deaths'
+age=69
+file="60_69"
+set output sprintf("de%sw.png",file)
+plot [0:*] "d20_21exc.dat" u ($2 == age ? $1/7 : 1/0):($3) w boxes title 'excess deaths',sprintf("./../d%sdw.dat",file) u ($1-1)/7:($2) w boxes title 'covid-19 deaths',sprintf("./../d%spw.dat",file) u ($1-2)/7:($2) w boxes ls 4 title 'predicted covid-19 deaths', sprintf("./../d%spB7w.dat",file) u ($1-3)/7:($2) w boxes ls 7 title 'predicted covid-19 deaths (B7)'
+set table sprintf("de%sw.dat",file)
+filter = sprintf("< awk -v a=%d '{ if ($2 == a) print $1, $3}'",age)
+plot filter.' d20_21exc.dat'
+unset table
+
+set title '70-79 - weekly deaths'
+age=79
+file="70_79"
+set output sprintf("de%sw.png",file)
+plot [0:*] "d20_21exc.dat" u ($2 == age ? $1/7 : 1/0):($3) w boxes title 'excess deaths',sprintf("./../d%sdw.dat",file) u ($1-1)/7:($2) w boxes title 'covid-19 deaths',sprintf("./../d%spw.dat",file) u ($1-2)/7:($2) w boxes ls 4 title 'predicted covid-19 deaths', sprintf("./../d%spB7w.dat",file) u ($1-3)/7:($2) w boxes ls 7 title 'predicted covid-19 deaths (B7)'
+set table sprintf("de%sw.dat",file)
+filter = sprintf("< awk -v a=%d '{ if ($2 == a) print $1, $3}'",age)
+plot filter.' d20_21exc.dat'
+unset table
+
+set title '80-89 - weekly deaths'
+age=89
+file="80_89"
+set output sprintf("de%sw.png",file)
+plot [0:*] "d20_21exc.dat" u ($2 == age ? $1/7 : 1/0):($3) w boxes title 'excess deaths',sprintf("./../d%sdw.dat",file) u ($1-1)/7:($2) w boxes title 'covid-19 deaths',sprintf("./../d%spw.dat",file) u ($1-2)/7:($2) w boxes ls 4 title 'predicted covid-19 deaths', sprintf("./../d%spB7w.dat",file) u ($1-3)/7:($2) w boxes ls 7 title 'predicted covid-19 deaths (B7)'
+set table sprintf("de%sw.dat",file)
+filter = sprintf("< awk -v a=%d '{ if ($2 == a) print $1, $3}'",age)
+plot filter.' d20_21exc.dat'
+unset table
+
+set title '90+ - weekly deaths'
+age=90
+file="90"
+set output sprintf("de%sw.png",file)
+plot [0:*] "d20_21exc.dat" u ($2 == age ? $1/7 : 1/0):($3) w boxes title 'excess deaths',sprintf("./../d%sdw.dat",file) u ($1-1)/7:($2) w boxes title 'covid-19 deaths',sprintf("./../d%spw.dat",file) u ($1-2)/7:($2) w boxes ls 4 title 'predicted covid-19 deaths', sprintf("./../d%spB7w.dat",file) u ($1-3)/7:($2) w boxes ls 7 title 'predicted covid-19 deaths (B7)'
+set table sprintf("de%sw.dat",file)
+filter = sprintf("< awk -v a=%d '{ if ($2 == a) print $1, $3}'",age)
+plot filter.' d20_21exc.dat'
+unset table
+
+#set title '0-150 - weekly deaths'
+#age=100
+#file="_all"
+#set output sprintf("de%sw.png",file)
+#plot [0:*] "d20_21exc.dat" u ($2 == age ? $1 : 1/0):($3) w boxes title 'excess deaths',sprintf("./../d%sdw.dat",file) u ($1-1):($2) w boxes title 'covid-19 deaths',sprintf("./../d%spw.dat",file) u ($1-2):($2) w boxes title 'predicted covid-19 deaths'
