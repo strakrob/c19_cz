@@ -1,5 +1,5 @@
 
-# Curve 0 of 1, 273 points
+# Curve 0 of 1, 275 points
 # Curve title: "CFR modelled(B7)"
 # x y type
 -1  0  o
@@ -275,4 +275,6 @@
  475  0.0150984  i
  477  0.015191  i
  478  0.0120497  i
+ 479  0.0102855  i
+ 480  0.00808823  i
 

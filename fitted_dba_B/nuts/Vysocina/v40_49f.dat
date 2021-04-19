@@ -1,8 +1,8 @@
 
-# Curve 0 of 1, 98 points
+# Curve 0 of 1, 99 points
 # Curve title: "1st dose"
 # x y xlow xhigh type
--1  67854 -1 -1  i
+-1  68592 -1 -1  i
  366  8  366  366  i
  367  45  367  367  i
  368  32  368  368  i
@@ -99,5 +99,6 @@
  470  198  470  470  i
  471  782  471  471  i
  472  123  472  472  i
+ 473  52  473  473  i
 
 

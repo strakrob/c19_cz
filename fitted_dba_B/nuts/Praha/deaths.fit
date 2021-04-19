@@ -678,3 +678,43 @@ a               1.000
 b               0.998  1.000 
 c              -0.999 -1.000  1.000 
 d              -0.999 -1.000  1.000  1.000 
+
+
+*******************************************************************************
+Mon Apr 19 10:01:48 2021
+
+
+FIT:    data read from "dhist.dat" u 1:2
+        format = x:z
+        #datapoints = 36
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = c*a*exp(b*x*d)*exp(a/b*(1-exp(b*x*d)))
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c             d            
+   0 1.9152785636e+07   0.00e+00  3.67e+03    1.508380e-03   1.158730e+01   4.015430e+02   9.436430e-03
+  23 1.5611386866e+04   0.00e+00  3.67e+08    1.432684e-03   7.272534e+00   7.529702e+01   1.417667e-02
+
+After 23 iterations the fit converged.
+final sum of squares of residuals : 15611.4
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 32
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 22.0875
+variance of residuals (reduced chisquare) = WSSR/ndf   : 487.856
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 0.00143268       +/- 0.01288      (898.9%)
+b               = 7.27253          +/- 60.53        (832.4%)
+c               = 75.297           +/- 632.1        (839.4%)
+d               = 0.0141767        +/- 0.1192       (840.6%)
+
+correlation matrix of the fit parameters:
+                a      b      c      d      
+a               1.000 
+b               0.998  1.000 
+c              -0.999 -1.000  1.000 
+d              -0.999 -1.000  1.000  1.000 
