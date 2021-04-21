@@ -1,5 +1,5 @@
 
-# Curve 0 of 1, 77 points
+# Curve 0 of 1, 80 points
 # Curve title: ""d50_59d.dat" u 1:($1>0 ? $2 : 0)"
 # x y type
 -1  0  o
@@ -79,4 +79,7 @@
  461  106  i
  464  108  i
  465  109  i
+ 470  110  i
+ 471  112  i
+ 472  113  i
 

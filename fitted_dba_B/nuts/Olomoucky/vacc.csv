@@ -1483,7 +1483,7 @@
 2021-03-18,Comirnaty,CZ071,"Olomoucký kraj",55-59,63,31,94
 2021-03-18,Comirnaty,CZ071,"Olomoucký kraj",60-64,24,32,56
 2021-03-18,Comirnaty,CZ071,"Olomoucký kraj",65-69,24,10,34
-2021-03-18,Comirnaty,CZ071,"Olomoucký kraj",70-74,307,11,318
+2021-03-18,Comirnaty,CZ071,"Olomoucký kraj",70-74,306,11,317
 2021-03-18,Comirnaty,CZ071,"Olomoucký kraj",75-79,447,6,453
 2021-03-18,Comirnaty,CZ071,"Olomoucký kraj",80+,87,383,470
 2021-03-18,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",18-24,3,0,3
@@ -1506,7 +1506,7 @@
 2021-03-18,VAXZEVRIA,CZ071,"Olomoucký kraj",55-59,9,0,9
 2021-03-18,VAXZEVRIA,CZ071,"Olomoucký kraj",60-64,11,0,11
 2021-03-18,VAXZEVRIA,CZ071,"Olomoucký kraj",65-69,36,0,36
-2021-03-18,VAXZEVRIA,CZ071,"Olomoucký kraj",70-74,172,0,172
+2021-03-18,VAXZEVRIA,CZ071,"Olomoucký kraj",70-74,173,0,173
 2021-03-18,VAXZEVRIA,CZ071,"Olomoucký kraj",75-79,146,0,146
 2021-03-18,VAXZEVRIA,CZ071,"Olomoucký kraj",80+,88,0,88
 2021-03-19,Comirnaty,CZ071,"Olomoucký kraj",18-24,6,5,11
@@ -1589,10 +1589,10 @@
 2021-03-22,Comirnaty,CZ071,"Olomoucký kraj",45-49,77,31,108
 2021-03-22,Comirnaty,CZ071,"Olomoucký kraj",50-54,97,31,128
 2021-03-22,Comirnaty,CZ071,"Olomoucký kraj",55-59,38,70,108
-2021-03-22,Comirnaty,CZ071,"Olomoucký kraj",60-64,17,89,106
-2021-03-22,Comirnaty,CZ071,"Olomoucký kraj",65-69,16,47,63
-2021-03-22,Comirnaty,CZ071,"Olomoucký kraj",70-74,414,36,450
-2021-03-22,Comirnaty,CZ071,"Olomoucký kraj",75-79,226,24,250
+2021-03-22,Comirnaty,CZ071,"Olomoucký kraj",60-64,16,89,105
+2021-03-22,Comirnaty,CZ071,"Olomoucký kraj",65-69,15,47,62
+2021-03-22,Comirnaty,CZ071,"Olomoucký kraj",70-74,413,36,449
+2021-03-22,Comirnaty,CZ071,"Olomoucký kraj",75-79,225,24,249
 2021-03-22,Comirnaty,CZ071,"Olomoucký kraj",80+,44,197,241
 2021-03-22,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",45-49,25,0,25
 2021-03-22,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",50-54,27,0,27
@@ -1606,10 +1606,10 @@
 2021-03-22,VAXZEVRIA,CZ071,"Olomoucký kraj",45-49,1,0,1
 2021-03-22,VAXZEVRIA,CZ071,"Olomoucký kraj",50-54,4,0,4
 2021-03-22,VAXZEVRIA,CZ071,"Olomoucký kraj",55-59,6,0,6
-2021-03-22,VAXZEVRIA,CZ071,"Olomoucký kraj",60-64,11,0,11
-2021-03-22,VAXZEVRIA,CZ071,"Olomoucký kraj",65-69,31,0,31
-2021-03-22,VAXZEVRIA,CZ071,"Olomoucký kraj",70-74,167,0,167
-2021-03-22,VAXZEVRIA,CZ071,"Olomoucký kraj",75-79,133,0,133
+2021-03-22,VAXZEVRIA,CZ071,"Olomoucký kraj",60-64,12,0,12
+2021-03-22,VAXZEVRIA,CZ071,"Olomoucký kraj",65-69,32,0,32
+2021-03-22,VAXZEVRIA,CZ071,"Olomoucký kraj",70-74,168,0,168
+2021-03-22,VAXZEVRIA,CZ071,"Olomoucký kraj",75-79,134,0,134
 2021-03-22,VAXZEVRIA,CZ071,"Olomoucký kraj",80+,51,0,51
 2021-03-23,Comirnaty,CZ071,"Olomoucký kraj",18-24,16,5,21
 2021-03-23,Comirnaty,CZ071,"Olomoucký kraj",25-29,13,13,26
@@ -1654,7 +1654,7 @@
 2021-03-24,Comirnaty,CZ071,"Olomoucký kraj",50-54,96,36,132
 2021-03-24,Comirnaty,CZ071,"Olomoucký kraj",55-59,43,97,140
 2021-03-24,Comirnaty,CZ071,"Olomoucký kraj",60-64,44,73,117
-2021-03-24,Comirnaty,CZ071,"Olomoucký kraj",65-69,20,26,46
+2021-03-24,Comirnaty,CZ071,"Olomoucký kraj",65-69,19,26,45
 2021-03-24,Comirnaty,CZ071,"Olomoucký kraj",70-74,342,43,385
 2021-03-24,Comirnaty,CZ071,"Olomoucký kraj",75-79,90,124,214
 2021-03-24,Comirnaty,CZ071,"Olomoucký kraj",80+,29,132,161
@@ -1677,7 +1677,7 @@
 2021-03-24,VAXZEVRIA,CZ071,"Olomoucký kraj",50-54,3,0,3
 2021-03-24,VAXZEVRIA,CZ071,"Olomoucký kraj",55-59,7,0,7
 2021-03-24,VAXZEVRIA,CZ071,"Olomoucký kraj",60-64,9,0,9
-2021-03-24,VAXZEVRIA,CZ071,"Olomoucký kraj",65-69,22,0,22
+2021-03-24,VAXZEVRIA,CZ071,"Olomoucký kraj",65-69,23,0,23
 2021-03-24,VAXZEVRIA,CZ071,"Olomoucký kraj",70-74,132,0,132
 2021-03-24,VAXZEVRIA,CZ071,"Olomoucký kraj",75-79,71,0,71
 2021-03-24,VAXZEVRIA,CZ071,"Olomoucký kraj",80+,63,0,63
@@ -1796,7 +1796,7 @@
 2021-03-29,Comirnaty,CZ071,"Olomoucký kraj",60-64,42,91,133
 2021-03-29,Comirnaty,CZ071,"Olomoucký kraj",65-69,139,27,166
 2021-03-29,Comirnaty,CZ071,"Olomoucký kraj",70-74,456,92,548
-2021-03-29,Comirnaty,CZ071,"Olomoucký kraj",75-79,181,478,659
+2021-03-29,Comirnaty,CZ071,"Olomoucký kraj",75-79,182,478,660
 2021-03-29,Comirnaty,CZ071,"Olomoucký kraj",80+,94,98,192
 2021-03-29,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",18-24,6,0,6
 2021-03-29,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",25-29,19,0,19
@@ -1819,13 +1819,13 @@
 2021-03-30,Comirnaty,CZ071,"Olomoucký kraj",35-39,39,16,55
 2021-03-30,Comirnaty,CZ071,"Olomoucký kraj",40-44,80,30,110
 2021-03-30,Comirnaty,CZ071,"Olomoucký kraj",45-49,109,75,184
-2021-03-30,Comirnaty,CZ071,"Olomoucký kraj",50-54,70,73,143
+2021-03-30,Comirnaty,CZ071,"Olomoucký kraj",50-54,72,73,145
 2021-03-30,Comirnaty,CZ071,"Olomoucký kraj",55-59,46,53,99
 2021-03-30,Comirnaty,CZ071,"Olomoucký kraj",60-64,36,47,83
 2021-03-30,Comirnaty,CZ071,"Olomoucký kraj",65-69,51,22,73
-2021-03-30,Comirnaty,CZ071,"Olomoucký kraj",70-74,367,192,559
-2021-03-30,Comirnaty,CZ071,"Olomoucký kraj",75-79,143,686,829
-2021-03-30,Comirnaty,CZ071,"Olomoucký kraj",80+,50,106,156
+2021-03-30,Comirnaty,CZ071,"Olomoucký kraj",70-74,371,192,563
+2021-03-30,Comirnaty,CZ071,"Olomoucký kraj",75-79,145,686,831
+2021-03-30,Comirnaty,CZ071,"Olomoucký kraj",80+,51,106,157
 2021-03-30,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",18-24,13,0,13
 2021-03-30,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",25-29,40,0,40
 2021-03-30,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",30-34,34,0,34
@@ -1845,7 +1845,7 @@
 2021-03-31,Comirnaty,CZ071,"Olomoucký kraj",18-24,5,7,12
 2021-03-31,Comirnaty,CZ071,"Olomoucký kraj",25-29,12,20,32
 2021-03-31,Comirnaty,CZ071,"Olomoucký kraj",30-34,14,17,31
-2021-03-31,Comirnaty,CZ071,"Olomoucký kraj",35-39,69,26,95
+2021-03-31,Comirnaty,CZ071,"Olomoucký kraj",35-39,70,26,96
 2021-03-31,Comirnaty,CZ071,"Olomoucký kraj",40-44,85,51,136
 2021-03-31,Comirnaty,CZ071,"Olomoucký kraj",45-49,106,40,146
 2021-03-31,Comirnaty,CZ071,"Olomoucký kraj",50-54,56,28,84
@@ -1914,7 +1914,7 @@
 2021-04-02,Comirnaty,CZ071,"Olomoucký kraj",50-54,4,22,26
 2021-04-02,Comirnaty,CZ071,"Olomoucký kraj",55-59,4,16,20
 2021-04-02,Comirnaty,CZ071,"Olomoucký kraj",60-64,7,13,20
-2021-04-02,Comirnaty,CZ071,"Olomoucký kraj",65-69,54,15,69
+2021-04-02,Comirnaty,CZ071,"Olomoucký kraj",65-69,55,15,70
 2021-04-02,Comirnaty,CZ071,"Olomoucký kraj",70-74,11,238,249
 2021-04-02,Comirnaty,CZ071,"Olomoucký kraj",75-79,27,121,148
 2021-04-02,Comirnaty,CZ071,"Olomoucký kraj",80+,4,29,33
@@ -2039,7 +2039,7 @@
 2021-04-07,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",60-64,47,38,85
 2021-04-07,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",65-69,126,8,134
 2021-04-07,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",70-74,366,91,457
-2021-04-07,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",75-79,276,123,399
+2021-04-07,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",75-79,275,123,398
 2021-04-07,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",80+,233,43,276
 2021-04-07,VAXZEVRIA,CZ071,"Olomoucký kraj",18-24,1,0,1
 2021-04-07,VAXZEVRIA,CZ071,"Olomoucký kraj",30-34,2,0,2
@@ -2058,7 +2058,7 @@
 2021-04-08,Comirnaty,CZ071,"Olomoucký kraj",30-34,23,13,36
 2021-04-08,Comirnaty,CZ071,"Olomoucký kraj",35-39,67,26,93
 2021-04-08,Comirnaty,CZ071,"Olomoucký kraj",40-44,94,32,126
-2021-04-08,Comirnaty,CZ071,"Olomoucký kraj",45-49,82,41,123
+2021-04-08,Comirnaty,CZ071,"Olomoucký kraj",45-49,84,41,125
 2021-04-08,Comirnaty,CZ071,"Olomoucký kraj",50-54,79,61,140
 2021-04-08,Comirnaty,CZ071,"Olomoucký kraj",55-59,106,69,175
 2021-04-08,Comirnaty,CZ071,"Olomoucký kraj",60-64,126,26,152
@@ -2194,7 +2194,7 @@
 2021-04-12,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",40-44,2,9,11
 2021-04-12,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",45-49,5,14,19
 2021-04-12,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",50-54,7,15,22
-2021-04-12,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",55-59,11,40,51
+2021-04-12,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",55-59,12,40,52
 2021-04-12,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",60-64,20,13,33
 2021-04-12,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",65-69,58,7,65
 2021-04-12,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",70-74,175,138,313
@@ -2255,7 +2255,7 @@
 2021-04-14,Comirnaty,CZ071,"Olomoucký kraj",45-49,144,116,260
 2021-04-14,Comirnaty,CZ071,"Olomoucký kraj",50-54,103,105,208
 2021-04-14,Comirnaty,CZ071,"Olomoucký kraj",55-59,132,46,178
-2021-04-14,Comirnaty,CZ071,"Olomoucký kraj",60-64,155,44,199
+2021-04-14,Comirnaty,CZ071,"Olomoucký kraj",60-64,156,44,200
 2021-04-14,Comirnaty,CZ071,"Olomoucký kraj",65-69,145,20,165
 2021-04-14,Comirnaty,CZ071,"Olomoucký kraj",70-74,708,331,1039
 2021-04-14,Comirnaty,CZ071,"Olomoucký kraj",75-79,126,95,221
@@ -2287,7 +2287,7 @@
 2021-04-15,Comirnaty,CZ071,"Olomoucký kraj",0-17,1,0,1
 2021-04-15,Comirnaty,CZ071,"Olomoucký kraj",18-24,33,3,36
 2021-04-15,Comirnaty,CZ071,"Olomoucký kraj",25-29,98,5,103
-2021-04-15,Comirnaty,CZ071,"Olomoucký kraj",30-34,97,12,109
+2021-04-15,Comirnaty,CZ071,"Olomoucký kraj",30-34,98,12,110
 2021-04-15,Comirnaty,CZ071,"Olomoucký kraj",35-39,96,12,108
 2021-04-15,Comirnaty,CZ071,"Olomoucký kraj",40-44,148,32,180
 2021-04-15,Comirnaty,CZ071,"Olomoucký kraj",45-49,116,81,197
@@ -2408,24 +2408,24 @@
 2021-04-19,Comirnaty,CZ071,"Olomoucký kraj",30-34,80,12,92
 2021-04-19,Comirnaty,CZ071,"Olomoucký kraj",35-39,123,15,138
 2021-04-19,Comirnaty,CZ071,"Olomoucký kraj",40-44,137,93,230
-2021-04-19,Comirnaty,CZ071,"Olomoucký kraj",45-49,157,124,281
+2021-04-19,Comirnaty,CZ071,"Olomoucký kraj",45-49,157,125,282
 2021-04-19,Comirnaty,CZ071,"Olomoucký kraj",50-54,119,48,167
 2021-04-19,Comirnaty,CZ071,"Olomoucký kraj",55-59,104,46,150
 2021-04-19,Comirnaty,CZ071,"Olomoucký kraj",60-64,91,38,129
-2021-04-19,Comirnaty,CZ071,"Olomoucký kraj",65-69,704,126,830
-2021-04-19,Comirnaty,CZ071,"Olomoucký kraj",70-74,221,404,625
-2021-04-19,Comirnaty,CZ071,"Olomoucký kraj",75-79,42,181,223
+2021-04-19,Comirnaty,CZ071,"Olomoucký kraj",65-69,705,127,832
+2021-04-19,Comirnaty,CZ071,"Olomoucký kraj",70-74,221,403,624
+2021-04-19,Comirnaty,CZ071,"Olomoucký kraj",75-79,42,182,224
 2021-04-19,Comirnaty,CZ071,"Olomoucký kraj",80+,11,92,103
 2021-04-19,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",18-24,1,0,1
 2021-04-19,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",40-44,2,0,2
-2021-04-19,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",45-49,3,25,28
-2021-04-19,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",50-54,3,27,30
+2021-04-19,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",45-49,4,25,29
+2021-04-19,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",50-54,4,27,31
 2021-04-19,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",55-59,5,20,25
-2021-04-19,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",60-64,14,4,18
-2021-04-19,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",65-69,103,1,104
-2021-04-19,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",70-74,94,26,120
-2021-04-19,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",75-79,33,12,45
-2021-04-19,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",80+,10,4,14
+2021-04-19,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",60-64,18,4,22
+2021-04-19,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",65-69,120,1,121
+2021-04-19,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",70-74,124,26,150
+2021-04-19,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",75-79,39,12,51
+2021-04-19,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",80+,11,4,15
 2021-04-19,VAXZEVRIA,CZ071,"Olomoucký kraj",30-34,2,0,2
 2021-04-19,VAXZEVRIA,CZ071,"Olomoucký kraj",35-39,2,0,2
 2021-04-19,VAXZEVRIA,CZ071,"Olomoucký kraj",40-44,5,0,5
@@ -2435,5 +2435,39 @@
 2021-04-19,VAXZEVRIA,CZ071,"Olomoucký kraj",60-64,33,0,33
 2021-04-19,VAXZEVRIA,CZ071,"Olomoucký kraj",65-69,143,0,143
 2021-04-19,VAXZEVRIA,CZ071,"Olomoucký kraj",70-74,82,0,82
-2021-04-19,VAXZEVRIA,CZ071,"Olomoucký kraj",75-79,34,0,34
+2021-04-19,VAXZEVRIA,CZ071,"Olomoucký kraj",75-79,35,0,35
 2021-04-19,VAXZEVRIA,CZ071,"Olomoucký kraj",80+,20,1,21
+2021-04-20,Comirnaty,CZ071,"Olomoucký kraj",0-17,1,0,1
+2021-04-20,Comirnaty,CZ071,"Olomoucký kraj",18-24,31,9,40
+2021-04-20,Comirnaty,CZ071,"Olomoucký kraj",25-29,41,23,64
+2021-04-20,Comirnaty,CZ071,"Olomoucký kraj",30-34,60,23,83
+2021-04-20,Comirnaty,CZ071,"Olomoucký kraj",35-39,109,39,148
+2021-04-20,Comirnaty,CZ071,"Olomoucký kraj",40-44,112,72,184
+2021-04-20,Comirnaty,CZ071,"Olomoucký kraj",45-49,129,96,225
+2021-04-20,Comirnaty,CZ071,"Olomoucký kraj",50-54,83,61,144
+2021-04-20,Comirnaty,CZ071,"Olomoucký kraj",55-59,88,43,131
+2021-04-20,Comirnaty,CZ071,"Olomoucký kraj",60-64,104,30,134
+2021-04-20,Comirnaty,CZ071,"Olomoucký kraj",65-69,905,43,948
+2021-04-20,Comirnaty,CZ071,"Olomoucký kraj",70-74,289,342,631
+2021-04-20,Comirnaty,CZ071,"Olomoucký kraj",75-79,66,133,199
+2021-04-20,Comirnaty,CZ071,"Olomoucký kraj",80+,17,40,57
+2021-04-20,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",25-29,3,0,3
+2021-04-20,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",35-39,1,0,1
+2021-04-20,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",40-44,4,0,4
+2021-04-20,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",45-49,5,26,31
+2021-04-20,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",50-54,9,11,20
+2021-04-20,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",55-59,18,9,27
+2021-04-20,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",60-64,29,2,31
+2021-04-20,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",65-69,147,1,148
+2021-04-20,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",70-74,139,39,178
+2021-04-20,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",75-79,62,23,85
+2021-04-20,"COVID-19 Vaccine Moderna",CZ071,"Olomoucký kraj",80+,19,4,23
+2021-04-20,VAXZEVRIA,CZ071,"Olomoucký kraj",40-44,3,0,3
+2021-04-20,VAXZEVRIA,CZ071,"Olomoucký kraj",45-49,3,0,3
+2021-04-20,VAXZEVRIA,CZ071,"Olomoucký kraj",50-54,11,0,11
+2021-04-20,VAXZEVRIA,CZ071,"Olomoucký kraj",55-59,17,0,17
+2021-04-20,VAXZEVRIA,CZ071,"Olomoucký kraj",60-64,34,1,35
+2021-04-20,VAXZEVRIA,CZ071,"Olomoucký kraj",65-69,109,0,109
+2021-04-20,VAXZEVRIA,CZ071,"Olomoucký kraj",70-74,62,0,62
+2021-04-20,VAXZEVRIA,CZ071,"Olomoucký kraj",75-79,30,0,30
+2021-04-20,VAXZEVRIA,CZ071,"Olomoucký kraj",80+,6,0,6
