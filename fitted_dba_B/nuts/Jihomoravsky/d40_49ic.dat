@@ -1,5 +1,5 @@
 
-# Curve 0 of 1, 339 points
+# Curve 0 of 1, 340 points
 # Curve title: ""d40_49i.dat" u 1:($1>0 ? $2 : 0)"
 # x y type
 -1  0  o
@@ -340,5 +340,6 @@
  475  30895  i
  476  30950  i
  477  31013  i
- 478  31064  i
+ 478  31063  i
+ 479  31087  i
 

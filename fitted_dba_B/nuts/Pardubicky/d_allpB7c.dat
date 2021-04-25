@@ -1,5 +1,5 @@
 
-# Curve 0 of 1, 354 points
+# Curve 0 of 1, 355 points
 # Curve title: ""d_allpB7.dat" u 1:($1>0 ? $2 : 0)"
 # x y type
  76  0.0354585  i
@@ -356,4 +356,5 @@
  483  1669.51  i
  484  1670.71  i
  485  1673.08  i
+ 486  1673.39  i
 

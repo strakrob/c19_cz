@@ -1,5 +1,5 @@
 
-# Curve 0 of 1, 325 points
+# Curve 0 of 1, 326 points
 # Curve title: ""d0_29pB7.dat" u 1:($1>0 ? $2 : 0)"
 # x y type
 -1  0  o
@@ -327,4 +327,5 @@
  483  1.538  i
  484  1.5392  i
  485  1.54102  i
+ 486  1.54164  i
 

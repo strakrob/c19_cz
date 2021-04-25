@@ -1580,7 +1580,7 @@
 2021-03-27,Comirnaty,CZ072,"Zlínský kraj",55-59,11,0,11
 2021-03-27,Comirnaty,CZ072,"Zlínský kraj",60-64,25,0,25
 2021-03-27,Comirnaty,CZ072,"Zlínský kraj",65-69,22,0,22
-2021-03-27,Comirnaty,CZ072,"Zlínský kraj",70-74,274,1,275
+2021-03-27,Comirnaty,CZ072,"Zlínský kraj",70-74,276,1,277
 2021-03-27,Comirnaty,CZ072,"Zlínský kraj",75-79,89,0,89
 2021-03-27,Comirnaty,CZ072,"Zlínský kraj",80+,23,56,79
 2021-03-27,"COVID-19 Vaccine Moderna",CZ072,"Zlínský kraj",35-39,1,0,1
@@ -2292,12 +2292,12 @@
 2021-04-21,VAXZEVRIA,CZ072,"Zlínský kraj",80+,12,0,12
 2021-04-22,Comirnaty,CZ072,"Zlínský kraj",0-17,1,0,1
 2021-04-22,Comirnaty,CZ072,"Zlínský kraj",18-24,9,13,22
-2021-04-22,Comirnaty,CZ072,"Zlínský kraj",25-29,13,5,18
+2021-04-22,Comirnaty,CZ072,"Zlínský kraj",25-29,15,5,20
 2021-04-22,Comirnaty,CZ072,"Zlínský kraj",30-34,10,13,23
 2021-04-22,Comirnaty,CZ072,"Zlínský kraj",35-39,23,15,38
 2021-04-22,Comirnaty,CZ072,"Zlínský kraj",40-44,70,27,97
 2021-04-22,Comirnaty,CZ072,"Zlínský kraj",45-49,40,27,67
-2021-04-22,Comirnaty,CZ072,"Zlínský kraj",50-54,56,25,81
+2021-04-22,Comirnaty,CZ072,"Zlínský kraj",50-54,58,25,83
 2021-04-22,Comirnaty,CZ072,"Zlínský kraj",55-59,43,42,85
 2021-04-22,Comirnaty,CZ072,"Zlínský kraj",60-64,71,34,105
 2021-04-22,Comirnaty,CZ072,"Zlínský kraj",65-69,891,34,925
@@ -2333,16 +2333,16 @@
 2021-04-23,Comirnaty,CZ072,"Zlínský kraj",0-17,2,0,2
 2021-04-23,Comirnaty,CZ072,"Zlínský kraj",18-24,11,4,15
 2021-04-23,Comirnaty,CZ072,"Zlínský kraj",25-29,14,4,18
-2021-04-23,Comirnaty,CZ072,"Zlínský kraj",30-34,16,6,22
-2021-04-23,Comirnaty,CZ072,"Zlínský kraj",35-39,51,10,61
-2021-04-23,Comirnaty,CZ072,"Zlínský kraj",40-44,89,13,102
+2021-04-23,Comirnaty,CZ072,"Zlínský kraj",30-34,17,6,23
+2021-04-23,Comirnaty,CZ072,"Zlínský kraj",35-39,53,10,63
+2021-04-23,Comirnaty,CZ072,"Zlínský kraj",40-44,95,13,108
 2021-04-23,Comirnaty,CZ072,"Zlínský kraj",45-49,68,8,76
 2021-04-23,Comirnaty,CZ072,"Zlínský kraj",50-54,63,8,71
 2021-04-23,Comirnaty,CZ072,"Zlínský kraj",55-59,59,28,87
 2021-04-23,Comirnaty,CZ072,"Zlínský kraj",60-64,107,19,126
-2021-04-23,Comirnaty,CZ072,"Zlínský kraj",65-69,990,18,1008
-2021-04-23,Comirnaty,CZ072,"Zlínský kraj",70-74,252,346,598
-2021-04-23,Comirnaty,CZ072,"Zlínský kraj",75-79,99,87,186
+2021-04-23,Comirnaty,CZ072,"Zlínský kraj",65-69,991,18,1009
+2021-04-23,Comirnaty,CZ072,"Zlínský kraj",70-74,253,346,599
+2021-04-23,Comirnaty,CZ072,"Zlínský kraj",75-79,101,87,188
 2021-04-23,Comirnaty,CZ072,"Zlínský kraj",80+,33,27,60
 2021-04-23,"COVID-19 Vaccine Janssen",CZ072,"Zlínský kraj",45-49,3,0,3
 2021-04-23,"COVID-19 Vaccine Janssen",CZ072,"Zlínský kraj",55-59,1,0,1
@@ -2368,3 +2368,16 @@
 2021-04-23,VAXZEVRIA,CZ072,"Zlínský kraj",70-74,147,1,148
 2021-04-23,VAXZEVRIA,CZ072,"Zlínský kraj",75-79,73,1,74
 2021-04-23,VAXZEVRIA,CZ072,"Zlínský kraj",80+,25,3,28
+2021-04-24,Comirnaty,CZ072,"Zlínský kraj",18-24,2,3,5
+2021-04-24,Comirnaty,CZ072,"Zlínský kraj",25-29,5,1,6
+2021-04-24,Comirnaty,CZ072,"Zlínský kraj",30-34,11,6,17
+2021-04-24,Comirnaty,CZ072,"Zlínský kraj",35-39,10,3,13
+2021-04-24,Comirnaty,CZ072,"Zlínský kraj",40-44,9,4,13
+2021-04-24,Comirnaty,CZ072,"Zlínský kraj",45-49,19,3,22
+2021-04-24,Comirnaty,CZ072,"Zlínský kraj",50-54,18,7,25
+2021-04-24,Comirnaty,CZ072,"Zlínský kraj",55-59,16,10,26
+2021-04-24,Comirnaty,CZ072,"Zlínský kraj",60-64,28,27,55
+2021-04-24,Comirnaty,CZ072,"Zlínský kraj",65-69,209,22,231
+2021-04-24,Comirnaty,CZ072,"Zlínský kraj",70-74,44,268,312
+2021-04-24,Comirnaty,CZ072,"Zlínský kraj",75-79,12,95,107
+2021-04-24,Comirnaty,CZ072,"Zlínský kraj",80+,6,26,32

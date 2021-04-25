@@ -1189,7 +1189,7 @@
 2021-03-13,Comirnaty,CZ063,"Kraj Vysočina",35-39,14,0,14
 2021-03-13,Comirnaty,CZ063,"Kraj Vysočina",40-44,20,0,20
 2021-03-13,Comirnaty,CZ063,"Kraj Vysočina",45-49,64,0,64
-2021-03-13,Comirnaty,CZ063,"Kraj Vysočina",50-54,56,0,56
+2021-03-13,Comirnaty,CZ063,"Kraj Vysočina",50-54,57,0,57
 2021-03-13,Comirnaty,CZ063,"Kraj Vysočina",55-59,62,0,62
 2021-03-13,Comirnaty,CZ063,"Kraj Vysočina",60-64,38,0,38
 2021-03-13,Comirnaty,CZ063,"Kraj Vysočina",65-69,10,0,10
@@ -1861,10 +1861,10 @@
 2021-04-08,Comirnaty,CZ063,"Kraj Vysočina",45-49,49,19,68
 2021-04-08,Comirnaty,CZ063,"Kraj Vysočina",50-54,50,22,72
 2021-04-08,Comirnaty,CZ063,"Kraj Vysočina",55-59,60,11,71
-2021-04-08,Comirnaty,CZ063,"Kraj Vysočina",60-64,147,17,164
-2021-04-08,Comirnaty,CZ063,"Kraj Vysočina",65-69,208,3,211
+2021-04-08,Comirnaty,CZ063,"Kraj Vysočina",60-64,148,17,165
+2021-04-08,Comirnaty,CZ063,"Kraj Vysočina",65-69,210,3,213
 2021-04-08,Comirnaty,CZ063,"Kraj Vysočina",70-74,566,1222,1788
-2021-04-08,Comirnaty,CZ063,"Kraj Vysočina",75-79,272,505,777
+2021-04-08,Comirnaty,CZ063,"Kraj Vysočina",75-79,274,505,779
 2021-04-08,Comirnaty,CZ063,"Kraj Vysočina",80+,182,312,494
 2021-04-08,"COVID-19 Vaccine Moderna",CZ063,"Kraj Vysočina",18-24,0,2,2
 2021-04-08,"COVID-19 Vaccine Moderna",CZ063,"Kraj Vysočina",30-34,0,12,12
@@ -2357,12 +2357,33 @@
 2021-04-23,"COVID-19 Vaccine Moderna",CZ063,"Kraj Vysočina",80+,0,1,1
 2021-04-23,VAXZEVRIA,CZ063,"Kraj Vysočina",30-34,1,0,1
 2021-04-23,VAXZEVRIA,CZ063,"Kraj Vysočina",35-39,1,0,1
-2021-04-23,VAXZEVRIA,CZ063,"Kraj Vysočina",40-44,5,0,5
+2021-04-23,VAXZEVRIA,CZ063,"Kraj Vysočina",40-44,6,0,6
 2021-04-23,VAXZEVRIA,CZ063,"Kraj Vysočina",45-49,7,0,7
 2021-04-23,VAXZEVRIA,CZ063,"Kraj Vysočina",50-54,5,0,5
-2021-04-23,VAXZEVRIA,CZ063,"Kraj Vysočina",55-59,18,0,18
-2021-04-23,VAXZEVRIA,CZ063,"Kraj Vysočina",60-64,52,0,52
-2021-04-23,VAXZEVRIA,CZ063,"Kraj Vysočina",65-69,103,0,103
-2021-04-23,VAXZEVRIA,CZ063,"Kraj Vysočina",70-74,110,0,110
-2021-04-23,VAXZEVRIA,CZ063,"Kraj Vysočina",75-79,55,0,55
+2021-04-23,VAXZEVRIA,CZ063,"Kraj Vysočina",55-59,20,0,20
+2021-04-23,VAXZEVRIA,CZ063,"Kraj Vysočina",60-64,54,0,54
+2021-04-23,VAXZEVRIA,CZ063,"Kraj Vysočina",65-69,108,0,108
+2021-04-23,VAXZEVRIA,CZ063,"Kraj Vysočina",70-74,111,0,111
+2021-04-23,VAXZEVRIA,CZ063,"Kraj Vysočina",75-79,56,0,56
 2021-04-23,VAXZEVRIA,CZ063,"Kraj Vysočina",80+,35,0,35
+2021-04-24,Comirnaty,CZ063,"Kraj Vysočina",0-17,7,0,7
+2021-04-24,Comirnaty,CZ063,"Kraj Vysočina",18-24,68,0,68
+2021-04-24,Comirnaty,CZ063,"Kraj Vysočina",25-29,95,0,95
+2021-04-24,Comirnaty,CZ063,"Kraj Vysočina",30-34,77,0,77
+2021-04-24,Comirnaty,CZ063,"Kraj Vysočina",35-39,30,0,30
+2021-04-24,Comirnaty,CZ063,"Kraj Vysočina",40-44,61,1,62
+2021-04-24,Comirnaty,CZ063,"Kraj Vysočina",45-49,77,0,77
+2021-04-24,Comirnaty,CZ063,"Kraj Vysočina",50-54,48,1,49
+2021-04-24,Comirnaty,CZ063,"Kraj Vysočina",55-59,50,0,50
+2021-04-24,Comirnaty,CZ063,"Kraj Vysočina",60-64,75,0,75
+2021-04-24,Comirnaty,CZ063,"Kraj Vysočina",65-69,748,0,748
+2021-04-24,Comirnaty,CZ063,"Kraj Vysočina",70-74,166,1,167
+2021-04-24,Comirnaty,CZ063,"Kraj Vysočina",75-79,63,1,64
+2021-04-24,Comirnaty,CZ063,"Kraj Vysočina",80+,20,0,20
+2021-04-24,VAXZEVRIA,CZ063,"Kraj Vysočina",45-49,1,0,1
+2021-04-24,VAXZEVRIA,CZ063,"Kraj Vysočina",50-54,1,0,1
+2021-04-24,VAXZEVRIA,CZ063,"Kraj Vysočina",60-64,3,0,3
+2021-04-24,VAXZEVRIA,CZ063,"Kraj Vysočina",65-69,23,0,23
+2021-04-24,VAXZEVRIA,CZ063,"Kraj Vysočina",70-74,29,0,29
+2021-04-24,VAXZEVRIA,CZ063,"Kraj Vysočina",75-79,10,0,10
+2021-04-24,VAXZEVRIA,CZ063,"Kraj Vysočina",80+,2,0,2
