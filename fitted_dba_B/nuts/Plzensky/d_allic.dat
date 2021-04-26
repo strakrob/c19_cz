@@ -1,5 +1,5 @@
 
-# Curve 0 of 1, 361 points
+# Curve 0 of 1, 362 points
 # Curve title: ""d_alli.dat" u 1:($1>0 ? $2 : 0)"
 # x y type
  69  1  i
@@ -362,5 +362,6 @@
  476  97196  i
  477  97276  i
  478  97369  i
- 479  97418  i
+ 479  97419  i
+ 480  97439  i
 

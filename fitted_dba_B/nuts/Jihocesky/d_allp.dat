@@ -1,5 +1,5 @@
 
-# Curve 0 of 1, 342 points
+# Curve 0 of 1, 343 points
 # Curve title: "CFR predicted deaths"
 # x y xlow xhigh type
  77  0.00138899  77  77  i
@@ -343,5 +343,6 @@
  484  4.95887  484  484  i
  485  2.40285  485  485  i
  486  0.530004  486  486  i
+ 487  0.363412  487  487  i
 
 

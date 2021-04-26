@@ -792,11 +792,11 @@
 2021-02-22,Comirnaty,CZ010,"Hlavní město Praha",25-29,120,17,137
 2021-02-22,Comirnaty,CZ010,"Hlavní město Praha",30-34,110,10,120
 2021-02-22,Comirnaty,CZ010,"Hlavní město Praha",35-39,99,13,112
-2021-02-22,Comirnaty,CZ010,"Hlavní město Praha",40-44,117,17,134
+2021-02-22,Comirnaty,CZ010,"Hlavní město Praha",40-44,119,17,136
 2021-02-22,Comirnaty,CZ010,"Hlavní město Praha",45-49,78,17,95
 2021-02-22,Comirnaty,CZ010,"Hlavní město Praha",50-54,96,19,115
 2021-02-22,Comirnaty,CZ010,"Hlavní město Praha",55-59,92,25,117
-2021-02-22,Comirnaty,CZ010,"Hlavní město Praha",60-64,90,10,100
+2021-02-22,Comirnaty,CZ010,"Hlavní město Praha",60-64,91,10,101
 2021-02-22,Comirnaty,CZ010,"Hlavní město Praha",65-69,83,16,99
 2021-02-22,Comirnaty,CZ010,"Hlavní město Praha",70-74,50,13,63
 2021-02-22,Comirnaty,CZ010,"Hlavní město Praha",75-79,31,10,41
@@ -1360,7 +1360,7 @@
 2021-03-12,Comirnaty,CZ010,"Hlavní město Praha",25-29,81,46,127
 2021-03-12,Comirnaty,CZ010,"Hlavní město Praha",30-34,89,59,148
 2021-03-12,Comirnaty,CZ010,"Hlavní město Praha",35-39,97,40,137
-2021-03-12,Comirnaty,CZ010,"Hlavní město Praha",40-44,176,60,236
+2021-03-12,Comirnaty,CZ010,"Hlavní město Praha",40-44,177,60,237
 2021-03-12,Comirnaty,CZ010,"Hlavní město Praha",45-49,178,59,237
 2021-03-12,Comirnaty,CZ010,"Hlavní město Praha",50-54,125,94,219
 2021-03-12,Comirnaty,CZ010,"Hlavní město Praha",55-59,151,93,244
@@ -1947,7 +1947,7 @@
 2021-03-28,Comirnaty,CZ010,"Hlavní město Praha",0-17,0,1,1
 2021-03-28,Comirnaty,CZ010,"Hlavní město Praha",18-24,20,10,30
 2021-03-28,Comirnaty,CZ010,"Hlavní město Praha",25-29,33,15,48
-2021-03-28,Comirnaty,CZ010,"Hlavní město Praha",30-34,40,9,49
+2021-03-28,Comirnaty,CZ010,"Hlavní město Praha",30-34,41,9,50
 2021-03-28,Comirnaty,CZ010,"Hlavní město Praha",35-39,88,16,104
 2021-03-28,Comirnaty,CZ010,"Hlavní město Praha",40-44,71,23,94
 2021-03-28,Comirnaty,CZ010,"Hlavní město Praha",45-49,56,11,67
@@ -1955,7 +1955,7 @@
 2021-03-28,Comirnaty,CZ010,"Hlavní město Praha",55-59,48,42,90
 2021-03-28,Comirnaty,CZ010,"Hlavní město Praha",60-64,51,56,107
 2021-03-28,Comirnaty,CZ010,"Hlavní město Praha",65-69,133,71,204
-2021-03-28,Comirnaty,CZ010,"Hlavní město Praha",70-74,844,42,886
+2021-03-28,Comirnaty,CZ010,"Hlavní město Praha",70-74,846,42,888
 2021-03-28,Comirnaty,CZ010,"Hlavní město Praha",75-79,403,241,644
 2021-03-28,Comirnaty,CZ010,"Hlavní město Praha",80+,62,90,152
 2021-03-28,"COVID-19 Vaccine Moderna",CZ010,"Hlavní město Praha",18-24,15,0,15
@@ -1967,7 +1967,7 @@
 2021-03-28,"COVID-19 Vaccine Moderna",CZ010,"Hlavní město Praha",50-54,21,0,21
 2021-03-28,"COVID-19 Vaccine Moderna",CZ010,"Hlavní město Praha",55-59,30,0,30
 2021-03-28,"COVID-19 Vaccine Moderna",CZ010,"Hlavní město Praha",60-64,31,0,31
-2021-03-28,"COVID-19 Vaccine Moderna",CZ010,"Hlavní město Praha",65-69,33,0,33
+2021-03-28,"COVID-19 Vaccine Moderna",CZ010,"Hlavní město Praha",65-69,34,0,34
 2021-03-28,"COVID-19 Vaccine Moderna",CZ010,"Hlavní město Praha",70-74,25,0,25
 2021-03-28,"COVID-19 Vaccine Moderna",CZ010,"Hlavní město Praha",75-79,8,0,8
 2021-03-28,"COVID-19 Vaccine Moderna",CZ010,"Hlavní město Praha",80+,1,0,1
@@ -2061,7 +2061,7 @@
 2021-03-31,Comirnaty,CZ010,"Hlavní město Praha",40-44,120,171,291
 2021-03-31,Comirnaty,CZ010,"Hlavní město Praha",45-49,148,203,351
 2021-03-31,Comirnaty,CZ010,"Hlavní město Praha",50-54,106,182,288
-2021-03-31,Comirnaty,CZ010,"Hlavní město Praha",55-59,117,178,295
+2021-03-31,Comirnaty,CZ010,"Hlavní město Praha",55-59,118,178,296
 2021-03-31,Comirnaty,CZ010,"Hlavní město Praha",60-64,107,175,282
 2021-03-31,Comirnaty,CZ010,"Hlavní město Praha",65-69,166,148,314
 2021-03-31,Comirnaty,CZ010,"Hlavní město Praha",70-74,689,377,1066
@@ -2188,12 +2188,9 @@
 2021-04-04,Comirnaty,CZ010,"Hlavní město Praha",55-59,31,113,144
 2021-04-04,Comirnaty,CZ010,"Hlavní město Praha",60-64,19,73,92
 2021-04-04,Comirnaty,CZ010,"Hlavní město Praha",65-69,39,34,73
-2021-04-04,Comirnaty,CZ010,"Hlavní město Praha",70-74,550,39,589
-2021-04-04,Comirnaty,CZ010,"Hlavní město Praha",75-79,109,392,501
+2021-04-04,Comirnaty,CZ010,"Hlavní město Praha",70-74,555,39,594
+2021-04-04,Comirnaty,CZ010,"Hlavní město Praha",75-79,111,392,503
 2021-04-04,Comirnaty,CZ010,"Hlavní město Praha",80+,10,78,88
-2021-04-04,"COVID-19 Vaccine Moderna",CZ010,"Hlavní město Praha",55-59,1,0,1
-2021-04-04,"COVID-19 Vaccine Moderna",CZ010,"Hlavní město Praha",70-74,4,0,4
-2021-04-04,"COVID-19 Vaccine Moderna",CZ010,"Hlavní město Praha",75-79,2,0,2
 2021-04-05,Comirnaty,CZ010,"Hlavní město Praha",18-24,4,13,17
 2021-04-05,Comirnaty,CZ010,"Hlavní město Praha",25-29,17,15,32
 2021-04-05,Comirnaty,CZ010,"Hlavní město Praha",30-34,16,15,31
@@ -2333,11 +2330,11 @@
 2021-04-09,Comirnaty,CZ010,"Hlavní město Praha",25-29,134,194,328
 2021-04-09,Comirnaty,CZ010,"Hlavní město Praha",30-34,187,161,348
 2021-04-09,Comirnaty,CZ010,"Hlavní město Praha",35-39,208,139,347
-2021-04-09,Comirnaty,CZ010,"Hlavní město Praha",40-44,272,189,461
+2021-04-09,Comirnaty,CZ010,"Hlavní město Praha",40-44,272,191,463
 2021-04-09,Comirnaty,CZ010,"Hlavní město Praha",45-49,260,253,513
 2021-04-09,Comirnaty,CZ010,"Hlavní město Praha",50-54,224,213,437
 2021-04-09,Comirnaty,CZ010,"Hlavní město Praha",55-59,266,233,499
-2021-04-09,Comirnaty,CZ010,"Hlavní město Praha",60-64,174,170,344
+2021-04-09,Comirnaty,CZ010,"Hlavní město Praha",60-64,174,171,345
 2021-04-09,Comirnaty,CZ010,"Hlavní město Praha",65-69,222,182,404
 2021-04-09,Comirnaty,CZ010,"Hlavní město Praha",70-74,563,736,1299
 2021-04-09,Comirnaty,CZ010,"Hlavní město Praha",75-79,340,1524,1864
@@ -2408,7 +2405,7 @@
 2021-04-11,Comirnaty,CZ010,"Hlavní město Praha",60-64,59,52,111
 2021-04-11,Comirnaty,CZ010,"Hlavní město Praha",65-69,80,48,128
 2021-04-11,Comirnaty,CZ010,"Hlavní město Praha",70-74,340,922,1262
-2021-04-11,Comirnaty,CZ010,"Hlavní město Praha",75-79,151,618,769
+2021-04-11,Comirnaty,CZ010,"Hlavní město Praha",75-79,150,618,768
 2021-04-11,Comirnaty,CZ010,"Hlavní město Praha",80+,41,94,135
 2021-04-11,"COVID-19 Vaccine Moderna",CZ010,"Hlavní město Praha",18-24,1,0,1
 2021-04-11,"COVID-19 Vaccine Moderna",CZ010,"Hlavní město Praha",25-29,3,0,3
@@ -2709,6 +2706,7 @@
 2021-04-19,"COVID-19 Vaccine Moderna",CZ010,"Hlavní město Praha",75-79,33,224,257
 2021-04-19,"COVID-19 Vaccine Moderna",CZ010,"Hlavní město Praha",80+,3,37,40
 2021-04-19,VAXZEVRIA,CZ010,"Hlavní město Praha",18-24,2,0,2
+2021-04-19,VAXZEVRIA,CZ010,"Hlavní město Praha",25-29,1,0,1
 2021-04-19,VAXZEVRIA,CZ010,"Hlavní město Praha",30-34,6,0,6
 2021-04-19,VAXZEVRIA,CZ010,"Hlavní město Praha",35-39,11,0,11
 2021-04-19,VAXZEVRIA,CZ010,"Hlavní město Praha",40-44,22,0,22
@@ -2721,18 +2719,18 @@
 2021-04-19,VAXZEVRIA,CZ010,"Hlavní město Praha",75-79,109,0,109
 2021-04-19,VAXZEVRIA,CZ010,"Hlavní město Praha",80+,61,0,61
 2021-04-20,Comirnaty,CZ010,"Hlavní město Praha",0-17,1,2,3
-2021-04-20,Comirnaty,CZ010,"Hlavní město Praha",18-24,68,78,146
+2021-04-20,Comirnaty,CZ010,"Hlavní město Praha",18-24,69,78,147
 2021-04-20,Comirnaty,CZ010,"Hlavní město Praha",25-29,83,95,178
-2021-04-20,Comirnaty,CZ010,"Hlavní město Praha",30-34,116,72,188
-2021-04-20,Comirnaty,CZ010,"Hlavní město Praha",35-39,132,71,203
-2021-04-20,Comirnaty,CZ010,"Hlavní město Praha",40-44,199,117,316
-2021-04-20,Comirnaty,CZ010,"Hlavní město Praha",45-49,202,129,331
-2021-04-20,Comirnaty,CZ010,"Hlavní město Praha",50-54,197,114,311
-2021-04-20,Comirnaty,CZ010,"Hlavní město Praha",55-59,224,146,370
-2021-04-20,Comirnaty,CZ010,"Hlavní město Praha",60-64,383,124,507
-2021-04-20,Comirnaty,CZ010,"Hlavní město Praha",65-69,1100,155,1255
-2021-04-20,Comirnaty,CZ010,"Hlavní město Praha",70-74,501,1007,1508
-2021-04-20,Comirnaty,CZ010,"Hlavní město Praha",75-79,147,659,806
+2021-04-20,Comirnaty,CZ010,"Hlavní město Praha",30-34,119,72,191
+2021-04-20,Comirnaty,CZ010,"Hlavní město Praha",35-39,136,71,207
+2021-04-20,Comirnaty,CZ010,"Hlavní město Praha",40-44,209,117,326
+2021-04-20,Comirnaty,CZ010,"Hlavní město Praha",45-49,206,129,335
+2021-04-20,Comirnaty,CZ010,"Hlavní město Praha",50-54,202,114,316
+2021-04-20,Comirnaty,CZ010,"Hlavní město Praha",55-59,230,146,376
+2021-04-20,Comirnaty,CZ010,"Hlavní město Praha",60-64,392,124,516
+2021-04-20,Comirnaty,CZ010,"Hlavní město Praha",65-69,1115,155,1270
+2021-04-20,Comirnaty,CZ010,"Hlavní město Praha",70-74,505,1007,1512
+2021-04-20,Comirnaty,CZ010,"Hlavní město Praha",75-79,148,659,807
 2021-04-20,Comirnaty,CZ010,"Hlavní město Praha",80+,34,104,138
 2021-04-20,"COVID-19 Vaccine Moderna",CZ010,"Hlavní město Praha",18-24,5,5,10
 2021-04-20,"COVID-19 Vaccine Moderna",CZ010,"Hlavní město Praha",25-29,6,8,14
@@ -2794,7 +2792,7 @@
 2021-04-21,VAXZEVRIA,CZ010,"Hlavní město Praha",45-49,37,9,46
 2021-04-21,VAXZEVRIA,CZ010,"Hlavní město Praha",50-54,25,8,33
 2021-04-21,VAXZEVRIA,CZ010,"Hlavní město Praha",55-59,71,12,83
-2021-04-21,VAXZEVRIA,CZ010,"Hlavní město Praha",60-64,115,6,121
+2021-04-21,VAXZEVRIA,CZ010,"Hlavní město Praha",60-64,116,6,122
 2021-04-21,VAXZEVRIA,CZ010,"Hlavní město Praha",65-69,376,9,385
 2021-04-21,VAXZEVRIA,CZ010,"Hlavní město Praha",70-74,229,2,231
 2021-04-21,VAXZEVRIA,CZ010,"Hlavní město Praha",75-79,163,1,164
@@ -2884,13 +2882,13 @@
 2021-04-23,VAXZEVRIA,CZ010,"Hlavní město Praha",35-39,11,11,22
 2021-04-23,VAXZEVRIA,CZ010,"Hlavní město Praha",40-44,20,13,33
 2021-04-23,VAXZEVRIA,CZ010,"Hlavní město Praha",45-49,30,12,42
-2021-04-23,VAXZEVRIA,CZ010,"Hlavní město Praha",50-54,35,10,45
-2021-04-23,VAXZEVRIA,CZ010,"Hlavní město Praha",55-59,57,11,68
-2021-04-23,VAXZEVRIA,CZ010,"Hlavní město Praha",60-64,123,11,134
-2021-04-23,VAXZEVRIA,CZ010,"Hlavní město Praha",65-69,217,5,222
-2021-04-23,VAXZEVRIA,CZ010,"Hlavní město Praha",70-74,107,10,117
+2021-04-23,VAXZEVRIA,CZ010,"Hlavní město Praha",50-54,36,10,46
+2021-04-23,VAXZEVRIA,CZ010,"Hlavní město Praha",55-59,59,11,70
+2021-04-23,VAXZEVRIA,CZ010,"Hlavní město Praha",60-64,124,11,135
+2021-04-23,VAXZEVRIA,CZ010,"Hlavní město Praha",65-69,222,5,227
+2021-04-23,VAXZEVRIA,CZ010,"Hlavní město Praha",70-74,107,11,118
 2021-04-23,VAXZEVRIA,CZ010,"Hlavní město Praha",75-79,62,16,78
-2021-04-23,VAXZEVRIA,CZ010,"Hlavní město Praha",80+,36,9,45
+2021-04-23,VAXZEVRIA,CZ010,"Hlavní město Praha",80+,38,9,47
 2021-04-24,Comirnaty,CZ010,"Hlavní město Praha",0-17,1,1,2
 2021-04-24,Comirnaty,CZ010,"Hlavní město Praha",18-24,57,37,94
 2021-04-24,Comirnaty,CZ010,"Hlavní město Praha",25-29,91,82,173
@@ -2898,7 +2896,7 @@
 2021-04-24,Comirnaty,CZ010,"Hlavní město Praha",35-39,142,114,256
 2021-04-24,Comirnaty,CZ010,"Hlavní město Praha",40-44,267,111,378
 2021-04-24,Comirnaty,CZ010,"Hlavní město Praha",45-49,343,90,433
-2021-04-24,Comirnaty,CZ010,"Hlavní město Praha",50-54,152,58,210
+2021-04-24,Comirnaty,CZ010,"Hlavní město Praha",50-54,153,58,211
 2021-04-24,Comirnaty,CZ010,"Hlavní město Praha",55-59,146,39,185
 2021-04-24,Comirnaty,CZ010,"Hlavní město Praha",60-64,144,37,181
 2021-04-24,Comirnaty,CZ010,"Hlavní město Praha",65-69,248,53,301
@@ -2911,10 +2909,37 @@
 2021-04-24,"COVID-19 Vaccine Moderna",CZ010,"Hlavní město Praha",35-39,1,2,3
 2021-04-24,"COVID-19 Vaccine Moderna",CZ010,"Hlavní město Praha",40-44,2,2,4
 2021-04-24,"COVID-19 Vaccine Moderna",CZ010,"Hlavní město Praha",45-49,3,2,5
-2021-04-24,"COVID-19 Vaccine Moderna",CZ010,"Hlavní město Praha",50-54,1,2,3
+2021-04-24,"COVID-19 Vaccine Moderna",CZ010,"Hlavní město Praha",50-54,2,2,4
 2021-04-24,"COVID-19 Vaccine Moderna",CZ010,"Hlavní město Praha",55-59,5,1,6
 2021-04-24,"COVID-19 Vaccine Moderna",CZ010,"Hlavní město Praha",60-64,4,2,6
 2021-04-24,"COVID-19 Vaccine Moderna",CZ010,"Hlavní město Praha",65-69,21,3,24
 2021-04-24,"COVID-19 Vaccine Moderna",CZ010,"Hlavní město Praha",70-74,38,6,44
 2021-04-24,"COVID-19 Vaccine Moderna",CZ010,"Hlavní město Praha",75-79,5,8,13
 2021-04-24,"COVID-19 Vaccine Moderna",CZ010,"Hlavní město Praha",80+,1,5,6
+2021-04-25,Comirnaty,CZ010,"Hlavní město Praha",0-17,0,1,1
+2021-04-25,Comirnaty,CZ010,"Hlavní město Praha",18-24,6,3,9
+2021-04-25,Comirnaty,CZ010,"Hlavní město Praha",25-29,45,13,58
+2021-04-25,Comirnaty,CZ010,"Hlavní město Praha",30-34,72,10,82
+2021-04-25,Comirnaty,CZ010,"Hlavní město Praha",35-39,53,8,61
+2021-04-25,Comirnaty,CZ010,"Hlavní město Praha",40-44,81,30,111
+2021-04-25,Comirnaty,CZ010,"Hlavní město Praha",45-49,144,20,164
+2021-04-25,Comirnaty,CZ010,"Hlavní město Praha",50-54,48,9,57
+2021-04-25,Comirnaty,CZ010,"Hlavní město Praha",55-59,43,26,69
+2021-04-25,Comirnaty,CZ010,"Hlavní město Praha",60-64,88,12,100
+2021-04-25,Comirnaty,CZ010,"Hlavní město Praha",65-69,259,23,282
+2021-04-25,Comirnaty,CZ010,"Hlavní město Praha",70-74,164,465,629
+2021-04-25,Comirnaty,CZ010,"Hlavní město Praha",75-79,40,258,298
+2021-04-25,Comirnaty,CZ010,"Hlavní město Praha",80+,17,34,51
+2021-04-25,"COVID-19 Vaccine Moderna",CZ010,"Hlavní město Praha",18-24,1,15,16
+2021-04-25,"COVID-19 Vaccine Moderna",CZ010,"Hlavní město Praha",25-29,5,17,22
+2021-04-25,"COVID-19 Vaccine Moderna",CZ010,"Hlavní město Praha",30-34,1,38,39
+2021-04-25,"COVID-19 Vaccine Moderna",CZ010,"Hlavní město Praha",35-39,8,50,58
+2021-04-25,"COVID-19 Vaccine Moderna",CZ010,"Hlavní město Praha",40-44,9,111,120
+2021-04-25,"COVID-19 Vaccine Moderna",CZ010,"Hlavní město Praha",45-49,5,236,241
+2021-04-25,"COVID-19 Vaccine Moderna",CZ010,"Hlavní město Praha",50-54,3,26,29
+2021-04-25,"COVID-19 Vaccine Moderna",CZ010,"Hlavní město Praha",55-59,1,29,30
+2021-04-25,"COVID-19 Vaccine Moderna",CZ010,"Hlavní město Praha",60-64,10,31,41
+2021-04-25,"COVID-19 Vaccine Moderna",CZ010,"Hlavní město Praha",65-69,10,31,41
+2021-04-25,"COVID-19 Vaccine Moderna",CZ010,"Hlavní město Praha",70-74,1,25,26
+2021-04-25,"COVID-19 Vaccine Moderna",CZ010,"Hlavní město Praha",75-79,2,9,11
+2021-04-25,"COVID-19 Vaccine Moderna",CZ010,"Hlavní město Praha",80+,1,1,2

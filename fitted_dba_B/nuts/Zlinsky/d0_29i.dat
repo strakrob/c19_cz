@@ -1,8 +1,8 @@
 
-# Curve 0 of 1, 322 points
+# Curve 0 of 1, 323 points
 # Curve title: "daily incidence"
 # x y xlow xhigh type
--1  64944 -1 -1  i
+-1  65011 -1 -1  i
  69  1  69  69  i
  70  1  70  70  i
  71  1  71  71  i
@@ -322,6 +322,7 @@
  476  93  476  476  i
  477  77  477  477  i
  478  81  478  478  i
- 479  51  479  479  i
+ 479  52  479  479  i
+ 480  31  480  480  i
 
 
