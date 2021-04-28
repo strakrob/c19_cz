@@ -223,7 +223,7 @@
 2021-01-25,Comirnaty,CZ031,"Jihočeský kraj",25-29,0,1,1
 2021-01-25,Comirnaty,CZ031,"Jihočeský kraj",30-34,0,2,2
 2021-01-25,Comirnaty,CZ031,"Jihočeský kraj",35-39,0,4,4
-2021-01-25,Comirnaty,CZ031,"Jihočeský kraj",40-44,1,4,5
+2021-01-25,Comirnaty,CZ031,"Jihočeský kraj",40-44,1,5,6
 2021-01-25,Comirnaty,CZ031,"Jihočeský kraj",45-49,1,2,3
 2021-01-25,Comirnaty,CZ031,"Jihočeský kraj",50-54,2,6,8
 2021-01-25,Comirnaty,CZ031,"Jihočeský kraj",55-59,1,6,7
@@ -808,7 +808,7 @@
 2021-03-04,VAXZEVRIA,CZ031,"Jihočeský kraj",35-39,13,0,13
 2021-03-04,VAXZEVRIA,CZ031,"Jihočeský kraj",40-44,17,0,17
 2021-03-04,VAXZEVRIA,CZ031,"Jihočeský kraj",45-49,17,0,17
-2021-03-04,VAXZEVRIA,CZ031,"Jihočeský kraj",50-54,4,0,4
+2021-03-04,VAXZEVRIA,CZ031,"Jihočeský kraj",50-54,5,0,5
 2021-03-04,VAXZEVRIA,CZ031,"Jihočeský kraj",55-59,6,0,6
 2021-03-04,VAXZEVRIA,CZ031,"Jihočeský kraj",60-64,4,0,4
 2021-03-04,VAXZEVRIA,CZ031,"Jihočeský kraj",65-69,12,0,12
@@ -867,7 +867,7 @@
 2021-03-08,"COVID-19 Vaccine Moderna",CZ031,"Jihočeský kraj",60-64,101,0,101
 2021-03-08,"COVID-19 Vaccine Moderna",CZ031,"Jihočeský kraj",65-69,28,0,28
 2021-03-08,"COVID-19 Vaccine Moderna",CZ031,"Jihočeský kraj",70-74,6,0,6
-2021-03-08,"COVID-19 Vaccine Moderna",CZ031,"Jihočeský kraj",75-79,140,0,140
+2021-03-08,"COVID-19 Vaccine Moderna",CZ031,"Jihočeský kraj",75-79,141,0,141
 2021-03-08,"COVID-19 Vaccine Moderna",CZ031,"Jihočeský kraj",80+,31,0,31
 2021-03-08,VAXZEVRIA,CZ031,"Jihočeský kraj",18-24,3,0,3
 2021-03-08,VAXZEVRIA,CZ031,"Jihočeský kraj",25-29,2,0,2
@@ -965,8 +965,8 @@
 2021-03-11,"COVID-19 Vaccine Moderna",CZ031,"Jihočeský kraj",80+,0,1,1
 2021-03-11,VAXZEVRIA,CZ031,"Jihočeský kraj",35-39,1,0,1
 2021-03-11,VAXZEVRIA,CZ031,"Jihočeský kraj",40-44,1,0,1
-2021-03-11,VAXZEVRIA,CZ031,"Jihočeský kraj",50-54,1,0,1
-2021-03-11,VAXZEVRIA,CZ031,"Jihočeský kraj",55-59,2,0,2
+2021-03-11,VAXZEVRIA,CZ031,"Jihočeský kraj",50-54,2,0,2
+2021-03-11,VAXZEVRIA,CZ031,"Jihočeský kraj",55-59,3,0,3
 2021-03-11,VAXZEVRIA,CZ031,"Jihočeský kraj",60-64,4,0,4
 2021-03-11,VAXZEVRIA,CZ031,"Jihočeský kraj",65-69,11,0,11
 2021-03-11,VAXZEVRIA,CZ031,"Jihočeský kraj",70-74,50,0,50
@@ -982,7 +982,7 @@
 2021-03-12,Comirnaty,CZ031,"Jihočeský kraj",55-59,87,3,90
 2021-03-12,Comirnaty,CZ031,"Jihočeský kraj",60-64,38,4,42
 2021-03-12,Comirnaty,CZ031,"Jihočeský kraj",65-69,30,4,34
-2021-03-12,Comirnaty,CZ031,"Jihočeský kraj",70-74,1809,12,1821
+2021-03-12,Comirnaty,CZ031,"Jihočeský kraj",70-74,1808,12,1820
 2021-03-12,Comirnaty,CZ031,"Jihočeský kraj",75-79,959,8,967
 2021-03-12,Comirnaty,CZ031,"Jihočeský kraj",80+,152,139,291
 2021-03-12,"COVID-19 Vaccine Moderna",CZ031,"Jihočeský kraj",45-49,1,0,1
@@ -1364,7 +1364,7 @@
 2021-03-27,Comirnaty,CZ031,"Jihočeský kraj",55-59,0,1,1
 2021-03-27,Comirnaty,CZ031,"Jihočeský kraj",60-64,1,0,1
 2021-03-27,Comirnaty,CZ031,"Jihočeský kraj",65-69,0,1,1
-2021-03-27,Comirnaty,CZ031,"Jihočeský kraj",70-74,212,0,212
+2021-03-27,Comirnaty,CZ031,"Jihočeský kraj",70-74,213,0,213
 2021-03-27,Comirnaty,CZ031,"Jihočeský kraj",75-79,471,0,471
 2021-03-27,Comirnaty,CZ031,"Jihočeský kraj",80+,67,2,69
 2021-03-27,VAXZEVRIA,CZ031,"Jihočeský kraj",60-64,1,0,1
@@ -1378,7 +1378,7 @@
 2021-03-29,Comirnaty,CZ031,"Jihočeský kraj",45-49,45,21,66
 2021-03-29,Comirnaty,CZ031,"Jihočeský kraj",50-54,13,10,23
 2021-03-29,Comirnaty,CZ031,"Jihočeský kraj",55-59,12,14,26
-2021-03-29,Comirnaty,CZ031,"Jihočeský kraj",60-64,4,16,20
+2021-03-29,Comirnaty,CZ031,"Jihočeský kraj",60-64,5,16,21
 2021-03-29,Comirnaty,CZ031,"Jihočeský kraj",65-69,3,12,15
 2021-03-29,Comirnaty,CZ031,"Jihočeský kraj",70-74,13,13,26
 2021-03-29,Comirnaty,CZ031,"Jihočeský kraj",75-79,3,10,13
@@ -1424,12 +1424,12 @@
 2021-03-30,"COVID-19 Vaccine Moderna",CZ031,"Jihočeský kraj",35-39,36,0,36
 2021-03-30,"COVID-19 Vaccine Moderna",CZ031,"Jihočeský kraj",40-44,25,0,25
 2021-03-30,"COVID-19 Vaccine Moderna",CZ031,"Jihočeský kraj",45-49,24,0,24
-2021-03-30,"COVID-19 Vaccine Moderna",CZ031,"Jihočeský kraj",50-54,47,1,48
+2021-03-30,"COVID-19 Vaccine Moderna",CZ031,"Jihočeský kraj",50-54,48,1,49
 2021-03-30,"COVID-19 Vaccine Moderna",CZ031,"Jihočeský kraj",55-59,36,0,36
 2021-03-30,"COVID-19 Vaccine Moderna",CZ031,"Jihočeský kraj",60-64,24,0,24
 2021-03-30,"COVID-19 Vaccine Moderna",CZ031,"Jihočeský kraj",65-69,14,0,14
-2021-03-30,"COVID-19 Vaccine Moderna",CZ031,"Jihočeský kraj",70-74,601,1,602
-2021-03-30,"COVID-19 Vaccine Moderna",CZ031,"Jihočeský kraj",75-79,147,0,147
+2021-03-30,"COVID-19 Vaccine Moderna",CZ031,"Jihočeský kraj",70-74,600,1,601
+2021-03-30,"COVID-19 Vaccine Moderna",CZ031,"Jihočeský kraj",75-79,146,0,146
 2021-03-30,"COVID-19 Vaccine Moderna",CZ031,"Jihočeský kraj",80+,32,0,32
 2021-03-30,VAXZEVRIA,CZ031,"Jihočeský kraj",40-44,3,0,3
 2021-03-30,VAXZEVRIA,CZ031,"Jihočeský kraj",45-49,6,0,6
@@ -1440,7 +1440,7 @@
 2021-03-30,VAXZEVRIA,CZ031,"Jihočeský kraj",70-74,59,0,59
 2021-03-30,VAXZEVRIA,CZ031,"Jihočeský kraj",75-79,64,0,64
 2021-03-30,VAXZEVRIA,CZ031,"Jihočeský kraj",80+,49,0,49
-2021-03-31,Comirnaty,CZ031,"Jihočeský kraj",18-24,15,10,25
+2021-03-31,Comirnaty,CZ031,"Jihočeský kraj",18-24,16,10,26
 2021-03-31,Comirnaty,CZ031,"Jihočeský kraj",25-29,19,3,22
 2021-03-31,Comirnaty,CZ031,"Jihočeský kraj",30-34,21,8,29
 2021-03-31,Comirnaty,CZ031,"Jihočeský kraj",35-39,22,10,32
@@ -1552,7 +1552,7 @@
 2021-04-05,"COVID-19 Vaccine Moderna",CZ031,"Jihočeský kraj",60-64,0,61,61
 2021-04-05,"COVID-19 Vaccine Moderna",CZ031,"Jihočeský kraj",65-69,0,18,18
 2021-04-05,"COVID-19 Vaccine Moderna",CZ031,"Jihočeský kraj",70-74,0,3,3
-2021-04-05,"COVID-19 Vaccine Moderna",CZ031,"Jihočeský kraj",75-79,0,119,119
+2021-04-05,"COVID-19 Vaccine Moderna",CZ031,"Jihočeský kraj",75-79,0,120,120
 2021-04-05,"COVID-19 Vaccine Moderna",CZ031,"Jihočeský kraj",80+,0,22,22
 2021-04-06,Comirnaty,CZ031,"Jihočeský kraj",30-34,0,1,1
 2021-04-06,Comirnaty,CZ031,"Jihočeský kraj",40-44,0,7,7
@@ -1668,7 +1668,7 @@
 2021-04-09,Comirnaty,CZ031,"Jihočeský kraj",55-59,55,81,136
 2021-04-09,Comirnaty,CZ031,"Jihočeský kraj",60-64,28,38,66
 2021-04-09,Comirnaty,CZ031,"Jihočeský kraj",65-69,22,22,44
-2021-04-09,Comirnaty,CZ031,"Jihočeský kraj",70-74,627,1537,2164
+2021-04-09,Comirnaty,CZ031,"Jihočeský kraj",70-74,627,1536,2163
 2021-04-09,Comirnaty,CZ031,"Jihočeský kraj",75-79,88,788,876
 2021-04-09,Comirnaty,CZ031,"Jihočeský kraj",80+,19,140,159
 2021-04-09,"COVID-19 Vaccine Moderna",CZ031,"Jihočeský kraj",18-24,1,0,1
@@ -2020,10 +2020,10 @@
 2021-04-21,VAXZEVRIA,CZ031,"Jihočeský kraj",50-54,5,0,5
 2021-04-21,VAXZEVRIA,CZ031,"Jihočeský kraj",55-59,15,0,15
 2021-04-21,VAXZEVRIA,CZ031,"Jihočeský kraj",60-64,46,0,46
-2021-04-21,VAXZEVRIA,CZ031,"Jihočeský kraj",65-69,186,1,187
+2021-04-21,VAXZEVRIA,CZ031,"Jihočeský kraj",65-69,187,1,188
 2021-04-21,VAXZEVRIA,CZ031,"Jihočeský kraj",70-74,225,0,225
 2021-04-21,VAXZEVRIA,CZ031,"Jihočeský kraj",75-79,104,0,104
-2021-04-21,VAXZEVRIA,CZ031,"Jihočeský kraj",80+,23,0,23
+2021-04-21,VAXZEVRIA,CZ031,"Jihočeský kraj",80+,24,0,24
 2021-04-22,Comirnaty,CZ031,"Jihočeský kraj",0-17,8,0,8
 2021-04-22,Comirnaty,CZ031,"Jihočeský kraj",18-24,43,21,64
 2021-04-22,Comirnaty,CZ031,"Jihočeský kraj",25-29,42,23,65
@@ -2053,8 +2053,8 @@
 2021-04-22,VAXZEVRIA,CZ031,"Jihočeský kraj",55-59,34,1,35
 2021-04-22,VAXZEVRIA,CZ031,"Jihočeský kraj",60-64,92,0,92
 2021-04-22,VAXZEVRIA,CZ031,"Jihočeský kraj",65-69,306,2,308
-2021-04-22,VAXZEVRIA,CZ031,"Jihočeský kraj",70-74,353,1,354
-2021-04-22,VAXZEVRIA,CZ031,"Jihočeský kraj",75-79,153,2,155
+2021-04-22,VAXZEVRIA,CZ031,"Jihočeský kraj",70-74,354,1,355
+2021-04-22,VAXZEVRIA,CZ031,"Jihočeský kraj",75-79,155,2,157
 2021-04-22,VAXZEVRIA,CZ031,"Jihočeský kraj",80+,37,14,51
 2021-04-23,Comirnaty,CZ031,"Jihočeský kraj",0-17,2,1,3
 2021-04-23,Comirnaty,CZ031,"Jihočeský kraj",18-24,10,53,63
@@ -2092,16 +2092,16 @@
 2021-04-23,VAXZEVRIA,CZ031,"Jihočeský kraj",55-59,16,0,16
 2021-04-23,VAXZEVRIA,CZ031,"Jihočeský kraj",60-64,79,0,79
 2021-04-23,VAXZEVRIA,CZ031,"Jihočeský kraj",65-69,234,0,234
-2021-04-23,VAXZEVRIA,CZ031,"Jihočeský kraj",70-74,177,0,177
-2021-04-23,VAXZEVRIA,CZ031,"Jihočeský kraj",75-79,60,4,64
-2021-04-23,VAXZEVRIA,CZ031,"Jihočeský kraj",80+,17,9,26
+2021-04-23,VAXZEVRIA,CZ031,"Jihočeský kraj",70-74,181,0,181
+2021-04-23,VAXZEVRIA,CZ031,"Jihočeský kraj",75-79,63,4,67
+2021-04-23,VAXZEVRIA,CZ031,"Jihočeský kraj",80+,22,9,31
 2021-04-24,Comirnaty,CZ031,"Jihočeský kraj",18-24,0,5,5
 2021-04-24,Comirnaty,CZ031,"Jihočeský kraj",25-29,0,1,1
 2021-04-24,Comirnaty,CZ031,"Jihočeský kraj",45-49,0,1,1
 2021-04-24,Comirnaty,CZ031,"Jihočeský kraj",50-54,0,2,2
 2021-04-24,Comirnaty,CZ031,"Jihočeský kraj",55-59,1,2,3
 2021-04-24,Comirnaty,CZ031,"Jihočeský kraj",60-64,1,1,2
-2021-04-24,Comirnaty,CZ031,"Jihočeský kraj",70-74,0,177,177
+2021-04-24,Comirnaty,CZ031,"Jihočeský kraj",70-74,0,178,178
 2021-04-24,Comirnaty,CZ031,"Jihočeský kraj",75-79,1,508,509
 2021-04-24,Comirnaty,CZ031,"Jihočeský kraj",80+,0,75,75
 2021-04-25,Comirnaty,CZ031,"Jihočeský kraj",18-24,7,0,7
@@ -2126,10 +2126,10 @@
 2021-04-26,Comirnaty,CZ031,"Jihočeský kraj",45-49,33,49,82
 2021-04-26,Comirnaty,CZ031,"Jihočeský kraj",50-54,19,16,35
 2021-04-26,Comirnaty,CZ031,"Jihočeský kraj",55-59,24,19,43
-2021-04-26,Comirnaty,CZ031,"Jihočeský kraj",60-64,40,9,49
-2021-04-26,Comirnaty,CZ031,"Jihočeský kraj",65-69,842,9,851
+2021-04-26,Comirnaty,CZ031,"Jihočeský kraj",60-64,40,10,50
+2021-04-26,Comirnaty,CZ031,"Jihočeský kraj",65-69,845,9,854
 2021-04-26,Comirnaty,CZ031,"Jihočeský kraj",70-74,179,14,193
-2021-04-26,Comirnaty,CZ031,"Jihočeský kraj",75-79,65,9,74
+2021-04-26,Comirnaty,CZ031,"Jihočeský kraj",75-79,66,9,75
 2021-04-26,Comirnaty,CZ031,"Jihočeský kraj",80+,37,20,57
 2021-04-26,"COVID-19 Vaccine Janssen",CZ031,"Jihočeský kraj",35-39,1,0,1
 2021-04-26,"COVID-19 Vaccine Moderna",CZ031,"Jihočeský kraj",18-24,0,2,2
@@ -2148,9 +2148,48 @@
 2021-04-26,VAXZEVRIA,CZ031,"Jihočeský kraj",40-44,6,0,6
 2021-04-26,VAXZEVRIA,CZ031,"Jihočeský kraj",45-49,3,0,3
 2021-04-26,VAXZEVRIA,CZ031,"Jihočeský kraj",50-54,1,0,1
-2021-04-26,VAXZEVRIA,CZ031,"Jihočeský kraj",55-59,6,0,6
-2021-04-26,VAXZEVRIA,CZ031,"Jihočeský kraj",60-64,50,0,50
-2021-04-26,VAXZEVRIA,CZ031,"Jihočeský kraj",65-69,107,0,107
-2021-04-26,VAXZEVRIA,CZ031,"Jihočeský kraj",70-74,57,0,57
-2021-04-26,VAXZEVRIA,CZ031,"Jihočeský kraj",75-79,18,0,18
+2021-04-26,VAXZEVRIA,CZ031,"Jihočeský kraj",55-59,7,0,7
+2021-04-26,VAXZEVRIA,CZ031,"Jihočeský kraj",60-64,57,0,57
+2021-04-26,VAXZEVRIA,CZ031,"Jihočeský kraj",65-69,121,0,121
+2021-04-26,VAXZEVRIA,CZ031,"Jihočeský kraj",70-74,59,0,59
+2021-04-26,VAXZEVRIA,CZ031,"Jihočeský kraj",75-79,20,0,20
 2021-04-26,VAXZEVRIA,CZ031,"Jihočeský kraj",80+,14,0,14
+2021-04-27,Comirnaty,CZ031,"Jihočeský kraj",18-24,1,2,3
+2021-04-27,Comirnaty,CZ031,"Jihočeský kraj",25-29,1,1,2
+2021-04-27,Comirnaty,CZ031,"Jihočeský kraj",30-34,2,1,3
+2021-04-27,Comirnaty,CZ031,"Jihočeský kraj",35-39,9,4,13
+2021-04-27,Comirnaty,CZ031,"Jihočeský kraj",40-44,5,74,79
+2021-04-27,Comirnaty,CZ031,"Jihočeský kraj",45-49,19,388,407
+2021-04-27,Comirnaty,CZ031,"Jihočeský kraj",50-54,5,125,130
+2021-04-27,Comirnaty,CZ031,"Jihočeský kraj",55-59,11,77,88
+2021-04-27,Comirnaty,CZ031,"Jihočeský kraj",60-64,12,31,43
+2021-04-27,Comirnaty,CZ031,"Jihočeský kraj",65-69,341,13,354
+2021-04-27,Comirnaty,CZ031,"Jihočeský kraj",70-74,16,5,21
+2021-04-27,Comirnaty,CZ031,"Jihočeský kraj",75-79,3,4,7
+2021-04-27,Comirnaty,CZ031,"Jihočeský kraj",80+,1,12,13
+2021-04-27,"COVID-19 Vaccine Janssen",CZ031,"Jihočeský kraj",60-64,2,0,2
+2021-04-27,"COVID-19 Vaccine Janssen",CZ031,"Jihočeský kraj",65-69,2,0,2
+2021-04-27,"COVID-19 Vaccine Janssen",CZ031,"Jihočeský kraj",70-74,1,0,1
+2021-04-27,"COVID-19 Vaccine Moderna",CZ031,"Jihočeský kraj",18-24,0,17,17
+2021-04-27,"COVID-19 Vaccine Moderna",CZ031,"Jihočeský kraj",25-29,0,21,21
+2021-04-27,"COVID-19 Vaccine Moderna",CZ031,"Jihočeský kraj",30-34,1,29,30
+2021-04-27,"COVID-19 Vaccine Moderna",CZ031,"Jihočeský kraj",35-39,2,35,37
+2021-04-27,"COVID-19 Vaccine Moderna",CZ031,"Jihočeský kraj",40-44,4,31,35
+2021-04-27,"COVID-19 Vaccine Moderna",CZ031,"Jihočeský kraj",45-49,1,26,27
+2021-04-27,"COVID-19 Vaccine Moderna",CZ031,"Jihočeský kraj",50-54,0,46,46
+2021-04-27,"COVID-19 Vaccine Moderna",CZ031,"Jihočeský kraj",55-59,0,36,36
+2021-04-27,"COVID-19 Vaccine Moderna",CZ031,"Jihočeský kraj",60-64,2,31,33
+2021-04-27,"COVID-19 Vaccine Moderna",CZ031,"Jihočeský kraj",65-69,27,16,43
+2021-04-27,"COVID-19 Vaccine Moderna",CZ031,"Jihočeský kraj",70-74,3,562,565
+2021-04-27,"COVID-19 Vaccine Moderna",CZ031,"Jihočeský kraj",75-79,0,145,145
+2021-04-27,"COVID-19 Vaccine Moderna",CZ031,"Jihočeský kraj",80+,0,34,34
+2021-04-27,VAXZEVRIA,CZ031,"Jihočeský kraj",30-34,2,0,2
+2021-04-27,VAXZEVRIA,CZ031,"Jihočeský kraj",40-44,2,0,2
+2021-04-27,VAXZEVRIA,CZ031,"Jihočeský kraj",45-49,3,0,3
+2021-04-27,VAXZEVRIA,CZ031,"Jihočeský kraj",50-54,9,0,9
+2021-04-27,VAXZEVRIA,CZ031,"Jihočeský kraj",55-59,4,0,4
+2021-04-27,VAXZEVRIA,CZ031,"Jihočeský kraj",60-64,53,0,53
+2021-04-27,VAXZEVRIA,CZ031,"Jihočeský kraj",65-69,82,0,82
+2021-04-27,VAXZEVRIA,CZ031,"Jihočeský kraj",70-74,76,0,76
+2021-04-27,VAXZEVRIA,CZ031,"Jihočeský kraj",75-79,32,0,32
+2021-04-27,VAXZEVRIA,CZ031,"Jihočeský kraj",80+,8,0,8

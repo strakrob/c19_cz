@@ -1,5 +1,5 @@
 
-# Curve 0 of 1, 201 points
+# Curve 0 of 1, 205 points
 # Curve title: "reported deaths"
 # x y xlow xhigh type
  98  2  98  98  i
@@ -202,5 +202,9 @@
  471  4  471  471  i
  472  3  472  472  i
  473  1  473  473  i
+ 474  2  474  474  i
+ 475  2  475  475  i
+ 477  1  477  477  i
+ 480  4  480  480  i
 
 

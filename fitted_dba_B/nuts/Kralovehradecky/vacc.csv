@@ -454,7 +454,7 @@
 2021-02-05,Comirnaty,CZ052,"Královéhradecký kraj",45-49,7,96,103
 2021-02-05,Comirnaty,CZ052,"Královéhradecký kraj",50-54,4,88,92
 2021-02-05,Comirnaty,CZ052,"Královéhradecký kraj",55-59,6,83,89
-2021-02-05,Comirnaty,CZ052,"Královéhradecký kraj",60-64,6,65,71
+2021-02-05,Comirnaty,CZ052,"Královéhradecký kraj",60-64,8,65,73
 2021-02-05,Comirnaty,CZ052,"Královéhradecký kraj",65-69,4,49,53
 2021-02-05,Comirnaty,CZ052,"Královéhradecký kraj",70-74,1,27,28
 2021-02-05,Comirnaty,CZ052,"Královéhradecký kraj",75-79,1,20,21
@@ -881,7 +881,7 @@
 2021-02-23,VAXZEVRIA,CZ052,"Královéhradecký kraj",65-69,5,0,5
 2021-02-23,VAXZEVRIA,CZ052,"Královéhradecký kraj",70-74,10,0,10
 2021-02-23,VAXZEVRIA,CZ052,"Královéhradecký kraj",75-79,15,0,15
-2021-02-23,VAXZEVRIA,CZ052,"Královéhradecký kraj",80+,146,0,146
+2021-02-23,VAXZEVRIA,CZ052,"Královéhradecký kraj",80+,147,0,147
 2021-02-24,Comirnaty,CZ052,"Královéhradecký kraj",18-24,16,2,18
 2021-02-24,Comirnaty,CZ052,"Královéhradecký kraj",25-29,8,3,11
 2021-02-24,Comirnaty,CZ052,"Královéhradecký kraj",30-34,7,3,10
@@ -1351,7 +1351,7 @@
 2021-03-10,VAXZEVRIA,CZ052,"Královéhradecký kraj",50-54,17,0,17
 2021-03-10,VAXZEVRIA,CZ052,"Královéhradecký kraj",55-59,78,0,78
 2021-03-10,VAXZEVRIA,CZ052,"Královéhradecký kraj",60-64,53,0,53
-2021-03-10,VAXZEVRIA,CZ052,"Královéhradecký kraj",65-69,35,0,35
+2021-03-10,VAXZEVRIA,CZ052,"Královéhradecký kraj",65-69,36,0,36
 2021-03-10,VAXZEVRIA,CZ052,"Královéhradecký kraj",70-74,153,0,153
 2021-03-10,VAXZEVRIA,CZ052,"Královéhradecký kraj",75-79,136,0,136
 2021-03-10,VAXZEVRIA,CZ052,"Královéhradecký kraj",80+,59,0,59
@@ -1618,7 +1618,7 @@
 2021-03-18,Comirnaty,CZ052,"Královéhradecký kraj",65-69,22,18,40
 2021-03-18,Comirnaty,CZ052,"Královéhradecký kraj",70-74,413,6,419
 2021-03-18,Comirnaty,CZ052,"Královéhradecký kraj",75-79,372,7,379
-2021-03-18,Comirnaty,CZ052,"Královéhradecký kraj",80+,103,154,257
+2021-03-18,Comirnaty,CZ052,"Královéhradecký kraj",80+,103,155,258
 2021-03-18,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",25-29,0,1,1
 2021-03-18,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",30-34,3,0,3
 2021-03-18,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",35-39,2,0,2
@@ -1719,7 +1719,7 @@
 2021-03-21,Comirnaty,CZ052,"Královéhradecký kraj",60-64,6,4,10
 2021-03-21,Comirnaty,CZ052,"Královéhradecký kraj",65-69,5,6,11
 2021-03-21,Comirnaty,CZ052,"Královéhradecký kraj",70-74,7,6,13
-2021-03-21,Comirnaty,CZ052,"Královéhradecký kraj",75-79,321,15,336
+2021-03-21,Comirnaty,CZ052,"Královéhradecký kraj",75-79,322,15,337
 2021-03-21,Comirnaty,CZ052,"Královéhradecký kraj",80+,22,261,283
 2021-03-21,VAXZEVRIA,CZ052,"Královéhradecký kraj",18-24,2,0,2
 2021-03-21,VAXZEVRIA,CZ052,"Královéhradecký kraj",25-29,5,0,5
@@ -1750,7 +1750,7 @@
 2021-03-22,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",18-24,1,0,1
 2021-03-22,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",25-29,1,0,1
 2021-03-22,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",30-34,3,0,3
-2021-03-22,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",35-39,5,0,5
+2021-03-22,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",35-39,6,0,6
 2021-03-22,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",40-44,6,0,6
 2021-03-22,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",45-49,9,0,9
 2021-03-22,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",50-54,9,1,10
@@ -1850,7 +1850,7 @@
 2021-03-24,VAXZEVRIA,CZ052,"Královéhradecký kraj",75-79,158,0,158
 2021-03-24,VAXZEVRIA,CZ052,"Královéhradecký kraj",80+,79,0,79
 2021-03-25,Comirnaty,CZ052,"Královéhradecký kraj",18-24,11,8,19
-2021-03-25,Comirnaty,CZ052,"Královéhradecký kraj",25-29,22,11,33
+2021-03-25,Comirnaty,CZ052,"Královéhradecký kraj",25-29,22,12,34
 2021-03-25,Comirnaty,CZ052,"Královéhradecký kraj",30-34,14,11,25
 2021-03-25,Comirnaty,CZ052,"Královéhradecký kraj",35-39,12,20,32
 2021-03-25,Comirnaty,CZ052,"Královéhradecký kraj",40-44,54,17,71
@@ -1868,7 +1868,7 @@
 2021-03-25,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",35-39,36,0,36
 2021-03-25,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",40-44,42,0,42
 2021-03-25,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",45-49,27,0,27
-2021-03-25,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",50-54,32,0,32
+2021-03-25,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",50-54,33,0,33
 2021-03-25,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",55-59,27,0,27
 2021-03-25,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",60-64,31,0,31
 2021-03-25,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",65-69,43,0,43
@@ -1984,7 +1984,7 @@
 2021-03-29,Comirnaty,CZ052,"Královéhradecký kraj",18-24,8,3,11
 2021-03-29,Comirnaty,CZ052,"Královéhradecký kraj",25-29,8,6,14
 2021-03-29,Comirnaty,CZ052,"Královéhradecký kraj",30-34,6,8,14
-2021-03-29,Comirnaty,CZ052,"Královéhradecký kraj",35-39,11,14,25
+2021-03-29,Comirnaty,CZ052,"Královéhradecký kraj",35-39,12,14,26
 2021-03-29,Comirnaty,CZ052,"Královéhradecký kraj",40-44,24,26,50
 2021-03-29,Comirnaty,CZ052,"Královéhradecký kraj",45-49,26,29,55
 2021-03-29,Comirnaty,CZ052,"Královéhradecký kraj",50-54,26,28,54
@@ -2028,21 +2028,21 @@
 2021-03-30,Comirnaty,CZ052,"Královéhradecký kraj",55-59,58,20,78
 2021-03-30,Comirnaty,CZ052,"Královéhradecký kraj",60-64,29,19,48
 2021-03-30,Comirnaty,CZ052,"Královéhradecký kraj",65-69,48,32,80
-2021-03-30,Comirnaty,CZ052,"Královéhradecký kraj",70-74,320,16,336
+2021-03-30,Comirnaty,CZ052,"Královéhradecký kraj",70-74,322,16,338
 2021-03-30,Comirnaty,CZ052,"Královéhradecký kraj",75-79,148,45,193
 2021-03-30,Comirnaty,CZ052,"Královéhradecký kraj",80+,57,391,448
 2021-03-30,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",18-24,3,1,4
 2021-03-30,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",25-29,16,3,19
-2021-03-30,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",30-34,8,3,11
+2021-03-30,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",30-34,9,3,12
 2021-03-30,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",35-39,20,3,23
 2021-03-30,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",40-44,23,2,25
 2021-03-30,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",45-49,19,9,28
 2021-03-30,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",50-54,14,1,15
 2021-03-30,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",55-59,17,1,18
 2021-03-30,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",60-64,34,18,52
-2021-03-30,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",65-69,67,29,96
+2021-03-30,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",65-69,66,29,95
 2021-03-30,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",70-74,188,16,204
-2021-03-30,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",75-79,111,13,124
+2021-03-30,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",75-79,114,13,127
 2021-03-30,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",80+,71,226,297
 2021-03-30,VAXZEVRIA,CZ052,"Královéhradecký kraj",18-24,2,0,2
 2021-03-30,VAXZEVRIA,CZ052,"Královéhradecký kraj",25-29,1,0,1
@@ -2072,7 +2072,7 @@
 2021-03-31,Comirnaty,CZ052,"Královéhradecký kraj",80+,77,518,595
 2021-03-31,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",18-24,6,5,11
 2021-03-31,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",25-29,9,4,13
-2021-03-31,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",30-34,10,3,13
+2021-03-31,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",30-34,10,4,14
 2021-03-31,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",35-39,10,4,14
 2021-03-31,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",40-44,20,3,23
 2021-03-31,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",45-49,20,6,26
@@ -2080,7 +2080,7 @@
 2021-03-31,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",55-59,25,6,31
 2021-03-31,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",60-64,54,9,63
 2021-03-31,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",65-69,76,18,94
-2021-03-31,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",70-74,168,4,172
+2021-03-31,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",70-74,169,4,173
 2021-03-31,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",75-79,137,2,139
 2021-03-31,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",80+,140,1,141
 2021-03-31,VAXZEVRIA,CZ052,"Královéhradecký kraj",25-29,1,0,1
@@ -2215,11 +2215,11 @@
 2021-04-06,Comirnaty,CZ052,"Královéhradecký kraj",40-44,12,36,48
 2021-04-06,Comirnaty,CZ052,"Královéhradecký kraj",45-49,79,44,123
 2021-04-06,Comirnaty,CZ052,"Královéhradecký kraj",50-54,32,38,70
-2021-04-06,Comirnaty,CZ052,"Královéhradecký kraj",55-59,32,60,92
+2021-04-06,Comirnaty,CZ052,"Královéhradecký kraj",55-59,33,60,93
 2021-04-06,Comirnaty,CZ052,"Královéhradecký kraj",60-64,17,87,104
 2021-04-06,Comirnaty,CZ052,"Královéhradecký kraj",65-69,27,37,64
 2021-04-06,Comirnaty,CZ052,"Královéhradecký kraj",70-74,216,101,317
-2021-04-06,Comirnaty,CZ052,"Královéhradecký kraj",75-79,100,397,497
+2021-04-06,Comirnaty,CZ052,"Královéhradecký kraj",75-79,102,397,499
 2021-04-06,Comirnaty,CZ052,"Královéhradecký kraj",80+,29,181,210
 2021-04-06,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",18-24,3,1,4
 2021-04-06,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",25-29,6,1,7
@@ -2268,7 +2268,7 @@
 2021-04-07,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",55-59,20,6,26
 2021-04-07,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",60-64,39,8,47
 2021-04-07,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",65-69,67,13,80
-2021-04-07,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",70-74,108,4,112
+2021-04-07,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",70-74,107,4,111
 2021-04-07,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",75-79,52,4,56
 2021-04-07,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",80+,49,0,49
 2021-04-07,VAXZEVRIA,CZ052,"Královéhradecký kraj",30-34,2,0,2
@@ -2284,7 +2284,7 @@
 2021-04-08,Comirnaty,CZ052,"Královéhradecký kraj",0-17,1,0,1
 2021-04-08,Comirnaty,CZ052,"Královéhradecký kraj",18-24,12,16,28
 2021-04-08,Comirnaty,CZ052,"Královéhradecký kraj",25-29,17,13,30
-2021-04-08,Comirnaty,CZ052,"Královéhradecký kraj",30-34,12,15,27
+2021-04-08,Comirnaty,CZ052,"Královéhradecký kraj",30-34,12,16,28
 2021-04-08,Comirnaty,CZ052,"Královéhradecký kraj",35-39,34,25,59
 2021-04-08,Comirnaty,CZ052,"Královéhradecký kraj",40-44,49,30,79
 2021-04-08,Comirnaty,CZ052,"Královéhradecký kraj",45-49,95,38,133
@@ -2328,7 +2328,7 @@
 2021-04-09,Comirnaty,CZ052,"Královéhradecký kraj",60-64,48,31,79
 2021-04-09,Comirnaty,CZ052,"Královéhradecký kraj",65-69,67,30,97
 2021-04-09,Comirnaty,CZ052,"Královéhradecký kraj",70-74,256,163,419
-2021-04-09,Comirnaty,CZ052,"Královéhradecký kraj",75-79,70,496,566
+2021-04-09,Comirnaty,CZ052,"Královéhradecký kraj",75-79,70,497,567
 2021-04-09,Comirnaty,CZ052,"Královéhradecký kraj",80+,50,177,227
 2021-04-09,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",18-24,8,1,9
 2021-04-09,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",25-29,14,2,16
@@ -2366,7 +2366,7 @@
 2021-04-10,Comirnaty,CZ052,"Královéhradecký kraj",60-64,27,45,72
 2021-04-10,Comirnaty,CZ052,"Královéhradecký kraj",65-69,115,9,124
 2021-04-10,Comirnaty,CZ052,"Královéhradecký kraj",70-74,778,102,880
-2021-04-10,Comirnaty,CZ052,"Královéhradecký kraj",75-79,56,604,660
+2021-04-10,Comirnaty,CZ052,"Královéhradecký kraj",75-79,56,606,662
 2021-04-10,Comirnaty,CZ052,"Královéhradecký kraj",80+,26,80,106
 2021-04-10,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",18-24,0,1,1
 2021-04-10,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",30-34,0,2,2
@@ -2624,7 +2624,7 @@
 2021-04-18,Comirnaty,CZ052,"Královéhradecký kraj",60-64,107,17,124
 2021-04-18,Comirnaty,CZ052,"Královéhradecký kraj",65-69,117,8,125
 2021-04-18,Comirnaty,CZ052,"Královéhradecký kraj",70-74,173,8,181
-2021-04-18,Comirnaty,CZ052,"Královéhradecký kraj",75-79,51,316,367
+2021-04-18,Comirnaty,CZ052,"Královéhradecký kraj",75-79,50,317,367
 2021-04-18,Comirnaty,CZ052,"Královéhradecký kraj",80+,28,24,52
 2021-04-19,Comirnaty,CZ052,"Královéhradecký kraj",18-24,12,12,24
 2021-04-19,Comirnaty,CZ052,"Královéhradecký kraj",25-29,12,9,21
@@ -2686,7 +2686,7 @@
 2021-04-20,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",50-54,8,21,29
 2021-04-20,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",55-59,10,17,27
 2021-04-20,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",60-64,17,14,31
-2021-04-20,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",65-69,26,26,52
+2021-04-20,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",65-69,27,26,53
 2021-04-20,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",70-74,20,43,63
 2021-04-20,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",75-79,7,25,32
 2021-04-20,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",80+,3,4,7
@@ -2787,9 +2787,9 @@
 2021-04-23,Comirnaty,CZ052,"Královéhradecký kraj",50-54,152,17,169
 2021-04-23,Comirnaty,CZ052,"Královéhradecký kraj",55-59,202,31,233
 2021-04-23,Comirnaty,CZ052,"Královéhradecký kraj",60-64,218,16,234
-2021-04-23,Comirnaty,CZ052,"Královéhradecký kraj",65-69,815,22,837
+2021-04-23,Comirnaty,CZ052,"Královéhradecký kraj",65-69,816,22,838
 2021-04-23,Comirnaty,CZ052,"Královéhradecký kraj",70-74,357,86,443
-2021-04-23,Comirnaty,CZ052,"Královéhradecký kraj",75-79,89,100,189
+2021-04-23,Comirnaty,CZ052,"Královéhradecký kraj",75-79,90,100,190
 2021-04-23,Comirnaty,CZ052,"Královéhradecký kraj",80+,32,38,70
 2021-04-23,"COVID-19 Vaccine Janssen",CZ052,"Královéhradecký kraj",45-49,1,0,1
 2021-04-23,"COVID-19 Vaccine Janssen",CZ052,"Královéhradecký kraj",60-64,1,0,1
@@ -2800,7 +2800,7 @@
 2021-04-23,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",35-39,5,14,19
 2021-04-23,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",40-44,13,25,38
 2021-04-23,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",45-49,5,18,23
-2021-04-23,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",50-54,3,24,27
+2021-04-23,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",50-54,3,25,28
 2021-04-23,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",55-59,8,29,37
 2021-04-23,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",60-64,8,36,44
 2021-04-23,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",65-69,12,47,59
@@ -2829,9 +2829,9 @@
 2021-04-24,Comirnaty,CZ052,"Královéhradecký kraj",50-54,62,19,81
 2021-04-24,Comirnaty,CZ052,"Královéhradecký kraj",55-59,34,14,48
 2021-04-24,Comirnaty,CZ052,"Královéhradecký kraj",60-64,75,7,82
-2021-04-24,Comirnaty,CZ052,"Královéhradecký kraj",65-69,917,12,929
+2021-04-24,Comirnaty,CZ052,"Královéhradecký kraj",65-69,918,12,930
 2021-04-24,Comirnaty,CZ052,"Královéhradecký kraj",70-74,188,127,315
-2021-04-24,Comirnaty,CZ052,"Královéhradecký kraj",75-79,88,68,156
+2021-04-24,Comirnaty,CZ052,"Královéhradecký kraj",75-79,89,68,157
 2021-04-24,Comirnaty,CZ052,"Královéhradecký kraj",80+,31,19,50
 2021-04-24,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",18-24,0,2,2
 2021-04-24,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",25-29,0,4,4
@@ -2859,13 +2859,13 @@
 2021-04-25,Comirnaty,CZ052,"Královéhradecký kraj",50-54,51,27,78
 2021-04-25,Comirnaty,CZ052,"Královéhradecký kraj",55-59,44,27,71
 2021-04-25,Comirnaty,CZ052,"Královéhradecký kraj",60-64,49,15,64
-2021-04-25,Comirnaty,CZ052,"Královéhradecký kraj",65-69,922,12,934
+2021-04-25,Comirnaty,CZ052,"Královéhradecký kraj",65-69,923,12,935
 2021-04-25,Comirnaty,CZ052,"Královéhradecký kraj",70-74,108,87,195
 2021-04-25,Comirnaty,CZ052,"Královéhradecký kraj",75-79,39,37,76
 2021-04-25,Comirnaty,CZ052,"Královéhradecký kraj",80+,16,13,29
 2021-04-25,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",25-29,0,1,1
 2021-04-25,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",30-34,0,1,1
-2021-04-25,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",35-39,0,1,1
+2021-04-25,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",35-39,0,2,2
 2021-04-25,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",40-44,0,2,2
 2021-04-25,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",45-49,0,2,2
 2021-04-25,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",50-54,0,56,56
@@ -2878,19 +2878,19 @@
 2021-04-25,VAXZEVRIA,CZ052,"Královéhradecký kraj",70-74,1,0,1
 2021-04-25,VAXZEVRIA,CZ052,"Královéhradecký kraj",75-79,1,0,1
 2021-04-26,Comirnaty,CZ052,"Královéhradecký kraj",0-17,1,0,1
-2021-04-26,Comirnaty,CZ052,"Královéhradecký kraj",18-24,26,5,31
-2021-04-26,Comirnaty,CZ052,"Královéhradecký kraj",25-29,30,6,36
-2021-04-26,Comirnaty,CZ052,"Královéhradecký kraj",30-34,24,3,27
-2021-04-26,Comirnaty,CZ052,"Královéhradecký kraj",35-39,37,7,44
-2021-04-26,Comirnaty,CZ052,"Královéhradecký kraj",40-44,69,14,83
-2021-04-26,Comirnaty,CZ052,"Královéhradecký kraj",45-49,100,10,110
-2021-04-26,Comirnaty,CZ052,"Královéhradecký kraj",50-54,89,16,105
-2021-04-26,Comirnaty,CZ052,"Královéhradecký kraj",55-59,47,9,56
-2021-04-26,Comirnaty,CZ052,"Královéhradecký kraj",60-64,109,12,121
-2021-04-26,Comirnaty,CZ052,"Královéhradecký kraj",65-69,1492,25,1517
-2021-04-26,Comirnaty,CZ052,"Královéhradecký kraj",70-74,195,137,332
-2021-04-26,Comirnaty,CZ052,"Královéhradecký kraj",75-79,92,18,110
-2021-04-26,Comirnaty,CZ052,"Královéhradecký kraj",80+,17,5,22
+2021-04-26,Comirnaty,CZ052,"Královéhradecký kraj",18-24,26,6,32
+2021-04-26,Comirnaty,CZ052,"Královéhradecký kraj",25-29,30,9,39
+2021-04-26,Comirnaty,CZ052,"Královéhradecký kraj",30-34,26,5,31
+2021-04-26,Comirnaty,CZ052,"Královéhradecký kraj",35-39,38,12,50
+2021-04-26,Comirnaty,CZ052,"Královéhradecký kraj",40-44,73,22,95
+2021-04-26,Comirnaty,CZ052,"Královéhradecký kraj",45-49,102,21,123
+2021-04-26,Comirnaty,CZ052,"Královéhradecký kraj",50-54,92,22,114
+2021-04-26,Comirnaty,CZ052,"Královéhradecký kraj",55-59,49,10,59
+2021-04-26,Comirnaty,CZ052,"Královéhradecký kraj",60-64,119,14,133
+2021-04-26,Comirnaty,CZ052,"Královéhradecký kraj",65-69,1527,25,1552
+2021-04-26,Comirnaty,CZ052,"Královéhradecký kraj",70-74,226,138,364
+2021-04-26,Comirnaty,CZ052,"Královéhradecký kraj",75-79,96,18,114
+2021-04-26,Comirnaty,CZ052,"Královéhradecký kraj",80+,18,5,23
 2021-04-26,"COVID-19 Vaccine Janssen",CZ052,"Královéhradecký kraj",40-44,1,0,1
 2021-04-26,"COVID-19 Vaccine Janssen",CZ052,"Královéhradecký kraj",45-49,1,0,1
 2021-04-26,"COVID-19 Vaccine Janssen",CZ052,"Královéhradecký kraj",55-59,1,0,1
@@ -2913,12 +2913,60 @@
 2021-04-26,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",80+,4,8,12
 2021-04-26,VAXZEVRIA,CZ052,"Královéhradecký kraj",0-17,1,0,1
 2021-04-26,VAXZEVRIA,CZ052,"Královéhradecký kraj",30-34,1,0,1
-2021-04-26,VAXZEVRIA,CZ052,"Královéhradecký kraj",40-44,4,0,4
+2021-04-26,VAXZEVRIA,CZ052,"Královéhradecký kraj",40-44,5,0,5
 2021-04-26,VAXZEVRIA,CZ052,"Královéhradecký kraj",45-49,4,0,4
 2021-04-26,VAXZEVRIA,CZ052,"Královéhradecký kraj",50-54,11,0,11
 2021-04-26,VAXZEVRIA,CZ052,"Královéhradecký kraj",55-59,11,0,11
-2021-04-26,VAXZEVRIA,CZ052,"Královéhradecký kraj",60-64,93,0,93
+2021-04-26,VAXZEVRIA,CZ052,"Královéhradecký kraj",60-64,94,0,94
 2021-04-26,VAXZEVRIA,CZ052,"Královéhradecký kraj",65-69,95,0,95
 2021-04-26,VAXZEVRIA,CZ052,"Královéhradecký kraj",70-74,73,0,73
 2021-04-26,VAXZEVRIA,CZ052,"Královéhradecký kraj",75-79,45,0,45
-2021-04-26,VAXZEVRIA,CZ052,"Královéhradecký kraj",80+,20,0,20
+2021-04-26,VAXZEVRIA,CZ052,"Královéhradecký kraj",80+,21,0,21
+2021-04-27,Comirnaty,CZ052,"Královéhradecký kraj",0-17,3,0,3
+2021-04-27,Comirnaty,CZ052,"Královéhradecký kraj",18-24,17,16,33
+2021-04-27,Comirnaty,CZ052,"Královéhradecký kraj",25-29,12,14,26
+2021-04-27,Comirnaty,CZ052,"Královéhradecký kraj",30-34,22,25,47
+2021-04-27,Comirnaty,CZ052,"Královéhradecký kraj",35-39,25,24,49
+2021-04-27,Comirnaty,CZ052,"Královéhradecký kraj",40-44,39,24,63
+2021-04-27,Comirnaty,CZ052,"Královéhradecký kraj",45-49,55,36,91
+2021-04-27,Comirnaty,CZ052,"Královéhradecký kraj",50-54,58,37,95
+2021-04-27,Comirnaty,CZ052,"Královéhradecký kraj",55-59,52,49,101
+2021-04-27,Comirnaty,CZ052,"Královéhradecký kraj",60-64,79,24,103
+2021-04-27,Comirnaty,CZ052,"Královéhradecký kraj",65-69,1299,43,1342
+2021-04-27,Comirnaty,CZ052,"Královéhradecký kraj",70-74,146,229,375
+2021-04-27,Comirnaty,CZ052,"Královéhradecký kraj",75-79,98,91,189
+2021-04-27,Comirnaty,CZ052,"Královéhradecký kraj",80+,33,64,97
+2021-04-27,"COVID-19 Vaccine Janssen",CZ052,"Královéhradecký kraj",45-49,1,0,1
+2021-04-27,"COVID-19 Vaccine Janssen",CZ052,"Královéhradecký kraj",50-54,3,0,3
+2021-04-27,"COVID-19 Vaccine Janssen",CZ052,"Královéhradecký kraj",55-59,3,0,3
+2021-04-27,"COVID-19 Vaccine Janssen",CZ052,"Královéhradecký kraj",60-64,3,0,3
+2021-04-27,"COVID-19 Vaccine Janssen",CZ052,"Královéhradecký kraj",65-69,8,0,8
+2021-04-27,"COVID-19 Vaccine Janssen",CZ052,"Královéhradecký kraj",70-74,7,0,7
+2021-04-27,"COVID-19 Vaccine Janssen",CZ052,"Královéhradecký kraj",75-79,4,0,4
+2021-04-27,"COVID-19 Vaccine Janssen",CZ052,"Královéhradecký kraj",80+,1,0,1
+2021-04-27,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",18-24,6,1,7
+2021-04-27,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",25-29,4,15,19
+2021-04-27,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",30-34,2,8,10
+2021-04-27,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",35-39,2,21,23
+2021-04-27,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",40-44,7,19,26
+2021-04-27,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",45-49,6,19,25
+2021-04-27,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",50-54,7,13,20
+2021-04-27,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",55-59,14,14,28
+2021-04-27,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",60-64,9,30,39
+2021-04-27,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",65-69,13,46,59
+2021-04-27,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",70-74,2,84,86
+2021-04-27,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",75-79,2,36,38
+2021-04-27,"COVID-19 Vaccine Moderna",CZ052,"Královéhradecký kraj",80+,0,18,18
+2021-04-27,VAXZEVRIA,CZ052,"Královéhradecký kraj",18-24,1,0,1
+2021-04-27,VAXZEVRIA,CZ052,"Královéhradecký kraj",25-29,2,0,2
+2021-04-27,VAXZEVRIA,CZ052,"Královéhradecký kraj",30-34,4,0,4
+2021-04-27,VAXZEVRIA,CZ052,"Královéhradecký kraj",35-39,4,0,4
+2021-04-27,VAXZEVRIA,CZ052,"Královéhradecký kraj",40-44,4,0,4
+2021-04-27,VAXZEVRIA,CZ052,"Královéhradecký kraj",45-49,10,0,10
+2021-04-27,VAXZEVRIA,CZ052,"Královéhradecký kraj",50-54,7,0,7
+2021-04-27,VAXZEVRIA,CZ052,"Královéhradecký kraj",55-59,23,0,23
+2021-04-27,VAXZEVRIA,CZ052,"Královéhradecký kraj",60-64,105,0,105
+2021-04-27,VAXZEVRIA,CZ052,"Královéhradecký kraj",65-69,131,0,131
+2021-04-27,VAXZEVRIA,CZ052,"Královéhradecký kraj",70-74,84,1,85
+2021-04-27,VAXZEVRIA,CZ052,"Královéhradecký kraj",75-79,51,0,51
+2021-04-27,VAXZEVRIA,CZ052,"Královéhradecký kraj",80+,36,0,36

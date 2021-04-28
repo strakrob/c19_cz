@@ -1,5 +1,5 @@
 
-# Curve 0 of 1, 176 points
+# Curve 0 of 1, 179 points
 # Curve title: "reported"
 # x y type
 -1  0  o
@@ -178,4 +178,7 @@
  470  1.85714  i
  471  2  i
  472  2.14286  i
+ 475  2  i
+ 477  2  i
+ 480  1.71429  i
 
