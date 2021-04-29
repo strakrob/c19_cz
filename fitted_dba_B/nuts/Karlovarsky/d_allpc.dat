@@ -1,5 +1,5 @@
 
-# Curve 0 of 1, 349 points
+# Curve 0 of 1, 350 points
 # Curve title: ""d_allp.dat" u 1:($1>0 ? $2 : 0)"
 # x y type
  76  0.0891322  i
@@ -351,4 +351,5 @@
  486  863.668  i
  488  864.005  i
  489  864.036  i
+ 490  864.389  i
 
