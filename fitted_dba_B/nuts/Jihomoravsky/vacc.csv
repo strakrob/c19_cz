@@ -34,11 +34,11 @@
 2020-12-29,Comirnaty,CZ064,"Jihomoravský kraj",70-74,30,0,30
 2020-12-29,Comirnaty,CZ064,"Jihomoravský kraj",75-79,27,0,27
 2020-12-29,Comirnaty,CZ064,"Jihomoravský kraj",80+,237,0,237
-2020-12-30,Comirnaty,CZ064,"Jihomoravský kraj",18-24,37,0,37
+2020-12-30,Comirnaty,CZ064,"Jihomoravský kraj",18-24,36,0,36
 2020-12-30,Comirnaty,CZ064,"Jihomoravský kraj",25-29,129,0,129
-2020-12-30,Comirnaty,CZ064,"Jihomoravský kraj",30-34,101,0,101
+2020-12-30,Comirnaty,CZ064,"Jihomoravský kraj",30-34,100,0,100
 2020-12-30,Comirnaty,CZ064,"Jihomoravský kraj",35-39,132,0,132
-2020-12-30,Comirnaty,CZ064,"Jihomoravský kraj",40-44,213,0,213
+2020-12-30,Comirnaty,CZ064,"Jihomoravský kraj",40-44,214,0,214
 2020-12-30,Comirnaty,CZ064,"Jihomoravský kraj",45-49,201,0,201
 2020-12-30,Comirnaty,CZ064,"Jihomoravský kraj",50-54,160,0,160
 2020-12-30,Comirnaty,CZ064,"Jihomoravský kraj",55-59,161,0,161
@@ -294,11 +294,11 @@
 2021-01-19,Comirnaty,CZ064,"Jihomoravský kraj",70-74,54,24,78
 2021-01-19,Comirnaty,CZ064,"Jihomoravský kraj",75-79,51,25,76
 2021-01-19,Comirnaty,CZ064,"Jihomoravský kraj",80+,378,217,595
-2021-01-20,Comirnaty,CZ064,"Jihomoravský kraj",18-24,14,33,47
+2021-01-20,Comirnaty,CZ064,"Jihomoravský kraj",18-24,14,32,46
 2021-01-20,Comirnaty,CZ064,"Jihomoravský kraj",25-29,44,114,158
 2021-01-20,Comirnaty,CZ064,"Jihomoravský kraj",30-34,30,98,128
 2021-01-20,Comirnaty,CZ064,"Jihomoravský kraj",35-39,38,124,162
-2021-01-20,Comirnaty,CZ064,"Jihomoravský kraj",40-44,89,188,277
+2021-01-20,Comirnaty,CZ064,"Jihomoravský kraj",40-44,89,189,278
 2021-01-20,Comirnaty,CZ064,"Jihomoravský kraj",45-49,122,192,314
 2021-01-20,Comirnaty,CZ064,"Jihomoravský kraj",50-54,111,148,259
 2021-01-20,Comirnaty,CZ064,"Jihomoravský kraj",55-59,158,161,319
@@ -1106,7 +1106,7 @@
 2021-03-01,Comirnaty,CZ064,"Jihomoravský kraj",60-64,127,11,138
 2021-03-01,Comirnaty,CZ064,"Jihomoravský kraj",65-69,112,8,120
 2021-03-01,Comirnaty,CZ064,"Jihomoravský kraj",70-74,99,4,103
-2021-03-01,Comirnaty,CZ064,"Jihomoravský kraj",75-79,121,3,124
+2021-03-01,Comirnaty,CZ064,"Jihomoravský kraj",75-79,120,3,123
 2021-03-01,Comirnaty,CZ064,"Jihomoravský kraj",80+,940,216,1156
 2021-03-01,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",18-24,3,0,3
 2021-03-01,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",25-29,12,0,12
@@ -1283,7 +1283,7 @@
 2021-03-05,VAXZEVRIA,CZ064,"Jihomoravský kraj",60-64,41,0,41
 2021-03-05,VAXZEVRIA,CZ064,"Jihomoravský kraj",65-69,35,0,35
 2021-03-05,VAXZEVRIA,CZ064,"Jihomoravský kraj",70-74,114,0,114
-2021-03-05,VAXZEVRIA,CZ064,"Jihomoravský kraj",75-79,155,0,155
+2021-03-05,VAXZEVRIA,CZ064,"Jihomoravský kraj",75-79,156,0,156
 2021-03-05,VAXZEVRIA,CZ064,"Jihomoravský kraj",80+,297,0,297
 2021-03-06,Comirnaty,CZ064,"Jihomoravský kraj",18-24,8,1,9
 2021-03-06,Comirnaty,CZ064,"Jihomoravský kraj",25-29,4,1,5
@@ -1408,7 +1408,7 @@
 2021-03-09,VAXZEVRIA,CZ064,"Jihomoravský kraj",60-64,14,0,14
 2021-03-09,VAXZEVRIA,CZ064,"Jihomoravský kraj",65-69,34,0,34
 2021-03-09,VAXZEVRIA,CZ064,"Jihomoravský kraj",70-74,221,0,221
-2021-03-09,VAXZEVRIA,CZ064,"Jihomoravský kraj",75-79,279,0,279
+2021-03-09,VAXZEVRIA,CZ064,"Jihomoravský kraj",75-79,280,0,280
 2021-03-09,VAXZEVRIA,CZ064,"Jihomoravský kraj",80+,341,0,341
 2021-03-10,Comirnaty,CZ064,"Jihomoravský kraj",18-24,142,5,147
 2021-03-10,Comirnaty,CZ064,"Jihomoravský kraj",25-29,105,7,112
@@ -1477,11 +1477,11 @@
 2021-03-11,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",80+,7,91,98
 2021-03-11,VAXZEVRIA,CZ064,"Jihomoravský kraj",25-29,1,0,1
 2021-03-11,VAXZEVRIA,CZ064,"Jihomoravský kraj",30-34,1,0,1
-2021-03-11,VAXZEVRIA,CZ064,"Jihomoravský kraj",35-39,2,0,2
+2021-03-11,VAXZEVRIA,CZ064,"Jihomoravský kraj",35-39,3,0,3
 2021-03-11,VAXZEVRIA,CZ064,"Jihomoravský kraj",40-44,1,0,1
 2021-03-11,VAXZEVRIA,CZ064,"Jihomoravský kraj",45-49,39,0,39
 2021-03-11,VAXZEVRIA,CZ064,"Jihomoravský kraj",50-54,26,0,26
-2021-03-11,VAXZEVRIA,CZ064,"Jihomoravský kraj",55-59,26,0,26
+2021-03-11,VAXZEVRIA,CZ064,"Jihomoravský kraj",55-59,27,0,27
 2021-03-11,VAXZEVRIA,CZ064,"Jihomoravský kraj",60-64,35,0,35
 2021-03-11,VAXZEVRIA,CZ064,"Jihomoravský kraj",65-69,54,0,54
 2021-03-11,VAXZEVRIA,CZ064,"Jihomoravský kraj",70-74,392,0,392
@@ -1503,7 +1503,7 @@
 2021-03-12,Comirnaty,CZ064,"Jihomoravský kraj",80+,95,152,247
 2021-03-12,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",18-24,13,1,14
 2021-03-12,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",25-29,63,1,64
-2021-03-12,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",30-34,61,3,64
+2021-03-12,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",30-34,62,3,65
 2021-03-12,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",35-39,90,4,94
 2021-03-12,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",40-44,136,3,139
 2021-03-12,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",45-49,125,4,129
@@ -1516,7 +1516,7 @@
 2021-03-12,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",80+,37,61,98
 2021-03-12,VAXZEVRIA,CZ064,"Jihomoravský kraj",18-24,3,0,3
 2021-03-12,VAXZEVRIA,CZ064,"Jihomoravský kraj",25-29,7,0,7
-2021-03-12,VAXZEVRIA,CZ064,"Jihomoravský kraj",30-34,4,0,4
+2021-03-12,VAXZEVRIA,CZ064,"Jihomoravský kraj",30-34,3,0,3
 2021-03-12,VAXZEVRIA,CZ064,"Jihomoravský kraj",35-39,9,0,9
 2021-03-12,VAXZEVRIA,CZ064,"Jihomoravský kraj",40-44,11,0,11
 2021-03-12,VAXZEVRIA,CZ064,"Jihomoravský kraj",45-49,34,0,34
@@ -1906,7 +1906,7 @@
 2021-03-24,Comirnaty,CZ064,"Jihomoravský kraj",60-64,61,179,240
 2021-03-24,Comirnaty,CZ064,"Jihomoravský kraj",65-69,40,114,154
 2021-03-24,Comirnaty,CZ064,"Jihomoravský kraj",70-74,253,145,398
-2021-03-24,Comirnaty,CZ064,"Jihomoravský kraj",75-79,273,350,623
+2021-03-24,Comirnaty,CZ064,"Jihomoravský kraj",75-79,273,351,624
 2021-03-24,Comirnaty,CZ064,"Jihomoravský kraj",80+,114,925,1039
 2021-03-24,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",18-24,1,3,4
 2021-03-24,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",25-29,1,5,6
@@ -1976,7 +1976,7 @@
 2021-03-25,VAXZEVRIA,CZ064,"Jihomoravský kraj",80+,124,0,124
 2021-03-26,Comirnaty,CZ064,"Jihomoravský kraj",0-17,1,1,2
 2021-03-26,Comirnaty,CZ064,"Jihomoravský kraj",18-24,16,42,58
-2021-03-26,Comirnaty,CZ064,"Jihomoravský kraj",25-29,19,71,90
+2021-03-26,Comirnaty,CZ064,"Jihomoravský kraj",25-29,19,72,91
 2021-03-26,Comirnaty,CZ064,"Jihomoravský kraj",30-34,31,73,104
 2021-03-26,Comirnaty,CZ064,"Jihomoravský kraj",35-39,51,109,160
 2021-03-26,Comirnaty,CZ064,"Jihomoravský kraj",40-44,67,179,246
@@ -2090,7 +2090,7 @@
 2021-03-29,VAXZEVRIA,CZ064,"Jihomoravský kraj",55-59,20,0,20
 2021-03-29,VAXZEVRIA,CZ064,"Jihomoravský kraj",60-64,28,0,28
 2021-03-29,VAXZEVRIA,CZ064,"Jihomoravský kraj",65-69,107,0,107
-2021-03-29,VAXZEVRIA,CZ064,"Jihomoravský kraj",70-74,214,1,215
+2021-03-29,VAXZEVRIA,CZ064,"Jihomoravský kraj",70-74,215,1,216
 2021-03-29,VAXZEVRIA,CZ064,"Jihomoravský kraj",75-79,167,1,168
 2021-03-29,VAXZEVRIA,CZ064,"Jihomoravský kraj",80+,103,0,103
 2021-03-30,Comirnaty,CZ064,"Jihomoravský kraj",0-17,0,1,1
@@ -2102,7 +2102,7 @@
 2021-03-30,Comirnaty,CZ064,"Jihomoravský kraj",45-49,24,146,170
 2021-03-30,Comirnaty,CZ064,"Jihomoravský kraj",50-54,29,143,172
 2021-03-30,Comirnaty,CZ064,"Jihomoravský kraj",55-59,28,234,262
-2021-03-30,Comirnaty,CZ064,"Jihomoravský kraj",60-64,35,196,231
+2021-03-30,Comirnaty,CZ064,"Jihomoravský kraj",60-64,35,197,232
 2021-03-30,Comirnaty,CZ064,"Jihomoravský kraj",65-69,72,90,162
 2021-03-30,Comirnaty,CZ064,"Jihomoravský kraj",70-74,253,225,478
 2021-03-30,Comirnaty,CZ064,"Jihomoravský kraj",75-79,316,888,1204
@@ -2322,7 +2322,7 @@
 2021-04-07,Comirnaty,CZ064,"Jihomoravský kraj",75-79,294,660,954
 2021-04-07,Comirnaty,CZ064,"Jihomoravský kraj",80+,53,241,294
 2021-04-07,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",18-24,4,15,19
-2021-04-07,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",25-29,4,48,52
+2021-04-07,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",25-29,4,49,53
 2021-04-07,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",30-34,2,50,52
 2021-04-07,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",35-39,4,63,67
 2021-04-07,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",40-44,9,68,77
@@ -2358,9 +2358,9 @@
 2021-04-08,Comirnaty,CZ064,"Jihomoravský kraj",55-59,166,136,302
 2021-04-08,Comirnaty,CZ064,"Jihomoravský kraj",60-64,223,79,302
 2021-04-08,Comirnaty,CZ064,"Jihomoravský kraj",65-69,119,73,192
-2021-04-08,Comirnaty,CZ064,"Jihomoravský kraj",70-74,504,586,1090
-2021-04-08,Comirnaty,CZ064,"Jihomoravský kraj",75-79,689,734,1423
-2021-04-08,Comirnaty,CZ064,"Jihomoravský kraj",80+,289,257,546
+2021-04-08,Comirnaty,CZ064,"Jihomoravský kraj",70-74,503,586,1089
+2021-04-08,Comirnaty,CZ064,"Jihomoravský kraj",75-79,688,734,1422
+2021-04-08,Comirnaty,CZ064,"Jihomoravský kraj",80+,285,257,542
 2021-04-08,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",18-24,1,24,25
 2021-04-08,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",25-29,1,42,43
 2021-04-08,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",30-34,0,39,39
@@ -2383,13 +2383,13 @@
 2021-04-08,VAXZEVRIA,CZ064,"Jihomoravský kraj",55-59,36,0,36
 2021-04-08,VAXZEVRIA,CZ064,"Jihomoravský kraj",60-64,90,0,90
 2021-04-08,VAXZEVRIA,CZ064,"Jihomoravský kraj",65-69,203,2,205
-2021-04-08,VAXZEVRIA,CZ064,"Jihomoravský kraj",70-74,589,6,595
-2021-04-08,VAXZEVRIA,CZ064,"Jihomoravský kraj",75-79,378,3,381
-2021-04-08,VAXZEVRIA,CZ064,"Jihomoravský kraj",80+,220,16,236
+2021-04-08,VAXZEVRIA,CZ064,"Jihomoravský kraj",70-74,590,6,596
+2021-04-08,VAXZEVRIA,CZ064,"Jihomoravský kraj",75-79,379,3,382
+2021-04-08,VAXZEVRIA,CZ064,"Jihomoravský kraj",80+,224,16,240
 2021-04-09,Comirnaty,CZ064,"Jihomoravský kraj",0-17,0,6,6
 2021-04-09,Comirnaty,CZ064,"Jihomoravský kraj",18-24,11,73,84
-2021-04-09,Comirnaty,CZ064,"Jihomoravský kraj",25-29,22,53,75
-2021-04-09,Comirnaty,CZ064,"Jihomoravský kraj",30-34,18,42,60
+2021-04-09,Comirnaty,CZ064,"Jihomoravský kraj",25-29,21,53,74
+2021-04-09,Comirnaty,CZ064,"Jihomoravský kraj",30-34,19,42,61
 2021-04-09,Comirnaty,CZ064,"Jihomoravský kraj",35-39,48,106,154
 2021-04-09,Comirnaty,CZ064,"Jihomoravský kraj",40-44,51,148,199
 2021-04-09,Comirnaty,CZ064,"Jihomoravský kraj",45-49,87,90,177
@@ -2399,22 +2399,22 @@
 2021-04-09,Comirnaty,CZ064,"Jihomoravský kraj",65-69,56,54,110
 2021-04-09,Comirnaty,CZ064,"Jihomoravský kraj",70-74,255,664,919
 2021-04-09,Comirnaty,CZ064,"Jihomoravský kraj",75-79,121,814,935
-2021-04-09,Comirnaty,CZ064,"Jihomoravský kraj",80+,38,291,329
+2021-04-09,Comirnaty,CZ064,"Jihomoravský kraj",80+,37,291,328
 2021-04-09,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",18-24,6,14,20
 2021-04-09,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",25-29,5,65,70
-2021-04-09,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",30-34,6,64,70
+2021-04-09,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",30-34,6,65,71
 2021-04-09,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",35-39,4,95,99
 2021-04-09,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",40-44,15,149,164
 2021-04-09,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",45-49,19,146,165
-2021-04-09,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",50-54,19,111,130
+2021-04-09,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",50-54,19,112,131
 2021-04-09,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",55-59,20,95,115
 2021-04-09,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",60-64,13,46,59
 2021-04-09,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",65-69,23,29,52
 2021-04-09,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",70-74,21,19,40
 2021-04-09,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",75-79,11,378,389
 2021-04-09,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",80+,13,46,59
-2021-04-09,VAXZEVRIA,CZ064,"Jihomoravský kraj",25-29,6,0,6
-2021-04-09,VAXZEVRIA,CZ064,"Jihomoravský kraj",30-34,4,1,5
+2021-04-09,VAXZEVRIA,CZ064,"Jihomoravský kraj",25-29,5,0,5
+2021-04-09,VAXZEVRIA,CZ064,"Jihomoravský kraj",30-34,5,0,5
 2021-04-09,VAXZEVRIA,CZ064,"Jihomoravský kraj",35-39,13,0,13
 2021-04-09,VAXZEVRIA,CZ064,"Jihomoravský kraj",40-44,17,0,17
 2021-04-09,VAXZEVRIA,CZ064,"Jihomoravský kraj",45-49,30,0,30
@@ -2424,7 +2424,7 @@
 2021-04-09,VAXZEVRIA,CZ064,"Jihomoravský kraj",65-69,264,0,264
 2021-04-09,VAXZEVRIA,CZ064,"Jihomoravský kraj",70-74,512,2,514
 2021-04-09,VAXZEVRIA,CZ064,"Jihomoravský kraj",75-79,301,6,307
-2021-04-09,VAXZEVRIA,CZ064,"Jihomoravský kraj",80+,184,20,204
+2021-04-09,VAXZEVRIA,CZ064,"Jihomoravský kraj",80+,185,20,205
 2021-04-10,Comirnaty,CZ064,"Jihomoravský kraj",0-17,1,3,4
 2021-04-10,Comirnaty,CZ064,"Jihomoravský kraj",18-24,6,22,28
 2021-04-10,Comirnaty,CZ064,"Jihomoravský kraj",25-29,7,27,34
@@ -2491,7 +2491,7 @@
 2021-04-12,Comirnaty,CZ064,"Jihomoravský kraj",55-59,46,110,156
 2021-04-12,Comirnaty,CZ064,"Jihomoravský kraj",60-64,158,64,222
 2021-04-12,Comirnaty,CZ064,"Jihomoravský kraj",65-69,184,33,217
-2021-04-12,Comirnaty,CZ064,"Jihomoravský kraj",70-74,722,1426,2148
+2021-04-12,Comirnaty,CZ064,"Jihomoravský kraj",70-74,722,1427,2149
 2021-04-12,Comirnaty,CZ064,"Jihomoravský kraj",75-79,457,985,1442
 2021-04-12,Comirnaty,CZ064,"Jihomoravský kraj",80+,46,182,228
 2021-04-12,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",18-24,1,60,61
@@ -2530,7 +2530,7 @@
 2021-04-13,Comirnaty,CZ064,"Jihomoravský kraj",50-54,94,87,181
 2021-04-13,Comirnaty,CZ064,"Jihomoravský kraj",55-59,56,101,157
 2021-04-13,Comirnaty,CZ064,"Jihomoravský kraj",60-64,110,52,162
-2021-04-13,Comirnaty,CZ064,"Jihomoravský kraj",65-69,155,44,199
+2021-04-13,Comirnaty,CZ064,"Jihomoravský kraj",65-69,154,44,198
 2021-04-13,Comirnaty,CZ064,"Jihomoravský kraj",70-74,1297,1292,2589
 2021-04-13,Comirnaty,CZ064,"Jihomoravský kraj",75-79,434,758,1192
 2021-04-13,Comirnaty,CZ064,"Jihomoravský kraj",80+,81,159,240
@@ -2558,7 +2558,7 @@
 2021-04-13,VAXZEVRIA,CZ064,"Jihomoravský kraj",60-64,131,0,131
 2021-04-13,VAXZEVRIA,CZ064,"Jihomoravský kraj",65-69,314,1,315
 2021-04-13,VAXZEVRIA,CZ064,"Jihomoravský kraj",70-74,454,0,454
-2021-04-13,VAXZEVRIA,CZ064,"Jihomoravský kraj",75-79,257,1,258
+2021-04-13,VAXZEVRIA,CZ064,"Jihomoravský kraj",75-79,256,1,257
 2021-04-13,VAXZEVRIA,CZ064,"Jihomoravský kraj",80+,138,10,148
 2021-04-14,Comirnaty,CZ064,"Jihomoravský kraj",18-24,8,29,37
 2021-04-14,Comirnaty,CZ064,"Jihomoravský kraj",25-29,9,53,62
@@ -2569,9 +2569,9 @@
 2021-04-14,Comirnaty,CZ064,"Jihomoravský kraj",50-54,87,125,212
 2021-04-14,Comirnaty,CZ064,"Jihomoravský kraj",55-59,60,133,193
 2021-04-14,Comirnaty,CZ064,"Jihomoravský kraj",60-64,109,81,190
-2021-04-14,Comirnaty,CZ064,"Jihomoravský kraj",65-69,133,58,191
-2021-04-14,Comirnaty,CZ064,"Jihomoravský kraj",70-74,2184,1667,3851
-2021-04-14,Comirnaty,CZ064,"Jihomoravský kraj",75-79,473,574,1047
+2021-04-14,Comirnaty,CZ064,"Jihomoravský kraj",65-69,132,58,190
+2021-04-14,Comirnaty,CZ064,"Jihomoravský kraj",70-74,2185,1667,3852
+2021-04-14,Comirnaty,CZ064,"Jihomoravský kraj",75-79,472,574,1046
 2021-04-14,Comirnaty,CZ064,"Jihomoravský kraj",80+,66,171,237
 2021-04-14,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",18-24,0,8,8
 2021-04-14,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",25-29,11,21,32
@@ -2595,7 +2595,7 @@
 2021-04-14,VAXZEVRIA,CZ064,"Jihomoravský kraj",50-54,22,0,22
 2021-04-14,VAXZEVRIA,CZ064,"Jihomoravský kraj",55-59,40,0,40
 2021-04-14,VAXZEVRIA,CZ064,"Jihomoravský kraj",60-64,98,5,103
-2021-04-14,VAXZEVRIA,CZ064,"Jihomoravský kraj",65-69,432,1,433
+2021-04-14,VAXZEVRIA,CZ064,"Jihomoravský kraj",65-69,433,1,434
 2021-04-14,VAXZEVRIA,CZ064,"Jihomoravský kraj",70-74,401,7,408
 2021-04-14,VAXZEVRIA,CZ064,"Jihomoravský kraj",75-79,241,5,246
 2021-04-14,VAXZEVRIA,CZ064,"Jihomoravský kraj",80+,115,15,130
@@ -2605,7 +2605,7 @@
 2021-04-15,Comirnaty,CZ064,"Jihomoravský kraj",30-34,45,50,95
 2021-04-15,Comirnaty,CZ064,"Jihomoravský kraj",35-39,52,70,122
 2021-04-15,Comirnaty,CZ064,"Jihomoravský kraj",40-44,120,120,240
-2021-04-15,Comirnaty,CZ064,"Jihomoravský kraj",45-49,109,219,328
+2021-04-15,Comirnaty,CZ064,"Jihomoravský kraj",45-49,110,219,329
 2021-04-15,Comirnaty,CZ064,"Jihomoravský kraj",50-54,110,199,309
 2021-04-15,Comirnaty,CZ064,"Jihomoravský kraj",55-59,86,147,233
 2021-04-15,Comirnaty,CZ064,"Jihomoravský kraj",60-64,108,105,213
@@ -2644,13 +2644,13 @@
 2021-04-16,Comirnaty,CZ064,"Jihomoravský kraj",30-34,26,56,82
 2021-04-16,Comirnaty,CZ064,"Jihomoravský kraj",35-39,36,88,124
 2021-04-16,Comirnaty,CZ064,"Jihomoravský kraj",40-44,75,127,202
-2021-04-16,Comirnaty,CZ064,"Jihomoravský kraj",45-49,132,270,402
+2021-04-16,Comirnaty,CZ064,"Jihomoravský kraj",45-49,131,270,401
 2021-04-16,Comirnaty,CZ064,"Jihomoravský kraj",50-54,109,235,344
 2021-04-16,Comirnaty,CZ064,"Jihomoravský kraj",55-59,78,283,361
 2021-04-16,Comirnaty,CZ064,"Jihomoravský kraj",60-64,80,212,292
 2021-04-16,Comirnaty,CZ064,"Jihomoravský kraj",65-69,123,149,272
 2021-04-16,Comirnaty,CZ064,"Jihomoravský kraj",70-74,1614,924,2538
-2021-04-16,Comirnaty,CZ064,"Jihomoravský kraj",75-79,313,559,872
+2021-04-16,Comirnaty,CZ064,"Jihomoravský kraj",75-79,314,559,873
 2021-04-16,Comirnaty,CZ064,"Jihomoravský kraj",80+,60,213,273
 2021-04-16,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",18-24,3,12,15
 2021-04-16,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",25-29,5,15,20
@@ -2796,7 +2796,7 @@
 2021-04-20,VAXZEVRIA,CZ064,"Jihomoravský kraj",65-69,304,0,304
 2021-04-20,VAXZEVRIA,CZ064,"Jihomoravský kraj",70-74,145,1,146
 2021-04-20,VAXZEVRIA,CZ064,"Jihomoravský kraj",75-79,71,7,78
-2021-04-20,VAXZEVRIA,CZ064,"Jihomoravský kraj",80+,58,6,64
+2021-04-20,VAXZEVRIA,CZ064,"Jihomoravský kraj",80+,59,6,65
 2021-04-21,Comirnaty,CZ064,"Jihomoravský kraj",0-17,3,0,3
 2021-04-21,Comirnaty,CZ064,"Jihomoravský kraj",18-24,96,9,105
 2021-04-21,Comirnaty,CZ064,"Jihomoravský kraj",25-29,128,9,137
@@ -2810,7 +2810,7 @@
 2021-04-21,Comirnaty,CZ064,"Jihomoravský kraj",65-69,1826,56,1882
 2021-04-21,Comirnaty,CZ064,"Jihomoravský kraj",70-74,574,217,791
 2021-04-21,Comirnaty,CZ064,"Jihomoravský kraj",75-79,139,239,378
-2021-04-21,Comirnaty,CZ064,"Jihomoravský kraj",80+,80,73,153
+2021-04-21,Comirnaty,CZ064,"Jihomoravský kraj",80+,79,73,152
 2021-04-21,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",18-24,0,1,1
 2021-04-21,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",25-29,1,0,1
 2021-04-21,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",30-34,2,2,4
@@ -2834,7 +2834,7 @@
 2021-04-21,VAXZEVRIA,CZ064,"Jihomoravský kraj",60-64,59,0,59
 2021-04-21,VAXZEVRIA,CZ064,"Jihomoravský kraj",65-69,322,1,323
 2021-04-21,VAXZEVRIA,CZ064,"Jihomoravský kraj",70-74,100,0,100
-2021-04-21,VAXZEVRIA,CZ064,"Jihomoravský kraj",75-79,58,2,60
+2021-04-21,VAXZEVRIA,CZ064,"Jihomoravský kraj",75-79,58,3,61
 2021-04-21,VAXZEVRIA,CZ064,"Jihomoravský kraj",80+,51,3,54
 2021-04-22,Comirnaty,CZ064,"Jihomoravský kraj",0-17,6,0,6
 2021-04-22,Comirnaty,CZ064,"Jihomoravský kraj",18-24,108,22,130
@@ -3033,14 +3033,14 @@
 2021-04-27,Comirnaty,CZ064,"Jihomoravský kraj",0-17,1,0,1
 2021-04-27,Comirnaty,CZ064,"Jihomoravský kraj",18-24,27,2,29
 2021-04-27,Comirnaty,CZ064,"Jihomoravský kraj",25-29,32,3,35
-2021-04-27,Comirnaty,CZ064,"Jihomoravský kraj",30-34,40,5,45
+2021-04-27,Comirnaty,CZ064,"Jihomoravský kraj",30-34,41,5,46
 2021-04-27,Comirnaty,CZ064,"Jihomoravský kraj",35-39,59,6,65
 2021-04-27,Comirnaty,CZ064,"Jihomoravský kraj",40-44,86,5,91
 2021-04-27,Comirnaty,CZ064,"Jihomoravský kraj",45-49,88,8,96
 2021-04-27,Comirnaty,CZ064,"Jihomoravský kraj",50-54,86,5,91
-2021-04-27,Comirnaty,CZ064,"Jihomoravský kraj",55-59,149,7,156
-2021-04-27,Comirnaty,CZ064,"Jihomoravský kraj",60-64,1236,12,1248
-2021-04-27,Comirnaty,CZ064,"Jihomoravský kraj",65-69,3261,14,3275
+2021-04-27,Comirnaty,CZ064,"Jihomoravský kraj",55-59,166,7,173
+2021-04-27,Comirnaty,CZ064,"Jihomoravský kraj",60-64,1237,12,1249
+2021-04-27,Comirnaty,CZ064,"Jihomoravský kraj",65-69,3262,14,3276
 2021-04-27,Comirnaty,CZ064,"Jihomoravský kraj",70-74,282,51,333
 2021-04-27,Comirnaty,CZ064,"Jihomoravský kraj",75-79,118,63,181
 2021-04-27,Comirnaty,CZ064,"Jihomoravský kraj",80+,59,12,71
@@ -3071,9 +3071,9 @@
 2021-04-27,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",80+,4,46,50
 2021-04-27,VAXZEVRIA,CZ064,"Jihomoravský kraj",18-24,2,0,2
 2021-04-27,VAXZEVRIA,CZ064,"Jihomoravský kraj",25-29,1,0,1
-2021-04-27,VAXZEVRIA,CZ064,"Jihomoravský kraj",30-34,9,0,9
+2021-04-27,VAXZEVRIA,CZ064,"Jihomoravský kraj",30-34,8,0,8
 2021-04-27,VAXZEVRIA,CZ064,"Jihomoravský kraj",35-39,2,0,2
-2021-04-27,VAXZEVRIA,CZ064,"Jihomoravský kraj",40-44,9,0,9
+2021-04-27,VAXZEVRIA,CZ064,"Jihomoravský kraj",40-44,10,0,10
 2021-04-27,VAXZEVRIA,CZ064,"Jihomoravský kraj",45-49,19,0,19
 2021-04-27,VAXZEVRIA,CZ064,"Jihomoravský kraj",50-54,21,0,21
 2021-04-27,VAXZEVRIA,CZ064,"Jihomoravský kraj",55-59,45,0,45
@@ -3114,7 +3114,7 @@
 2021-04-28,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",35-39,2,1,3
 2021-04-28,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",40-44,2,1,3
 2021-04-28,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",45-49,5,2,7
-2021-04-28,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",50-54,5,2,7
+2021-04-28,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",50-54,6,2,8
 2021-04-28,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",55-59,11,6,17
 2021-04-28,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",60-64,34,4,38
 2021-04-28,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",65-69,53,5,58
@@ -3135,18 +3135,18 @@
 2021-04-28,VAXZEVRIA,CZ064,"Jihomoravský kraj",70-74,218,15,233
 2021-04-28,VAXZEVRIA,CZ064,"Jihomoravský kraj",75-79,104,7,111
 2021-04-28,VAXZEVRIA,CZ064,"Jihomoravský kraj",80+,49,3,52
-2021-04-29,Comirnaty,CZ064,"Jihomoravský kraj",18-24,56,8,64
-2021-04-29,Comirnaty,CZ064,"Jihomoravský kraj",25-29,68,14,82
-2021-04-29,Comirnaty,CZ064,"Jihomoravský kraj",30-34,72,21,93
-2021-04-29,Comirnaty,CZ064,"Jihomoravský kraj",35-39,89,24,113
-2021-04-29,Comirnaty,CZ064,"Jihomoravský kraj",40-44,146,26,172
-2021-04-29,Comirnaty,CZ064,"Jihomoravský kraj",45-49,182,28,210
-2021-04-29,Comirnaty,CZ064,"Jihomoravský kraj",50-54,134,26,160
-2021-04-29,Comirnaty,CZ064,"Jihomoravský kraj",55-59,520,38,558
+2021-04-29,Comirnaty,CZ064,"Jihomoravský kraj",18-24,57,8,65
+2021-04-29,Comirnaty,CZ064,"Jihomoravský kraj",25-29,68,15,83
+2021-04-29,Comirnaty,CZ064,"Jihomoravský kraj",30-34,73,24,97
+2021-04-29,Comirnaty,CZ064,"Jihomoravský kraj",35-39,90,25,115
+2021-04-29,Comirnaty,CZ064,"Jihomoravský kraj",40-44,147,30,177
+2021-04-29,Comirnaty,CZ064,"Jihomoravský kraj",45-49,183,29,212
+2021-04-29,Comirnaty,CZ064,"Jihomoravský kraj",50-54,137,26,163
+2021-04-29,Comirnaty,CZ064,"Jihomoravský kraj",55-59,522,39,561
 2021-04-29,Comirnaty,CZ064,"Jihomoravský kraj",60-64,2609,31,2640
-2021-04-29,Comirnaty,CZ064,"Jihomoravský kraj",65-69,1690,13,1703
-2021-04-29,Comirnaty,CZ064,"Jihomoravský kraj",70-74,300,56,356
-2021-04-29,Comirnaty,CZ064,"Jihomoravský kraj",75-79,145,61,206
+2021-04-29,Comirnaty,CZ064,"Jihomoravský kraj",65-69,1690,14,1704
+2021-04-29,Comirnaty,CZ064,"Jihomoravský kraj",70-74,300,58,358
+2021-04-29,Comirnaty,CZ064,"Jihomoravský kraj",75-79,145,62,207
 2021-04-29,Comirnaty,CZ064,"Jihomoravský kraj",80+,105,32,137
 2021-04-29,"COVID-19 Vaccine Janssen",CZ064,"Jihomoravský kraj",30-34,1,0,1
 2021-04-29,"COVID-19 Vaccine Janssen",CZ064,"Jihomoravský kraj",35-39,1,0,1
@@ -3187,16 +3187,16 @@
 2021-04-29,VAXZEVRIA,CZ064,"Jihomoravský kraj",80+,32,22,54
 2021-04-30,Comirnaty,CZ064,"Jihomoravský kraj",0-17,3,0,3
 2021-04-30,Comirnaty,CZ064,"Jihomoravský kraj",18-24,61,4,65
-2021-04-30,Comirnaty,CZ064,"Jihomoravský kraj",25-29,66,18,84
+2021-04-30,Comirnaty,CZ064,"Jihomoravský kraj",25-29,66,17,83
 2021-04-30,Comirnaty,CZ064,"Jihomoravský kraj",30-34,83,16,99
 2021-04-30,Comirnaty,CZ064,"Jihomoravský kraj",35-39,153,21,174
 2021-04-30,Comirnaty,CZ064,"Jihomoravský kraj",40-44,174,23,197
 2021-04-30,Comirnaty,CZ064,"Jihomoravský kraj",45-49,215,28,243
 2021-04-30,Comirnaty,CZ064,"Jihomoravský kraj",50-54,197,26,223
-2021-04-30,Comirnaty,CZ064,"Jihomoravský kraj",55-59,521,22,543
-2021-04-30,Comirnaty,CZ064,"Jihomoravský kraj",60-64,2103,22,2125
+2021-04-30,Comirnaty,CZ064,"Jihomoravský kraj",55-59,522,22,544
+2021-04-30,Comirnaty,CZ064,"Jihomoravský kraj",60-64,2104,22,2126
 2021-04-30,Comirnaty,CZ064,"Jihomoravský kraj",65-69,1443,21,1464
-2021-04-30,Comirnaty,CZ064,"Jihomoravský kraj",70-74,383,48,431
+2021-04-30,Comirnaty,CZ064,"Jihomoravský kraj",70-74,384,48,432
 2021-04-30,Comirnaty,CZ064,"Jihomoravský kraj",75-79,174,46,220
 2021-04-30,Comirnaty,CZ064,"Jihomoravský kraj",80+,76,20,96
 2021-04-30,"COVID-19 Vaccine Janssen",CZ064,"Jihomoravský kraj",18-24,4,0,4
@@ -3218,7 +3218,7 @@
 2021-04-30,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",40-44,5,1,6
 2021-04-30,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",45-49,14,2,16
 2021-04-30,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",50-54,11,2,13
-2021-04-30,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",55-59,37,3,40
+2021-04-30,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",55-59,39,3,42
 2021-04-30,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",60-64,43,2,45
 2021-04-30,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",65-69,98,7,105
 2021-04-30,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",70-74,53,8,61
@@ -3233,9 +3233,9 @@
 2021-04-30,VAXZEVRIA,CZ064,"Jihomoravský kraj",50-54,22,0,22
 2021-04-30,VAXZEVRIA,CZ064,"Jihomoravský kraj",55-59,74,1,75
 2021-04-30,VAXZEVRIA,CZ064,"Jihomoravský kraj",60-64,140,0,140
-2021-04-30,VAXZEVRIA,CZ064,"Jihomoravský kraj",65-69,192,1,193
-2021-04-30,VAXZEVRIA,CZ064,"Jihomoravský kraj",70-74,83,1,84
-2021-04-30,VAXZEVRIA,CZ064,"Jihomoravský kraj",75-79,37,4,41
+2021-04-30,VAXZEVRIA,CZ064,"Jihomoravský kraj",65-69,193,1,194
+2021-04-30,VAXZEVRIA,CZ064,"Jihomoravský kraj",70-74,98,1,99
+2021-04-30,VAXZEVRIA,CZ064,"Jihomoravský kraj",75-79,38,4,42
 2021-04-30,VAXZEVRIA,CZ064,"Jihomoravský kraj",80+,21,8,29
 2021-05-01,Comirnaty,CZ064,"Jihomoravský kraj",18-24,2,0,2
 2021-05-01,Comirnaty,CZ064,"Jihomoravský kraj",25-29,2,1,3
@@ -3287,17 +3287,17 @@
 2021-05-03,Comirnaty,CZ064,"Jihomoravský kraj",0-17,1,1,2
 2021-05-03,Comirnaty,CZ064,"Jihomoravský kraj",18-24,42,5,47
 2021-05-03,Comirnaty,CZ064,"Jihomoravský kraj",25-29,53,4,57
-2021-05-03,Comirnaty,CZ064,"Jihomoravský kraj",30-34,65,3,68
-2021-05-03,Comirnaty,CZ064,"Jihomoravský kraj",35-39,113,9,122
-2021-05-03,Comirnaty,CZ064,"Jihomoravský kraj",40-44,179,7,186
-2021-05-03,Comirnaty,CZ064,"Jihomoravský kraj",45-49,202,11,213
-2021-05-03,Comirnaty,CZ064,"Jihomoravský kraj",50-54,204,6,210
-2021-05-03,Comirnaty,CZ064,"Jihomoravský kraj",55-59,3473,12,3485
+2021-05-03,Comirnaty,CZ064,"Jihomoravský kraj",30-34,66,3,69
+2021-05-03,Comirnaty,CZ064,"Jihomoravský kraj",35-39,114,10,124
+2021-05-03,Comirnaty,CZ064,"Jihomoravský kraj",40-44,181,7,188
+2021-05-03,Comirnaty,CZ064,"Jihomoravský kraj",45-49,202,12,214
+2021-05-03,Comirnaty,CZ064,"Jihomoravský kraj",50-54,205,7,212
+2021-05-03,Comirnaty,CZ064,"Jihomoravský kraj",55-59,3479,12,3491
 2021-05-03,Comirnaty,CZ064,"Jihomoravský kraj",60-64,2500,16,2516
-2021-05-03,Comirnaty,CZ064,"Jihomoravský kraj",65-69,912,12,924
-2021-05-03,Comirnaty,CZ064,"Jihomoravský kraj",70-74,219,36,255
-2021-05-03,Comirnaty,CZ064,"Jihomoravský kraj",75-79,109,71,180
-2021-05-03,Comirnaty,CZ064,"Jihomoravský kraj",80+,45,18,63
+2021-05-03,Comirnaty,CZ064,"Jihomoravský kraj",65-69,914,12,926
+2021-05-03,Comirnaty,CZ064,"Jihomoravský kraj",70-74,220,35,255
+2021-05-03,Comirnaty,CZ064,"Jihomoravský kraj",75-79,109,72,181
+2021-05-03,Comirnaty,CZ064,"Jihomoravský kraj",80+,49,18,67
 2021-05-03,"COVID-19 Vaccine Janssen",CZ064,"Jihomoravský kraj",18-24,2,0,2
 2021-05-03,"COVID-19 Vaccine Janssen",CZ064,"Jihomoravský kraj",25-29,1,0,1
 2021-05-03,"COVID-19 Vaccine Janssen",CZ064,"Jihomoravský kraj",40-44,4,0,4
@@ -3316,20 +3316,122 @@
 2021-05-03,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",40-44,3,3,6
 2021-05-03,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",45-49,6,1,7
 2021-05-03,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",50-54,8,0,8
-2021-05-03,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",55-59,35,2,37
+2021-05-03,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",55-59,36,2,38
 2021-05-03,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",60-64,52,10,62
-2021-05-03,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",65-69,46,18,64
+2021-05-03,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",65-69,48,18,66
 2021-05-03,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",70-74,20,21,41
 2021-05-03,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",75-79,16,19,35
-2021-05-03,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",80+,8,6,14
+2021-05-03,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",80+,13,6,19
+2021-05-03,VAXZEVRIA,CZ064,"Jihomoravský kraj",25-29,1,0,1
 2021-05-03,VAXZEVRIA,CZ064,"Jihomoravský kraj",30-34,5,0,5
-2021-05-03,VAXZEVRIA,CZ064,"Jihomoravský kraj",35-39,4,0,4
-2021-05-03,VAXZEVRIA,CZ064,"Jihomoravský kraj",40-44,14,0,14
-2021-05-03,VAXZEVRIA,CZ064,"Jihomoravský kraj",45-49,19,0,19
-2021-05-03,VAXZEVRIA,CZ064,"Jihomoravský kraj",50-54,20,0,20
-2021-05-03,VAXZEVRIA,CZ064,"Jihomoravský kraj",55-59,79,0,79
-2021-05-03,VAXZEVRIA,CZ064,"Jihomoravský kraj",60-64,95,0,95
-2021-05-03,VAXZEVRIA,CZ064,"Jihomoravský kraj",65-69,124,0,124
-2021-05-03,VAXZEVRIA,CZ064,"Jihomoravský kraj",70-74,51,1,52
+2021-05-03,VAXZEVRIA,CZ064,"Jihomoravský kraj",35-39,5,0,5
+2021-05-03,VAXZEVRIA,CZ064,"Jihomoravský kraj",40-44,16,0,16
+2021-05-03,VAXZEVRIA,CZ064,"Jihomoravský kraj",45-49,20,0,20
+2021-05-03,VAXZEVRIA,CZ064,"Jihomoravský kraj",50-54,21,0,21
+2021-05-03,VAXZEVRIA,CZ064,"Jihomoravský kraj",55-59,81,0,81
+2021-05-03,VAXZEVRIA,CZ064,"Jihomoravský kraj",60-64,101,0,101
+2021-05-03,VAXZEVRIA,CZ064,"Jihomoravský kraj",65-69,127,0,127
+2021-05-03,VAXZEVRIA,CZ064,"Jihomoravský kraj",70-74,57,1,58
 2021-05-03,VAXZEVRIA,CZ064,"Jihomoravský kraj",75-79,23,5,28
 2021-05-03,VAXZEVRIA,CZ064,"Jihomoravský kraj",80+,18,7,25
+2021-05-04,Comirnaty,CZ064,"Jihomoravský kraj",18-24,37,2,39
+2021-05-04,Comirnaty,CZ064,"Jihomoravský kraj",25-29,75,2,77
+2021-05-04,Comirnaty,CZ064,"Jihomoravský kraj",30-34,120,5,125
+2021-05-04,Comirnaty,CZ064,"Jihomoravský kraj",35-39,174,7,181
+2021-05-04,Comirnaty,CZ064,"Jihomoravský kraj",40-44,263,15,278
+2021-05-04,Comirnaty,CZ064,"Jihomoravský kraj",45-49,248,12,260
+2021-05-04,Comirnaty,CZ064,"Jihomoravský kraj",50-54,236,8,244
+2021-05-04,Comirnaty,CZ064,"Jihomoravský kraj",55-59,3112,10,3122
+2021-05-04,Comirnaty,CZ064,"Jihomoravský kraj",60-64,2340,14,2354
+2021-05-04,Comirnaty,CZ064,"Jihomoravský kraj",65-69,1097,16,1113
+2021-05-04,Comirnaty,CZ064,"Jihomoravský kraj",70-74,252,49,301
+2021-05-04,Comirnaty,CZ064,"Jihomoravský kraj",75-79,123,59,182
+2021-05-04,Comirnaty,CZ064,"Jihomoravský kraj",80+,51,16,67
+2021-05-04,"COVID-19 Vaccine Janssen",CZ064,"Jihomoravský kraj",30-34,1,0,1
+2021-05-04,"COVID-19 Vaccine Janssen",CZ064,"Jihomoravský kraj",35-39,1,0,1
+2021-05-04,"COVID-19 Vaccine Janssen",CZ064,"Jihomoravský kraj",40-44,1,0,1
+2021-05-04,"COVID-19 Vaccine Janssen",CZ064,"Jihomoravský kraj",45-49,4,0,4
+2021-05-04,"COVID-19 Vaccine Janssen",CZ064,"Jihomoravský kraj",50-54,7,0,7
+2021-05-04,"COVID-19 Vaccine Janssen",CZ064,"Jihomoravský kraj",55-59,23,0,23
+2021-05-04,"COVID-19 Vaccine Janssen",CZ064,"Jihomoravský kraj",60-64,28,0,28
+2021-05-04,"COVID-19 Vaccine Janssen",CZ064,"Jihomoravský kraj",65-69,59,0,59
+2021-05-04,"COVID-19 Vaccine Janssen",CZ064,"Jihomoravský kraj",70-74,22,0,22
+2021-05-04,"COVID-19 Vaccine Janssen",CZ064,"Jihomoravský kraj",75-79,13,0,13
+2021-05-04,"COVID-19 Vaccine Janssen",CZ064,"Jihomoravský kraj",80+,8,0,8
+2021-05-04,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",18-24,1,0,1
+2021-05-04,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",25-29,3,0,3
+2021-05-04,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",30-34,4,0,4
+2021-05-04,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",35-39,4,1,5
+2021-05-04,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",40-44,9,1,10
+2021-05-04,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",45-49,10,1,11
+2021-05-04,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",50-54,21,1,22
+2021-05-04,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",55-59,67,2,69
+2021-05-04,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",60-64,94,1,95
+2021-05-04,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",65-69,118,13,131
+2021-05-04,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",70-74,52,40,92
+2021-05-04,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",75-79,25,34,59
+2021-05-04,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",80+,15,8,23
+2021-05-04,VAXZEVRIA,CZ064,"Jihomoravský kraj",18-24,1,0,1
+2021-05-04,VAXZEVRIA,CZ064,"Jihomoravský kraj",25-29,2,0,2
+2021-05-04,VAXZEVRIA,CZ064,"Jihomoravský kraj",30-34,6,0,6
+2021-05-04,VAXZEVRIA,CZ064,"Jihomoravský kraj",35-39,3,0,3
+2021-05-04,VAXZEVRIA,CZ064,"Jihomoravský kraj",40-44,8,0,8
+2021-05-04,VAXZEVRIA,CZ064,"Jihomoravský kraj",45-49,15,0,15
+2021-05-04,VAXZEVRIA,CZ064,"Jihomoravský kraj",50-54,21,0,21
+2021-05-04,VAXZEVRIA,CZ064,"Jihomoravský kraj",55-59,62,0,62
+2021-05-04,VAXZEVRIA,CZ064,"Jihomoravský kraj",60-64,110,0,110
+2021-05-04,VAXZEVRIA,CZ064,"Jihomoravský kraj",65-69,123,0,123
+2021-05-04,VAXZEVRIA,CZ064,"Jihomoravský kraj",70-74,91,0,91
+2021-05-04,VAXZEVRIA,CZ064,"Jihomoravský kraj",75-79,40,0,40
+2021-05-04,VAXZEVRIA,CZ064,"Jihomoravský kraj",80+,31,2,33
+2021-05-05,Comirnaty,CZ064,"Jihomoravský kraj",0-17,3,0,3
+2021-05-05,Comirnaty,CZ064,"Jihomoravský kraj",18-24,63,5,68
+2021-05-05,Comirnaty,CZ064,"Jihomoravský kraj",25-29,157,2,159
+2021-05-05,Comirnaty,CZ064,"Jihomoravský kraj",30-34,214,10,224
+2021-05-05,Comirnaty,CZ064,"Jihomoravský kraj",35-39,285,12,297
+2021-05-05,Comirnaty,CZ064,"Jihomoravský kraj",40-44,322,7,329
+2021-05-05,Comirnaty,CZ064,"Jihomoravský kraj",45-49,312,14,326
+2021-05-05,Comirnaty,CZ064,"Jihomoravský kraj",50-54,227,13,240
+2021-05-05,Comirnaty,CZ064,"Jihomoravský kraj",55-59,2645,12,2657
+2021-05-05,Comirnaty,CZ064,"Jihomoravský kraj",60-64,1812,20,1832
+2021-05-05,Comirnaty,CZ064,"Jihomoravský kraj",65-69,925,18,943
+2021-05-05,Comirnaty,CZ064,"Jihomoravský kraj",70-74,264,193,457
+2021-05-05,Comirnaty,CZ064,"Jihomoravský kraj",75-79,118,67,185
+2021-05-05,Comirnaty,CZ064,"Jihomoravský kraj",80+,52,15,67
+2021-05-05,"COVID-19 Vaccine Janssen",CZ064,"Jihomoravský kraj",30-34,1,0,1
+2021-05-05,"COVID-19 Vaccine Janssen",CZ064,"Jihomoravský kraj",35-39,4,0,4
+2021-05-05,"COVID-19 Vaccine Janssen",CZ064,"Jihomoravský kraj",40-44,5,0,5
+2021-05-05,"COVID-19 Vaccine Janssen",CZ064,"Jihomoravský kraj",45-49,8,0,8
+2021-05-05,"COVID-19 Vaccine Janssen",CZ064,"Jihomoravský kraj",50-54,13,0,13
+2021-05-05,"COVID-19 Vaccine Janssen",CZ064,"Jihomoravský kraj",55-59,26,0,26
+2021-05-05,"COVID-19 Vaccine Janssen",CZ064,"Jihomoravský kraj",60-64,60,0,60
+2021-05-05,"COVID-19 Vaccine Janssen",CZ064,"Jihomoravský kraj",65-69,75,0,75
+2021-05-05,"COVID-19 Vaccine Janssen",CZ064,"Jihomoravský kraj",70-74,20,0,20
+2021-05-05,"COVID-19 Vaccine Janssen",CZ064,"Jihomoravský kraj",75-79,8,0,8
+2021-05-05,"COVID-19 Vaccine Janssen",CZ064,"Jihomoravský kraj",80+,14,0,14
+2021-05-05,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",18-24,1,1,2
+2021-05-05,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",25-29,5,1,6
+2021-05-05,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",30-34,1,1,2
+2021-05-05,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",35-39,3,1,4
+2021-05-05,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",40-44,4,3,7
+2021-05-05,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",45-49,14,2,16
+2021-05-05,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",50-54,27,3,30
+2021-05-05,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",55-59,58,1,59
+2021-05-05,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",60-64,103,9,112
+2021-05-05,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",65-69,85,14,99
+2021-05-05,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",70-74,35,67,102
+2021-05-05,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",75-79,20,54,74
+2021-05-05,"COVID-19 Vaccine Moderna",CZ064,"Jihomoravský kraj",80+,8,12,20
+2021-05-05,VAXZEVRIA,CZ064,"Jihomoravský kraj",18-24,5,0,5
+2021-05-05,VAXZEVRIA,CZ064,"Jihomoravský kraj",25-29,3,0,3
+2021-05-05,VAXZEVRIA,CZ064,"Jihomoravský kraj",30-34,7,0,7
+2021-05-05,VAXZEVRIA,CZ064,"Jihomoravský kraj",35-39,13,0,13
+2021-05-05,VAXZEVRIA,CZ064,"Jihomoravský kraj",40-44,13,0,13
+2021-05-05,VAXZEVRIA,CZ064,"Jihomoravský kraj",45-49,18,1,19
+2021-05-05,VAXZEVRIA,CZ064,"Jihomoravský kraj",50-54,32,0,32
+2021-05-05,VAXZEVRIA,CZ064,"Jihomoravský kraj",55-59,102,0,102
+2021-05-05,VAXZEVRIA,CZ064,"Jihomoravský kraj",60-64,135,1,136
+2021-05-05,VAXZEVRIA,CZ064,"Jihomoravský kraj",65-69,135,1,136
+2021-05-05,VAXZEVRIA,CZ064,"Jihomoravský kraj",70-74,102,0,102
+2021-05-05,VAXZEVRIA,CZ064,"Jihomoravský kraj",75-79,57,2,59
+2021-05-05,VAXZEVRIA,CZ064,"Jihomoravský kraj",80+,41,0,41

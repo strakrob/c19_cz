@@ -104,7 +104,7 @@
 2021-01-14,Comirnaty,CZ051,"Liberecký kraj",40-44,64,0,64
 2021-01-14,Comirnaty,CZ051,"Liberecký kraj",45-49,74,0,74
 2021-01-14,Comirnaty,CZ051,"Liberecký kraj",50-54,66,0,66
-2021-01-14,Comirnaty,CZ051,"Liberecký kraj",55-59,78,0,78
+2021-01-14,Comirnaty,CZ051,"Liberecký kraj",55-59,79,0,79
 2021-01-14,Comirnaty,CZ051,"Liberecký kraj",60-64,46,0,46
 2021-01-14,Comirnaty,CZ051,"Liberecký kraj",65-69,25,0,25
 2021-01-14,Comirnaty,CZ051,"Liberecký kraj",70-74,18,0,18
@@ -125,14 +125,14 @@
 2021-01-15,Comirnaty,CZ051,"Liberecký kraj",75-79,30,0,30
 2021-01-15,Comirnaty,CZ051,"Liberecký kraj",80+,84,0,84
 2021-01-17,Comirnaty,CZ051,"Liberecký kraj",55-59,1,0,1
-2021-01-18,Comirnaty,CZ051,"Liberecký kraj",18-24,22,0,22
+2021-01-18,Comirnaty,CZ051,"Liberecký kraj",18-24,21,0,21
 2021-01-18,Comirnaty,CZ051,"Liberecký kraj",25-29,16,0,16
 2021-01-18,Comirnaty,CZ051,"Liberecký kraj",30-34,19,0,19
 2021-01-18,Comirnaty,CZ051,"Liberecký kraj",35-39,26,0,26
 2021-01-18,Comirnaty,CZ051,"Liberecký kraj",40-44,51,0,51
 2021-01-18,Comirnaty,CZ051,"Liberecký kraj",45-49,56,0,56
-2021-01-18,Comirnaty,CZ051,"Liberecký kraj",50-54,50,0,50
-2021-01-18,Comirnaty,CZ051,"Liberecký kraj",55-59,38,0,38
+2021-01-18,Comirnaty,CZ051,"Liberecký kraj",50-54,51,0,51
+2021-01-18,Comirnaty,CZ051,"Liberecký kraj",55-59,37,0,37
 2021-01-18,Comirnaty,CZ051,"Liberecký kraj",60-64,25,0,25
 2021-01-18,Comirnaty,CZ051,"Liberecký kraj",65-69,22,0,22
 2021-01-18,Comirnaty,CZ051,"Liberecký kraj",70-74,12,0,12
@@ -992,7 +992,7 @@
 2021-03-08,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",45-49,2,0,2
 2021-03-08,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",50-54,4,1,5
 2021-03-08,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",55-59,2,1,3
-2021-03-08,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",60-64,10,1,11
+2021-03-08,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",60-64,9,1,10
 2021-03-08,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",65-69,5,2,7
 2021-03-08,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",70-74,12,9,21
 2021-03-08,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",75-79,18,5,23
@@ -1476,7 +1476,7 @@
 2021-03-24,Comirnaty,CZ051,"Liberecký kraj",60-64,9,30,39
 2021-03-24,Comirnaty,CZ051,"Liberecký kraj",65-69,10,17,27
 2021-03-24,Comirnaty,CZ051,"Liberecký kraj",70-74,38,17,55
-2021-03-24,Comirnaty,CZ051,"Liberecký kraj",75-79,216,265,481
+2021-03-24,Comirnaty,CZ051,"Liberecký kraj",75-79,215,265,480
 2021-03-24,Comirnaty,CZ051,"Liberecký kraj",80+,42,348,390
 2021-03-24,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",18-24,2,0,2
 2021-03-24,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",25-29,4,0,4
@@ -1628,7 +1628,7 @@
 2021-03-29,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",40-44,2,0,2
 2021-03-29,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",45-49,1,0,1
 2021-03-29,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",50-54,2,0,2
-2021-03-29,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",55-59,3,0,3
+2021-03-29,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",55-59,4,0,4
 2021-03-29,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",60-64,2,0,2
 2021-03-29,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",65-69,5,0,5
 2021-03-29,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",70-74,1,0,1
@@ -1697,7 +1697,7 @@
 2021-03-31,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",40-44,5,6,11
 2021-03-31,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",45-49,9,5,14
 2021-03-31,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",50-54,6,8,14
-2021-03-31,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",55-59,4,3,7
+2021-03-31,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",55-59,6,3,9
 2021-03-31,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",60-64,14,3,17
 2021-03-31,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",65-69,25,6,31
 2021-03-31,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",70-74,81,11,92
@@ -1759,7 +1759,7 @@
 2021-04-02,Comirnaty,CZ051,"Liberecký kraj",55-59,16,2,18
 2021-04-02,Comirnaty,CZ051,"Liberecký kraj",60-64,12,6,18
 2021-04-02,Comirnaty,CZ051,"Liberecký kraj",65-69,5,3,8
-2021-04-02,Comirnaty,CZ051,"Liberecký kraj",70-74,11,185,196
+2021-04-02,Comirnaty,CZ051,"Liberecký kraj",70-74,12,185,197
 2021-04-02,Comirnaty,CZ051,"Liberecký kraj",75-79,102,301,403
 2021-04-02,Comirnaty,CZ051,"Liberecký kraj",80+,25,128,153
 2021-04-02,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",25-29,0,1,1
@@ -1829,9 +1829,9 @@
 2021-04-06,Comirnaty,CZ051,"Liberecký kraj",50-54,7,12,19
 2021-04-06,Comirnaty,CZ051,"Liberecký kraj",55-59,24,13,37
 2021-04-06,Comirnaty,CZ051,"Liberecký kraj",60-64,6,21,27
-2021-04-06,Comirnaty,CZ051,"Liberecký kraj",65-69,15,22,37
-2021-04-06,Comirnaty,CZ051,"Liberecký kraj",70-74,58,95,153
-2021-04-06,Comirnaty,CZ051,"Liberecký kraj",75-79,57,93,150
+2021-04-06,Comirnaty,CZ051,"Liberecký kraj",65-69,16,22,38
+2021-04-06,Comirnaty,CZ051,"Liberecký kraj",70-74,57,95,152
+2021-04-06,Comirnaty,CZ051,"Liberecký kraj",75-79,58,93,151
 2021-04-06,Comirnaty,CZ051,"Liberecký kraj",80+,10,50,60
 2021-04-06,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",18-24,0,1,1
 2021-04-06,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",25-29,1,1,2
@@ -1841,10 +1841,10 @@
 2021-04-06,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",45-49,0,9,9
 2021-04-06,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",50-54,4,9,13
 2021-04-06,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",55-59,5,8,13
-2021-04-06,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",60-64,10,6,16
-2021-04-06,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",65-69,24,6,30
-2021-04-06,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",70-74,112,19,131
-2021-04-06,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",75-79,190,19,209
+2021-04-06,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",60-64,11,6,17
+2021-04-06,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",65-69,23,6,29
+2021-04-06,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",70-74,113,19,132
+2021-04-06,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",75-79,189,19,208
 2021-04-06,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",80+,44,50,94
 2021-04-06,VAXZEVRIA,CZ051,"Liberecký kraj",50-54,1,0,1
 2021-04-06,VAXZEVRIA,CZ051,"Liberecký kraj",60-64,1,0,1
@@ -1859,8 +1859,8 @@
 2021-04-07,Comirnaty,CZ051,"Liberecký kraj",35-39,28,13,41
 2021-04-07,Comirnaty,CZ051,"Liberecký kraj",40-44,53,16,69
 2021-04-07,Comirnaty,CZ051,"Liberecký kraj",45-49,63,24,87
-2021-04-07,Comirnaty,CZ051,"Liberecký kraj",50-54,70,16,86
-2021-04-07,Comirnaty,CZ051,"Liberecký kraj",55-59,71,94,165
+2021-04-07,Comirnaty,CZ051,"Liberecký kraj",50-54,71,16,87
+2021-04-07,Comirnaty,CZ051,"Liberecký kraj",55-59,72,94,166
 2021-04-07,Comirnaty,CZ051,"Liberecký kraj",60-64,33,31,64
 2021-04-07,Comirnaty,CZ051,"Liberecký kraj",65-69,26,18,44
 2021-04-07,Comirnaty,CZ051,"Liberecký kraj",70-74,135,69,204
@@ -2052,9 +2052,9 @@
 2021-04-13,Comirnaty,CZ051,"Liberecký kraj",45-49,82,8,90
 2021-04-13,Comirnaty,CZ051,"Liberecký kraj",50-54,58,11,69
 2021-04-13,Comirnaty,CZ051,"Liberecký kraj",55-59,41,18,59
-2021-04-13,Comirnaty,CZ051,"Liberecký kraj",60-64,23,18,41
+2021-04-13,Comirnaty,CZ051,"Liberecký kraj",60-64,24,18,42
 2021-04-13,Comirnaty,CZ051,"Liberecký kraj",65-69,28,15,43
-2021-04-13,Comirnaty,CZ051,"Liberecký kraj",70-74,720,210,930
+2021-04-13,Comirnaty,CZ051,"Liberecký kraj",70-74,718,210,928
 2021-04-13,Comirnaty,CZ051,"Liberecký kraj",75-79,101,165,266
 2021-04-13,Comirnaty,CZ051,"Liberecký kraj",80+,34,38,72
 2021-04-13,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",18-24,3,0,3
@@ -2093,7 +2093,7 @@
 2021-04-14,Comirnaty,CZ051,"Liberecký kraj",60-64,52,15,67
 2021-04-14,Comirnaty,CZ051,"Liberecký kraj",65-69,88,13,101
 2021-04-14,Comirnaty,CZ051,"Liberecký kraj",70-74,663,163,826
-2021-04-14,Comirnaty,CZ051,"Liberecký kraj",75-79,108,225,333
+2021-04-14,Comirnaty,CZ051,"Liberecký kraj",75-79,108,224,332
 2021-04-14,Comirnaty,CZ051,"Liberecký kraj",80+,19,52,71
 2021-04-14,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",18-24,4,1,5
 2021-04-14,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",25-29,4,2,6
@@ -2135,12 +2135,12 @@
 2021-04-15,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",18-24,12,9,21
 2021-04-15,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",25-29,3,7,10
 2021-04-15,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",30-34,4,11,15
-2021-04-15,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",35-39,6,18,24
+2021-04-15,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",35-39,6,19,25
 2021-04-15,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",40-44,11,32,43
 2021-04-15,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",45-49,13,34,47
 2021-04-15,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",50-54,14,38,52
 2021-04-15,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",55-59,20,25,45
-2021-04-15,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",60-64,17,15,32
+2021-04-15,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",60-64,17,16,33
 2021-04-15,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",65-69,82,22,104
 2021-04-15,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",70-74,114,13,127
 2021-04-15,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",75-79,42,19,61
@@ -2168,7 +2168,7 @@
 2021-04-16,Comirnaty,CZ051,"Liberecký kraj",60-64,105,6,111
 2021-04-16,Comirnaty,CZ051,"Liberecký kraj",65-69,129,11,140
 2021-04-16,Comirnaty,CZ051,"Liberecký kraj",70-74,453,90,543
-2021-04-16,Comirnaty,CZ051,"Liberecký kraj",75-79,71,314,385
+2021-04-16,Comirnaty,CZ051,"Liberecký kraj",75-79,72,314,386
 2021-04-16,Comirnaty,CZ051,"Liberecký kraj",80+,25,41,66
 2021-04-16,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",18-24,7,13,20
 2021-04-16,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",25-29,6,16,22
@@ -2180,7 +2180,7 @@
 2021-04-16,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",55-59,22,45,67
 2021-04-16,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",60-64,28,23,51
 2021-04-16,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",65-69,35,18,53
-2021-04-16,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",70-74,22,21,43
+2021-04-16,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",70-74,23,21,44
 2021-04-16,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",75-79,8,30,38
 2021-04-16,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",80+,17,63,80
 2021-04-16,VAXZEVRIA,CZ051,"Liberecký kraj",45-49,7,0,7
@@ -2278,14 +2278,14 @@
 2021-04-20,Comirnaty,CZ051,"Liberecký kraj",75-79,71,86,157
 2021-04-20,Comirnaty,CZ051,"Liberecký kraj",80+,26,31,57
 2021-04-20,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",18-24,3,2,5
-2021-04-20,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",25-29,10,5,15
-2021-04-20,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",30-34,4,7,11
-2021-04-20,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",35-39,2,10,12
-2021-04-20,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",40-44,2,12,14
-2021-04-20,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",45-49,10,11,21
+2021-04-20,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",25-29,10,7,17
+2021-04-20,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",30-34,4,8,12
+2021-04-20,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",35-39,2,16,18
+2021-04-20,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",40-44,2,15,17
+2021-04-20,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",45-49,10,17,27
 2021-04-20,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",50-54,11,13,24
-2021-04-20,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",55-59,8,9,17
-2021-04-20,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",60-64,13,11,24
+2021-04-20,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",55-59,9,9,18
+2021-04-20,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",60-64,13,12,25
 2021-04-20,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",65-69,33,5,38
 2021-04-20,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",70-74,28,7,35
 2021-04-20,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",75-79,12,3,15
@@ -2510,26 +2510,26 @@
 2021-04-27,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",35-39,1,0,1
 2021-04-27,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",40-44,1,1,2
 2021-04-27,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",45-49,3,0,3
-2021-04-27,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",50-54,3,3,6
+2021-04-27,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",50-54,2,3,5
 2021-04-27,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",55-59,6,3,9
-2021-04-27,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",60-64,10,7,17
-2021-04-27,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",65-69,37,6,43
-2021-04-27,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",70-74,31,19,50
-2021-04-27,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",75-79,9,9,18
-2021-04-27,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",80+,1,5,6
+2021-04-27,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",60-64,8,7,15
+2021-04-27,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",65-69,36,6,42
+2021-04-27,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",70-74,26,19,45
+2021-04-27,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",75-79,7,9,16
+2021-04-27,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",80+,0,5,5
 2021-04-27,VAXZEVRIA,CZ051,"Liberecký kraj",18-24,2,0,2
 2021-04-27,VAXZEVRIA,CZ051,"Liberecký kraj",25-29,2,0,2
-2021-04-27,VAXZEVRIA,CZ051,"Liberecký kraj",30-34,2,0,2
+2021-04-27,VAXZEVRIA,CZ051,"Liberecký kraj",30-34,3,0,3
 2021-04-27,VAXZEVRIA,CZ051,"Liberecký kraj",35-39,2,0,2
 2021-04-27,VAXZEVRIA,CZ051,"Liberecký kraj",40-44,4,0,4
 2021-04-27,VAXZEVRIA,CZ051,"Liberecký kraj",45-49,9,0,9
-2021-04-27,VAXZEVRIA,CZ051,"Liberecký kraj",50-54,14,0,14
+2021-04-27,VAXZEVRIA,CZ051,"Liberecký kraj",50-54,16,0,16
 2021-04-27,VAXZEVRIA,CZ051,"Liberecký kraj",55-59,18,0,18
-2021-04-27,VAXZEVRIA,CZ051,"Liberecký kraj",60-64,54,0,54
-2021-04-27,VAXZEVRIA,CZ051,"Liberecký kraj",65-69,104,0,104
-2021-04-27,VAXZEVRIA,CZ051,"Liberecký kraj",70-74,70,3,73
-2021-04-27,VAXZEVRIA,CZ051,"Liberecký kraj",75-79,21,4,25
-2021-04-27,VAXZEVRIA,CZ051,"Liberecký kraj",80+,12,0,12
+2021-04-27,VAXZEVRIA,CZ051,"Liberecký kraj",60-64,57,0,57
+2021-04-27,VAXZEVRIA,CZ051,"Liberecký kraj",65-69,107,0,107
+2021-04-27,VAXZEVRIA,CZ051,"Liberecký kraj",70-74,79,3,82
+2021-04-27,VAXZEVRIA,CZ051,"Liberecký kraj",75-79,26,4,30
+2021-04-27,VAXZEVRIA,CZ051,"Liberecký kraj",80+,13,0,13
 2021-04-28,Comirnaty,CZ051,"Liberecký kraj",0-17,2,0,2
 2021-04-28,Comirnaty,CZ051,"Liberecký kraj",18-24,22,9,31
 2021-04-28,Comirnaty,CZ051,"Liberecký kraj",25-29,27,14,41
@@ -2539,7 +2539,7 @@
 2021-04-28,Comirnaty,CZ051,"Liberecký kraj",45-49,74,47,121
 2021-04-28,Comirnaty,CZ051,"Liberecký kraj",50-54,50,51,101
 2021-04-28,Comirnaty,CZ051,"Liberecký kraj",55-59,55,45,100
-2021-04-28,Comirnaty,CZ051,"Liberecký kraj",60-64,632,18,650
+2021-04-28,Comirnaty,CZ051,"Liberecký kraj",60-64,632,19,651
 2021-04-28,Comirnaty,CZ051,"Liberecký kraj",65-69,499,14,513
 2021-04-28,Comirnaty,CZ051,"Liberecký kraj",70-74,126,84,210
 2021-04-28,Comirnaty,CZ051,"Liberecký kraj",75-79,38,199,237
@@ -2558,22 +2558,22 @@
 2021-04-28,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",40-44,3,9,12
 2021-04-28,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",45-49,3,7,10
 2021-04-28,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",50-54,3,5,8
-2021-04-28,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",55-59,11,6,17
+2021-04-28,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",55-59,11,8,19
 2021-04-28,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",60-64,77,10,87
-2021-04-28,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",65-69,92,17,109
-2021-04-28,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",70-74,42,65,107
+2021-04-28,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",65-69,92,18,110
+2021-04-28,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",70-74,42,68,110
 2021-04-28,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",75-79,11,25,36
-2021-04-28,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",80+,0,16,16
+2021-04-28,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",80+,0,20,20
 2021-04-28,VAXZEVRIA,CZ051,"Liberecký kraj",18-24,1,0,1
 2021-04-28,VAXZEVRIA,CZ051,"Liberecký kraj",35-39,2,0,2
 2021-04-28,VAXZEVRIA,CZ051,"Liberecký kraj",40-44,4,0,4
 2021-04-28,VAXZEVRIA,CZ051,"Liberecký kraj",45-49,5,0,5
-2021-04-28,VAXZEVRIA,CZ051,"Liberecký kraj",50-54,13,0,13
+2021-04-28,VAXZEVRIA,CZ051,"Liberecký kraj",50-54,14,0,14
 2021-04-28,VAXZEVRIA,CZ051,"Liberecký kraj",55-59,21,0,21
 2021-04-28,VAXZEVRIA,CZ051,"Liberecký kraj",60-64,66,1,67
-2021-04-28,VAXZEVRIA,CZ051,"Liberecký kraj",65-69,106,1,107
-2021-04-28,VAXZEVRIA,CZ051,"Liberecký kraj",70-74,74,0,74
-2021-04-28,VAXZEVRIA,CZ051,"Liberecký kraj",75-79,30,1,31
+2021-04-28,VAXZEVRIA,CZ051,"Liberecký kraj",65-69,107,1,108
+2021-04-28,VAXZEVRIA,CZ051,"Liberecký kraj",70-74,77,0,77
+2021-04-28,VAXZEVRIA,CZ051,"Liberecký kraj",75-79,37,1,38
 2021-04-28,VAXZEVRIA,CZ051,"Liberecký kraj",80+,11,2,13
 2021-04-29,Comirnaty,CZ051,"Liberecký kraj",0-17,3,0,3
 2021-04-29,Comirnaty,CZ051,"Liberecký kraj",18-24,24,6,30
@@ -2586,7 +2586,7 @@
 2021-04-29,Comirnaty,CZ051,"Liberecký kraj",55-59,97,24,121
 2021-04-29,Comirnaty,CZ051,"Liberecký kraj",60-64,827,13,840
 2021-04-29,Comirnaty,CZ051,"Liberecký kraj",65-69,432,6,438
-2021-04-29,Comirnaty,CZ051,"Liberecký kraj",70-74,123,261,384
+2021-04-29,Comirnaty,CZ051,"Liberecký kraj",70-74,123,262,385
 2021-04-29,Comirnaty,CZ051,"Liberecký kraj",75-79,32,136,168
 2021-04-29,Comirnaty,CZ051,"Liberecký kraj",80+,18,18,36
 2021-04-29,"COVID-19 Vaccine Janssen",CZ051,"Liberecký kraj",40-44,5,0,5
@@ -2604,7 +2604,7 @@
 2021-04-29,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",40-44,5,8,13
 2021-04-29,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",45-49,5,12,17
 2021-04-29,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",50-54,6,7,13
-2021-04-29,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",55-59,7,15,22
+2021-04-29,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",55-59,7,16,23
 2021-04-29,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",60-64,9,10,19
 2021-04-29,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",65-69,19,7,26
 2021-04-29,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",70-74,37,66,103
@@ -2620,16 +2620,16 @@
 2021-04-29,VAXZEVRIA,CZ051,"Liberecký kraj",55-59,18,0,18
 2021-04-29,VAXZEVRIA,CZ051,"Liberecký kraj",60-64,75,1,76
 2021-04-29,VAXZEVRIA,CZ051,"Liberecký kraj",65-69,72,0,72
-2021-04-29,VAXZEVRIA,CZ051,"Liberecký kraj",70-74,52,2,54
+2021-04-29,VAXZEVRIA,CZ051,"Liberecký kraj",70-74,53,2,55
 2021-04-29,VAXZEVRIA,CZ051,"Liberecký kraj",75-79,31,8,39
 2021-04-29,VAXZEVRIA,CZ051,"Liberecký kraj",80+,10,10,20
 2021-04-30,Comirnaty,CZ051,"Liberecký kraj",0-17,1,0,1
-2021-04-30,Comirnaty,CZ051,"Liberecký kraj",18-24,25,10,35
+2021-04-30,Comirnaty,CZ051,"Liberecký kraj",18-24,24,10,34
 2021-04-30,Comirnaty,CZ051,"Liberecký kraj",25-29,31,17,48
 2021-04-30,Comirnaty,CZ051,"Liberecký kraj",30-34,38,21,59
 2021-04-30,Comirnaty,CZ051,"Liberecký kraj",35-39,57,24,81
 2021-04-30,Comirnaty,CZ051,"Liberecký kraj",40-44,85,83,168
-2021-04-30,Comirnaty,CZ051,"Liberecký kraj",45-49,91,128,219
+2021-04-30,Comirnaty,CZ051,"Liberecký kraj",45-49,92,128,220
 2021-04-30,Comirnaty,CZ051,"Liberecký kraj",50-54,75,94,169
 2021-04-30,Comirnaty,CZ051,"Liberecký kraj",55-59,133,48,181
 2021-04-30,Comirnaty,CZ051,"Liberecký kraj",60-64,689,22,711
@@ -2656,11 +2656,11 @@
 2021-04-30,VAXZEVRIA,CZ051,"Liberecký kraj",45-49,3,2,5
 2021-04-30,VAXZEVRIA,CZ051,"Liberecký kraj",50-54,7,1,8
 2021-04-30,VAXZEVRIA,CZ051,"Liberecký kraj",55-59,31,3,34
-2021-04-30,VAXZEVRIA,CZ051,"Liberecký kraj",60-64,63,3,66
-2021-04-30,VAXZEVRIA,CZ051,"Liberecký kraj",65-69,62,3,65
-2021-04-30,VAXZEVRIA,CZ051,"Liberecký kraj",70-74,41,11,52
-2021-04-30,VAXZEVRIA,CZ051,"Liberecký kraj",75-79,13,1,14
-2021-04-30,VAXZEVRIA,CZ051,"Liberecký kraj",80+,11,4,15
+2021-04-30,VAXZEVRIA,CZ051,"Liberecký kraj",60-64,64,3,67
+2021-04-30,VAXZEVRIA,CZ051,"Liberecký kraj",65-69,68,3,71
+2021-04-30,VAXZEVRIA,CZ051,"Liberecký kraj",70-74,44,11,55
+2021-04-30,VAXZEVRIA,CZ051,"Liberecký kraj",75-79,14,1,15
+2021-04-30,VAXZEVRIA,CZ051,"Liberecký kraj",80+,12,4,16
 2021-05-01,Comirnaty,CZ051,"Liberecký kraj",0-17,0,1,1
 2021-05-01,Comirnaty,CZ051,"Liberecký kraj",18-24,4,6,10
 2021-05-01,Comirnaty,CZ051,"Liberecký kraj",25-29,7,4,11
@@ -2700,16 +2700,16 @@
 2021-05-02,VAXZEVRIA,CZ051,"Liberecký kraj",65-69,2,0,2
 2021-05-02,VAXZEVRIA,CZ051,"Liberecký kraj",80+,1,0,1
 2021-05-03,Comirnaty,CZ051,"Liberecký kraj",18-24,13,10,23
-2021-05-03,Comirnaty,CZ051,"Liberecký kraj",25-29,24,8,32
+2021-05-03,Comirnaty,CZ051,"Liberecký kraj",25-29,25,8,33
 2021-05-03,Comirnaty,CZ051,"Liberecký kraj",30-34,23,5,28
-2021-05-03,Comirnaty,CZ051,"Liberecký kraj",35-39,31,21,52
-2021-05-03,Comirnaty,CZ051,"Liberecký kraj",40-44,53,17,70
-2021-05-03,Comirnaty,CZ051,"Liberecký kraj",45-49,76,37,113
-2021-05-03,Comirnaty,CZ051,"Liberecký kraj",50-54,61,25,86
-2021-05-03,Comirnaty,CZ051,"Liberecký kraj",55-59,504,29,533
-2021-05-03,Comirnaty,CZ051,"Liberecký kraj",60-64,648,15,663
-2021-05-03,Comirnaty,CZ051,"Liberecký kraj",65-69,308,16,324
-2021-05-03,Comirnaty,CZ051,"Liberecký kraj",70-74,121,252,373
+2021-05-03,Comirnaty,CZ051,"Liberecký kraj",35-39,33,21,54
+2021-05-03,Comirnaty,CZ051,"Liberecký kraj",40-44,56,17,73
+2021-05-03,Comirnaty,CZ051,"Liberecký kraj",45-49,90,37,127
+2021-05-03,Comirnaty,CZ051,"Liberecký kraj",50-54,77,25,102
+2021-05-03,Comirnaty,CZ051,"Liberecký kraj",55-59,511,29,540
+2021-05-03,Comirnaty,CZ051,"Liberecký kraj",60-64,688,15,703
+2021-05-03,Comirnaty,CZ051,"Liberecký kraj",65-69,317,16,333
+2021-05-03,Comirnaty,CZ051,"Liberecký kraj",70-74,123,252,375
 2021-05-03,Comirnaty,CZ051,"Liberecký kraj",75-79,47,83,130
 2021-05-03,Comirnaty,CZ051,"Liberecký kraj",80+,15,9,24
 2021-05-03,"COVID-19 Vaccine Janssen",CZ051,"Liberecký kraj",45-49,1,0,1
@@ -2723,23 +2723,113 @@
 2021-05-03,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",25-29,4,0,4
 2021-05-03,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",30-34,2,1,3
 2021-05-03,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",35-39,5,1,6
-2021-05-03,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",40-44,2,0,2
-2021-05-03,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",45-49,3,0,3
-2021-05-03,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",50-54,4,0,4
-2021-05-03,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",55-59,8,0,8
-2021-05-03,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",60-64,6,0,6
+2021-05-03,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",40-44,3,0,3
+2021-05-03,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",45-49,4,0,4
+2021-05-03,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",50-54,5,0,5
+2021-05-03,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",55-59,10,0,10
+2021-05-03,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",60-64,7,0,7
 2021-05-03,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",65-69,1,0,1
-2021-05-03,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",70-74,30,8,38
-2021-05-03,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",75-79,16,6,22
+2021-05-03,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",70-74,32,8,40
+2021-05-03,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",75-79,17,6,23
 2021-05-03,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",80+,5,7,12
 2021-05-03,VAXZEVRIA,CZ051,"Liberecký kraj",25-29,1,0,1
 2021-05-03,VAXZEVRIA,CZ051,"Liberecký kraj",30-34,1,0,1
 2021-05-03,VAXZEVRIA,CZ051,"Liberecký kraj",40-44,2,0,2
 2021-05-03,VAXZEVRIA,CZ051,"Liberecký kraj",45-49,7,0,7
-2021-05-03,VAXZEVRIA,CZ051,"Liberecký kraj",50-54,6,0,6
-2021-05-03,VAXZEVRIA,CZ051,"Liberecký kraj",55-59,12,0,12
+2021-05-03,VAXZEVRIA,CZ051,"Liberecký kraj",50-54,13,0,13
+2021-05-03,VAXZEVRIA,CZ051,"Liberecký kraj",55-59,14,0,14
 2021-05-03,VAXZEVRIA,CZ051,"Liberecký kraj",60-64,27,0,27
 2021-05-03,VAXZEVRIA,CZ051,"Liberecký kraj",65-69,25,5,30
 2021-05-03,VAXZEVRIA,CZ051,"Liberecký kraj",70-74,12,7,19
 2021-05-03,VAXZEVRIA,CZ051,"Liberecký kraj",75-79,7,6,13
 2021-05-03,VAXZEVRIA,CZ051,"Liberecký kraj",80+,3,3,6
+2021-05-04,Comirnaty,CZ051,"Liberecký kraj",0-17,1,0,1
+2021-05-04,Comirnaty,CZ051,"Liberecký kraj",18-24,25,10,35
+2021-05-04,Comirnaty,CZ051,"Liberecký kraj",25-29,23,9,32
+2021-05-04,Comirnaty,CZ051,"Liberecký kraj",30-34,35,12,47
+2021-05-04,Comirnaty,CZ051,"Liberecký kraj",35-39,40,15,55
+2021-05-04,Comirnaty,CZ051,"Liberecký kraj",40-44,67,28,95
+2021-05-04,Comirnaty,CZ051,"Liberecký kraj",45-49,99,37,136
+2021-05-04,Comirnaty,CZ051,"Liberecký kraj",50-54,100,36,136
+2021-05-04,Comirnaty,CZ051,"Liberecký kraj",55-59,487,24,511
+2021-05-04,Comirnaty,CZ051,"Liberecký kraj",60-64,737,15,752
+2021-05-04,Comirnaty,CZ051,"Liberecký kraj",65-69,295,20,315
+2021-05-04,Comirnaty,CZ051,"Liberecký kraj",70-74,149,260,409
+2021-05-04,Comirnaty,CZ051,"Liberecký kraj",75-79,48,60,108
+2021-05-04,Comirnaty,CZ051,"Liberecký kraj",80+,27,11,38
+2021-05-04,"COVID-19 Vaccine Janssen",CZ051,"Liberecký kraj",50-54,4,0,4
+2021-05-04,"COVID-19 Vaccine Janssen",CZ051,"Liberecký kraj",55-59,6,0,6
+2021-05-04,"COVID-19 Vaccine Janssen",CZ051,"Liberecký kraj",60-64,3,0,3
+2021-05-04,"COVID-19 Vaccine Janssen",CZ051,"Liberecký kraj",65-69,3,0,3
+2021-05-04,"COVID-19 Vaccine Janssen",CZ051,"Liberecký kraj",70-74,5,0,5
+2021-05-04,"COVID-19 Vaccine Janssen",CZ051,"Liberecký kraj",75-79,2,0,2
+2021-05-04,"COVID-19 Vaccine Janssen",CZ051,"Liberecký kraj",80+,1,0,1
+2021-05-04,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",18-24,1,4,5
+2021-05-04,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",25-29,1,4,5
+2021-05-04,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",30-34,0,1,1
+2021-05-04,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",35-39,1,3,4
+2021-05-04,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",40-44,5,6,11
+2021-05-04,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",45-49,4,3,7
+2021-05-04,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",50-54,7,1,8
+2021-05-04,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",55-59,19,6,25
+2021-05-04,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",60-64,30,4,34
+2021-05-04,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",65-69,61,7,68
+2021-05-04,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",70-74,3,29,32
+2021-05-04,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",75-79,1,16,17
+2021-05-04,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",80+,0,9,9
+2021-05-04,VAXZEVRIA,CZ051,"Liberecký kraj",25-29,1,0,1
+2021-05-04,VAXZEVRIA,CZ051,"Liberecký kraj",30-34,1,0,1
+2021-05-04,VAXZEVRIA,CZ051,"Liberecký kraj",45-49,1,0,1
+2021-05-04,VAXZEVRIA,CZ051,"Liberecký kraj",50-54,2,0,2
+2021-05-04,VAXZEVRIA,CZ051,"Liberecký kraj",55-59,14,0,14
+2021-05-04,VAXZEVRIA,CZ051,"Liberecký kraj",60-64,30,0,30
+2021-05-04,VAXZEVRIA,CZ051,"Liberecký kraj",65-69,56,1,57
+2021-05-04,VAXZEVRIA,CZ051,"Liberecký kraj",70-74,26,4,30
+2021-05-04,VAXZEVRIA,CZ051,"Liberecký kraj",75-79,5,5,10
+2021-05-04,VAXZEVRIA,CZ051,"Liberecký kraj",80+,3,3,6
+2021-05-05,Comirnaty,CZ051,"Liberecký kraj",0-17,3,0,3
+2021-05-05,Comirnaty,CZ051,"Liberecký kraj",18-24,17,5,22
+2021-05-05,Comirnaty,CZ051,"Liberecký kraj",25-29,10,6,16
+2021-05-05,Comirnaty,CZ051,"Liberecký kraj",30-34,22,7,29
+2021-05-05,Comirnaty,CZ051,"Liberecký kraj",35-39,36,10,46
+2021-05-05,Comirnaty,CZ051,"Liberecký kraj",40-44,46,24,70
+2021-05-05,Comirnaty,CZ051,"Liberecký kraj",45-49,82,34,116
+2021-05-05,Comirnaty,CZ051,"Liberecký kraj",50-54,77,38,115
+2021-05-05,Comirnaty,CZ051,"Liberecký kraj",55-59,458,54,512
+2021-05-05,Comirnaty,CZ051,"Liberecký kraj",60-64,532,37,569
+2021-05-05,Comirnaty,CZ051,"Liberecký kraj",65-69,256,61,317
+2021-05-05,Comirnaty,CZ051,"Liberecký kraj",70-74,115,211,326
+2021-05-05,Comirnaty,CZ051,"Liberecký kraj",75-79,36,74,110
+2021-05-05,Comirnaty,CZ051,"Liberecký kraj",80+,18,7,25
+2021-05-05,"COVID-19 Vaccine Janssen",CZ051,"Liberecký kraj",35-39,3,0,3
+2021-05-05,"COVID-19 Vaccine Janssen",CZ051,"Liberecký kraj",40-44,1,0,1
+2021-05-05,"COVID-19 Vaccine Janssen",CZ051,"Liberecký kraj",45-49,5,0,5
+2021-05-05,"COVID-19 Vaccine Janssen",CZ051,"Liberecký kraj",50-54,5,0,5
+2021-05-05,"COVID-19 Vaccine Janssen",CZ051,"Liberecký kraj",55-59,10,0,10
+2021-05-05,"COVID-19 Vaccine Janssen",CZ051,"Liberecký kraj",60-64,21,0,21
+2021-05-05,"COVID-19 Vaccine Janssen",CZ051,"Liberecký kraj",65-69,16,0,16
+2021-05-05,"COVID-19 Vaccine Janssen",CZ051,"Liberecký kraj",70-74,8,0,8
+2021-05-05,"COVID-19 Vaccine Janssen",CZ051,"Liberecký kraj",75-79,4,0,4
+2021-05-05,"COVID-19 Vaccine Janssen",CZ051,"Liberecký kraj",80+,2,0,2
+2021-05-05,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",18-24,10,0,10
+2021-05-05,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",25-29,5,0,5
+2021-05-05,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",30-34,2,0,2
+2021-05-05,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",35-39,4,3,7
+2021-05-05,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",40-44,17,5,22
+2021-05-05,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",45-49,18,12,30
+2021-05-05,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",50-54,15,4,19
+2021-05-05,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",55-59,84,2,86
+2021-05-05,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",60-64,81,3,84
+2021-05-05,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",65-69,158,7,165
+2021-05-05,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",70-74,57,24,81
+2021-05-05,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",75-79,35,17,52
+2021-05-05,"COVID-19 Vaccine Moderna",CZ051,"Liberecký kraj",80+,9,11,20
+2021-05-05,VAXZEVRIA,CZ051,"Liberecký kraj",30-34,2,0,2
+2021-05-05,VAXZEVRIA,CZ051,"Liberecký kraj",40-44,1,0,1
+2021-05-05,VAXZEVRIA,CZ051,"Liberecký kraj",50-54,9,0,9
+2021-05-05,VAXZEVRIA,CZ051,"Liberecký kraj",55-59,27,0,27
+2021-05-05,VAXZEVRIA,CZ051,"Liberecký kraj",60-64,35,0,35
+2021-05-05,VAXZEVRIA,CZ051,"Liberecký kraj",65-69,49,0,49
+2021-05-05,VAXZEVRIA,CZ051,"Liberecký kraj",70-74,34,1,35
+2021-05-05,VAXZEVRIA,CZ051,"Liberecký kraj",75-79,12,3,15
+2021-05-05,VAXZEVRIA,CZ051,"Liberecký kraj",80+,7,0,7

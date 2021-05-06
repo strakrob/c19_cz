@@ -1005,7 +1005,7 @@
 2021-03-09,VAXZEVRIA,CZ041,"Karlovarský kraj",55-59,100,0,100
 2021-03-09,VAXZEVRIA,CZ041,"Karlovarský kraj",60-64,84,0,84
 2021-03-09,VAXZEVRIA,CZ041,"Karlovarský kraj",65-69,118,0,118
-2021-03-09,VAXZEVRIA,CZ041,"Karlovarský kraj",70-74,419,0,419
+2021-03-09,VAXZEVRIA,CZ041,"Karlovarský kraj",70-74,420,0,420
 2021-03-09,VAXZEVRIA,CZ041,"Karlovarský kraj",75-79,297,0,297
 2021-03-09,VAXZEVRIA,CZ041,"Karlovarský kraj",80+,145,0,145
 2021-03-10,Comirnaty,CZ041,"Karlovarský kraj",0-17,1,0,1
@@ -1077,8 +1077,8 @@
 2021-03-11,VAXZEVRIA,CZ041,"Karlovarský kraj",45-49,92,0,92
 2021-03-11,VAXZEVRIA,CZ041,"Karlovarský kraj",50-54,126,0,126
 2021-03-11,VAXZEVRIA,CZ041,"Karlovarský kraj",55-59,92,0,92
-2021-03-11,VAXZEVRIA,CZ041,"Karlovarský kraj",60-64,75,0,75
-2021-03-11,VAXZEVRIA,CZ041,"Karlovarský kraj",65-69,97,0,97
+2021-03-11,VAXZEVRIA,CZ041,"Karlovarský kraj",60-64,74,0,74
+2021-03-11,VAXZEVRIA,CZ041,"Karlovarský kraj",65-69,98,0,98
 2021-03-11,VAXZEVRIA,CZ041,"Karlovarský kraj",70-74,384,0,384
 2021-03-11,VAXZEVRIA,CZ041,"Karlovarský kraj",75-79,257,0,257
 2021-03-11,VAXZEVRIA,CZ041,"Karlovarský kraj",80+,116,0,116
@@ -1259,7 +1259,7 @@
 2021-03-17,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",55-59,2,3,5
 2021-03-17,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",60-64,3,4,7
 2021-03-17,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",65-69,0,7,7
-2021-03-17,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",70-74,93,6,99
+2021-03-17,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",70-74,92,6,98
 2021-03-17,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",75-79,19,10,29
 2021-03-17,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",80+,8,67,75
 2021-03-17,VAXZEVRIA,CZ041,"Karlovarský kraj",25-29,2,0,2
@@ -1283,9 +1283,9 @@
 2021-03-18,Comirnaty,CZ041,"Karlovarský kraj",45-49,11,22,33
 2021-03-18,Comirnaty,CZ041,"Karlovarský kraj",50-54,12,23,35
 2021-03-18,Comirnaty,CZ041,"Karlovarský kraj",55-59,10,14,24
-2021-03-18,Comirnaty,CZ041,"Karlovarský kraj",60-64,6,16,22
+2021-03-18,Comirnaty,CZ041,"Karlovarský kraj",60-64,5,16,21
 2021-03-18,Comirnaty,CZ041,"Karlovarský kraj",65-69,15,14,29
-2021-03-18,Comirnaty,CZ041,"Karlovarský kraj",70-74,326,9,335
+2021-03-18,Comirnaty,CZ041,"Karlovarský kraj",70-74,325,9,334
 2021-03-18,Comirnaty,CZ041,"Karlovarský kraj",75-79,125,6,131
 2021-03-18,Comirnaty,CZ041,"Karlovarský kraj",80+,27,193,220
 2021-03-18,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",18-24,2,0,2
@@ -1309,10 +1309,10 @@
 2021-03-18,VAXZEVRIA,CZ041,"Karlovarský kraj",45-49,15,0,15
 2021-03-18,VAXZEVRIA,CZ041,"Karlovarský kraj",50-54,22,0,22
 2021-03-18,VAXZEVRIA,CZ041,"Karlovarský kraj",55-59,20,0,20
-2021-03-18,VAXZEVRIA,CZ041,"Karlovarský kraj",60-64,28,0,28
-2021-03-18,VAXZEVRIA,CZ041,"Karlovarský kraj",65-69,71,0,71
-2021-03-18,VAXZEVRIA,CZ041,"Karlovarský kraj",70-74,148,0,148
-2021-03-18,VAXZEVRIA,CZ041,"Karlovarský kraj",75-79,87,0,87
+2021-03-18,VAXZEVRIA,CZ041,"Karlovarský kraj",60-64,29,0,29
+2021-03-18,VAXZEVRIA,CZ041,"Karlovarský kraj",65-69,75,0,75
+2021-03-18,VAXZEVRIA,CZ041,"Karlovarský kraj",70-74,150,0,150
+2021-03-18,VAXZEVRIA,CZ041,"Karlovarský kraj",75-79,89,0,89
 2021-03-18,VAXZEVRIA,CZ041,"Karlovarský kraj",80+,60,0,60
 2021-03-19,Comirnaty,CZ041,"Karlovarský kraj",18-24,14,6,20
 2021-03-19,Comirnaty,CZ041,"Karlovarský kraj",25-29,4,11,15
@@ -1349,7 +1349,7 @@
 2021-03-19,VAXZEVRIA,CZ041,"Karlovarský kraj",50-54,16,0,16
 2021-03-19,VAXZEVRIA,CZ041,"Karlovarský kraj",55-59,27,0,27
 2021-03-19,VAXZEVRIA,CZ041,"Karlovarský kraj",60-64,38,0,38
-2021-03-19,VAXZEVRIA,CZ041,"Karlovarský kraj",65-69,64,0,64
+2021-03-19,VAXZEVRIA,CZ041,"Karlovarský kraj",65-69,63,0,63
 2021-03-19,VAXZEVRIA,CZ041,"Karlovarský kraj",70-74,156,0,156
 2021-03-19,VAXZEVRIA,CZ041,"Karlovarský kraj",75-79,86,0,86
 2021-03-19,VAXZEVRIA,CZ041,"Karlovarský kraj",80+,35,0,35
@@ -1491,10 +1491,10 @@
 2021-03-24,Comirnaty,CZ041,"Karlovarský kraj",45-49,46,19,65
 2021-03-24,Comirnaty,CZ041,"Karlovarský kraj",50-54,30,17,47
 2021-03-24,Comirnaty,CZ041,"Karlovarský kraj",55-59,25,28,53
-2021-03-24,Comirnaty,CZ041,"Karlovarský kraj",60-64,30,21,51
+2021-03-24,Comirnaty,CZ041,"Karlovarský kraj",60-64,30,22,52
 2021-03-24,Comirnaty,CZ041,"Karlovarský kraj",65-69,24,28,52
 2021-03-24,Comirnaty,CZ041,"Karlovarský kraj",70-74,188,78,266
-2021-03-24,Comirnaty,CZ041,"Karlovarský kraj",75-79,73,133,206
+2021-03-24,Comirnaty,CZ041,"Karlovarský kraj",75-79,73,134,207
 2021-03-24,Comirnaty,CZ041,"Karlovarský kraj",80+,34,228,262
 2021-03-24,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",25-29,1,0,1
 2021-03-24,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",30-34,1,0,1
@@ -1510,7 +1510,7 @@
 2021-03-24,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",80+,6,3,9
 2021-03-24,VAXZEVRIA,CZ041,"Karlovarský kraj",18-24,2,0,2
 2021-03-24,VAXZEVRIA,CZ041,"Karlovarský kraj",25-29,5,0,5
-2021-03-24,VAXZEVRIA,CZ041,"Karlovarský kraj",30-34,14,0,14
+2021-03-24,VAXZEVRIA,CZ041,"Karlovarský kraj",30-34,15,0,15
 2021-03-24,VAXZEVRIA,CZ041,"Karlovarský kraj",35-39,18,0,18
 2021-03-24,VAXZEVRIA,CZ041,"Karlovarský kraj",40-44,23,0,23
 2021-03-24,VAXZEVRIA,CZ041,"Karlovarský kraj",45-49,26,0,26
@@ -1760,7 +1760,7 @@
 2021-04-01,Comirnaty,CZ041,"Karlovarský kraj",55-59,53,11,64
 2021-04-01,Comirnaty,CZ041,"Karlovarský kraj",60-64,53,22,75
 2021-04-01,Comirnaty,CZ041,"Karlovarský kraj",65-69,71,21,92
-2021-04-01,Comirnaty,CZ041,"Karlovarský kraj",70-74,136,307,443
+2021-04-01,Comirnaty,CZ041,"Karlovarský kraj",70-74,137,307,444
 2021-04-01,Comirnaty,CZ041,"Karlovarský kraj",75-79,90,236,326
 2021-04-01,Comirnaty,CZ041,"Karlovarský kraj",80+,48,80,128
 2021-04-01,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",18-24,1,1,2
@@ -1770,7 +1770,7 @@
 2021-04-01,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",40-44,4,6,10
 2021-04-01,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",45-49,6,12,18
 2021-04-01,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",50-54,4,14,18
-2021-04-01,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",55-59,10,7,17
+2021-04-01,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",55-59,11,7,18
 2021-04-01,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",60-64,2,2,4
 2021-04-01,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",65-69,10,2,12
 2021-04-01,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",70-74,4,15,19
@@ -1784,7 +1784,7 @@
 2021-04-01,VAXZEVRIA,CZ041,"Karlovarský kraj",40-44,16,0,16
 2021-04-01,VAXZEVRIA,CZ041,"Karlovarský kraj",45-49,24,0,24
 2021-04-01,VAXZEVRIA,CZ041,"Karlovarský kraj",50-54,33,0,33
-2021-04-01,VAXZEVRIA,CZ041,"Karlovarský kraj",55-59,51,0,51
+2021-04-01,VAXZEVRIA,CZ041,"Karlovarský kraj",55-59,50,0,50
 2021-04-01,VAXZEVRIA,CZ041,"Karlovarský kraj",60-64,39,0,39
 2021-04-01,VAXZEVRIA,CZ041,"Karlovarský kraj",65-69,97,0,97
 2021-04-01,VAXZEVRIA,CZ041,"Karlovarský kraj",70-74,56,0,56
@@ -1840,7 +1840,6 @@
 2021-04-04,Comirnaty,CZ041,"Karlovarský kraj",18-24,0,1,1
 2021-04-04,Comirnaty,CZ041,"Karlovarský kraj",30-34,0,1,1
 2021-04-04,Comirnaty,CZ041,"Karlovarský kraj",35-39,1,0,1
-2021-04-04,Comirnaty,CZ041,"Karlovarský kraj",40-44,1,0,1
 2021-04-04,Comirnaty,CZ041,"Karlovarský kraj",45-49,0,6,6
 2021-04-04,Comirnaty,CZ041,"Karlovarský kraj",50-54,1,3,4
 2021-04-04,Comirnaty,CZ041,"Karlovarský kraj",55-59,0,7,7
@@ -1853,7 +1852,7 @@
 2021-04-04,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",25-29,2,0,2
 2021-04-04,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",30-34,1,0,1
 2021-04-04,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",35-39,2,0,2
-2021-04-04,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",40-44,5,0,5
+2021-04-04,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",40-44,6,0,6
 2021-04-04,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",50-54,2,0,2
 2021-04-04,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",55-59,3,0,3
 2021-04-04,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",60-64,1,0,1
@@ -1892,11 +1891,11 @@
 2021-04-06,Comirnaty,CZ041,"Karlovarský kraj",35-39,0,24,24
 2021-04-06,Comirnaty,CZ041,"Karlovarský kraj",40-44,2,30,32
 2021-04-06,Comirnaty,CZ041,"Karlovarský kraj",45-49,4,28,32
-2021-04-06,Comirnaty,CZ041,"Karlovarský kraj",50-54,2,19,21
+2021-04-06,Comirnaty,CZ041,"Karlovarský kraj",50-54,3,19,22
 2021-04-06,Comirnaty,CZ041,"Karlovarský kraj",55-59,1,16,17
-2021-04-06,Comirnaty,CZ041,"Karlovarský kraj",60-64,1,18,19
-2021-04-06,Comirnaty,CZ041,"Karlovarský kraj",65-69,6,31,37
-2021-04-06,Comirnaty,CZ041,"Karlovarský kraj",70-74,3,347,350
+2021-04-06,Comirnaty,CZ041,"Karlovarský kraj",60-64,0,18,18
+2021-04-06,Comirnaty,CZ041,"Karlovarský kraj",65-69,5,31,36
+2021-04-06,Comirnaty,CZ041,"Karlovarský kraj",70-74,2,347,349
 2021-04-06,Comirnaty,CZ041,"Karlovarský kraj",75-79,0,293,293
 2021-04-06,Comirnaty,CZ041,"Karlovarský kraj",80+,2,60,62
 2021-04-06,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",18-24,3,1,4
@@ -1907,20 +1906,20 @@
 2021-04-06,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",45-49,11,4,15
 2021-04-06,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",50-54,11,4,15
 2021-04-06,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",55-59,19,1,20
-2021-04-06,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",60-64,24,2,26
-2021-04-06,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",65-69,22,4,26
-2021-04-06,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",70-74,123,11,134
+2021-04-06,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",60-64,25,2,27
+2021-04-06,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",65-69,23,4,27
+2021-04-06,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",70-74,124,11,135
 2021-04-06,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",75-79,55,26,81
 2021-04-06,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",80+,26,2,28
 2021-04-06,VAXZEVRIA,CZ041,"Karlovarský kraj",18-24,3,0,3
-2021-04-06,VAXZEVRIA,CZ041,"Karlovarský kraj",25-29,4,0,4
+2021-04-06,VAXZEVRIA,CZ041,"Karlovarský kraj",25-29,5,0,5
 2021-04-06,VAXZEVRIA,CZ041,"Karlovarský kraj",30-34,5,0,5
 2021-04-06,VAXZEVRIA,CZ041,"Karlovarský kraj",35-39,17,0,17
-2021-04-06,VAXZEVRIA,CZ041,"Karlovarský kraj",40-44,8,0,8
-2021-04-06,VAXZEVRIA,CZ041,"Karlovarský kraj",45-49,16,0,16
-2021-04-06,VAXZEVRIA,CZ041,"Karlovarský kraj",50-54,20,0,20
-2021-04-06,VAXZEVRIA,CZ041,"Karlovarský kraj",55-59,23,0,23
-2021-04-06,VAXZEVRIA,CZ041,"Karlovarský kraj",60-64,16,0,16
+2021-04-06,VAXZEVRIA,CZ041,"Karlovarský kraj",40-44,11,0,11
+2021-04-06,VAXZEVRIA,CZ041,"Karlovarský kraj",45-49,18,0,18
+2021-04-06,VAXZEVRIA,CZ041,"Karlovarský kraj",50-54,21,0,21
+2021-04-06,VAXZEVRIA,CZ041,"Karlovarský kraj",55-59,25,0,25
+2021-04-06,VAXZEVRIA,CZ041,"Karlovarský kraj",60-64,17,0,17
 2021-04-06,VAXZEVRIA,CZ041,"Karlovarský kraj",65-69,49,0,49
 2021-04-06,VAXZEVRIA,CZ041,"Karlovarský kraj",70-74,26,0,26
 2021-04-06,VAXZEVRIA,CZ041,"Karlovarský kraj",75-79,13,0,13
@@ -1956,8 +1955,8 @@
 2021-04-07,VAXZEVRIA,CZ041,"Karlovarský kraj",25-29,21,0,21
 2021-04-07,VAXZEVRIA,CZ041,"Karlovarský kraj",30-34,24,0,24
 2021-04-07,VAXZEVRIA,CZ041,"Karlovarský kraj",35-39,25,0,25
-2021-04-07,VAXZEVRIA,CZ041,"Karlovarský kraj",40-44,36,0,36
-2021-04-07,VAXZEVRIA,CZ041,"Karlovarský kraj",45-49,50,0,50
+2021-04-07,VAXZEVRIA,CZ041,"Karlovarský kraj",40-44,37,0,37
+2021-04-07,VAXZEVRIA,CZ041,"Karlovarský kraj",45-49,51,0,51
 2021-04-07,VAXZEVRIA,CZ041,"Karlovarský kraj",50-54,60,0,60
 2021-04-07,VAXZEVRIA,CZ041,"Karlovarský kraj",55-59,61,0,61
 2021-04-07,VAXZEVRIA,CZ041,"Karlovarský kraj",60-64,61,1,62
@@ -1972,7 +1971,7 @@
 2021-04-08,Comirnaty,CZ041,"Karlovarský kraj",35-39,4,32,36
 2021-04-08,Comirnaty,CZ041,"Karlovarský kraj",40-44,15,39,54
 2021-04-08,Comirnaty,CZ041,"Karlovarský kraj",45-49,14,41,55
-2021-04-08,Comirnaty,CZ041,"Karlovarský kraj",50-54,23,24,47
+2021-04-08,Comirnaty,CZ041,"Karlovarský kraj",50-54,24,24,48
 2021-04-08,Comirnaty,CZ041,"Karlovarský kraj",55-59,25,28,53
 2021-04-08,Comirnaty,CZ041,"Karlovarský kraj",60-64,26,16,42
 2021-04-08,Comirnaty,CZ041,"Karlovarský kraj",65-69,28,22,50
@@ -2009,7 +2008,7 @@
 2021-04-09,Comirnaty,CZ041,"Karlovarský kraj",25-29,6,1,7
 2021-04-09,Comirnaty,CZ041,"Karlovarský kraj",30-34,10,10,20
 2021-04-09,Comirnaty,CZ041,"Karlovarský kraj",35-39,13,15,28
-2021-04-09,Comirnaty,CZ041,"Karlovarský kraj",40-44,27,31,58
+2021-04-09,Comirnaty,CZ041,"Karlovarský kraj",40-44,28,31,59
 2021-04-09,Comirnaty,CZ041,"Karlovarský kraj",45-49,27,36,63
 2021-04-09,Comirnaty,CZ041,"Karlovarský kraj",50-54,38,38,76
 2021-04-09,Comirnaty,CZ041,"Karlovarský kraj",55-59,33,23,56
@@ -2082,7 +2081,7 @@
 2021-04-12,Comirnaty,CZ041,"Karlovarský kraj",55-59,39,21,60
 2021-04-12,Comirnaty,CZ041,"Karlovarský kraj",60-64,37,19,56
 2021-04-12,Comirnaty,CZ041,"Karlovarský kraj",65-69,62,12,74
-2021-04-12,Comirnaty,CZ041,"Karlovarský kraj",70-74,53,338,391
+2021-04-12,Comirnaty,CZ041,"Karlovarský kraj",70-74,54,338,392
 2021-04-12,Comirnaty,CZ041,"Karlovarský kraj",75-79,25,97,122
 2021-04-12,Comirnaty,CZ041,"Karlovarský kraj",80+,14,36,50
 2021-04-12,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",25-29,1,1,2
@@ -2159,7 +2158,7 @@
 2021-04-14,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",55-59,11,2,13
 2021-04-14,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",60-64,11,3,14
 2021-04-14,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",65-69,9,0,9
-2021-04-14,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",70-74,4,92,96
+2021-04-14,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",70-74,4,91,95
 2021-04-14,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",75-79,3,19,22
 2021-04-14,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",80+,2,9,11
 2021-04-14,VAXZEVRIA,CZ041,"Karlovarský kraj",18-24,8,0,8
@@ -2183,7 +2182,7 @@
 2021-04-15,Comirnaty,CZ041,"Karlovarský kraj",40-44,44,16,60
 2021-04-15,Comirnaty,CZ041,"Karlovarský kraj",45-49,84,23,107
 2021-04-15,Comirnaty,CZ041,"Karlovarský kraj",50-54,79,13,92
-2021-04-15,Comirnaty,CZ041,"Karlovarský kraj",55-59,99,21,120
+2021-04-15,Comirnaty,CZ041,"Karlovarský kraj",55-59,100,21,121
 2021-04-15,Comirnaty,CZ041,"Karlovarský kraj",60-64,67,26,93
 2021-04-15,Comirnaty,CZ041,"Karlovarský kraj",65-69,500,30,530
 2021-04-15,Comirnaty,CZ041,"Karlovarský kraj",70-74,47,174,221
@@ -2363,9 +2362,9 @@
 2021-04-20,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",75-79,0,1,1
 2021-04-20,VAXZEVRIA,CZ041,"Karlovarský kraj",30-34,2,0,2
 2021-04-20,VAXZEVRIA,CZ041,"Karlovarský kraj",35-39,3,0,3
-2021-04-20,VAXZEVRIA,CZ041,"Karlovarský kraj",40-44,3,0,3
+2021-04-20,VAXZEVRIA,CZ041,"Karlovarský kraj",40-44,4,0,4
 2021-04-20,VAXZEVRIA,CZ041,"Karlovarský kraj",45-49,6,0,6
-2021-04-20,VAXZEVRIA,CZ041,"Karlovarský kraj",50-54,11,0,11
+2021-04-20,VAXZEVRIA,CZ041,"Karlovarský kraj",50-54,13,0,13
 2021-04-20,VAXZEVRIA,CZ041,"Karlovarský kraj",55-59,19,0,19
 2021-04-20,VAXZEVRIA,CZ041,"Karlovarský kraj",60-64,41,0,41
 2021-04-20,VAXZEVRIA,CZ041,"Karlovarský kraj",65-69,116,0,116
@@ -2420,7 +2419,7 @@
 2021-04-22,Comirnaty,CZ041,"Karlovarský kraj",55-59,42,52,94
 2021-04-22,Comirnaty,CZ041,"Karlovarský kraj",60-64,57,51,108
 2021-04-22,Comirnaty,CZ041,"Karlovarský kraj",65-69,430,69,499
-2021-04-22,Comirnaty,CZ041,"Karlovarský kraj",70-74,48,136,184
+2021-04-22,Comirnaty,CZ041,"Karlovarský kraj",70-74,48,137,185
 2021-04-22,Comirnaty,CZ041,"Karlovarský kraj",75-79,19,89,108
 2021-04-22,Comirnaty,CZ041,"Karlovarský kraj",80+,18,47,65
 2021-04-22,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",25-29,0,2,2
@@ -2533,7 +2532,7 @@
 2021-04-26,Comirnaty,CZ041,"Karlovarský kraj",45-49,25,3,28
 2021-04-26,Comirnaty,CZ041,"Karlovarský kraj",50-54,27,4,31
 2021-04-26,Comirnaty,CZ041,"Karlovarský kraj",55-59,27,1,28
-2021-04-26,Comirnaty,CZ041,"Karlovarský kraj",60-64,559,2,561
+2021-04-26,Comirnaty,CZ041,"Karlovarský kraj",60-64,560,2,562
 2021-04-26,Comirnaty,CZ041,"Karlovarský kraj",65-69,226,1,227
 2021-04-26,Comirnaty,CZ041,"Karlovarský kraj",70-74,45,1,46
 2021-04-26,Comirnaty,CZ041,"Karlovarský kraj",75-79,22,1,23
@@ -2641,9 +2640,9 @@
 2021-04-28,VAXZEVRIA,CZ041,"Karlovarský kraj",35-39,1,0,1
 2021-04-28,VAXZEVRIA,CZ041,"Karlovarský kraj",40-44,6,0,6
 2021-04-28,VAXZEVRIA,CZ041,"Karlovarský kraj",45-49,7,0,7
-2021-04-28,VAXZEVRIA,CZ041,"Karlovarský kraj",50-54,8,0,8
-2021-04-28,VAXZEVRIA,CZ041,"Karlovarský kraj",55-59,13,0,13
-2021-04-28,VAXZEVRIA,CZ041,"Karlovarský kraj",60-64,87,0,87
+2021-04-28,VAXZEVRIA,CZ041,"Karlovarský kraj",50-54,9,0,9
+2021-04-28,VAXZEVRIA,CZ041,"Karlovarský kraj",55-59,17,0,17
+2021-04-28,VAXZEVRIA,CZ041,"Karlovarský kraj",60-64,89,0,89
 2021-04-28,VAXZEVRIA,CZ041,"Karlovarský kraj",65-69,112,0,112
 2021-04-28,VAXZEVRIA,CZ041,"Karlovarský kraj",70-74,17,1,18
 2021-04-28,VAXZEVRIA,CZ041,"Karlovarský kraj",75-79,10,0,10
@@ -2655,7 +2654,7 @@
 2021-04-29,Comirnaty,CZ041,"Karlovarský kraj",35-39,22,2,24
 2021-04-29,Comirnaty,CZ041,"Karlovarský kraj",40-44,34,5,39
 2021-04-29,Comirnaty,CZ041,"Karlovarský kraj",45-49,39,5,44
-2021-04-29,Comirnaty,CZ041,"Karlovarský kraj",50-54,51,6,57
+2021-04-29,Comirnaty,CZ041,"Karlovarský kraj",50-54,51,7,58
 2021-04-29,Comirnaty,CZ041,"Karlovarský kraj",55-59,435,3,438
 2021-04-29,Comirnaty,CZ041,"Karlovarský kraj",60-64,548,11,559
 2021-04-29,Comirnaty,CZ041,"Karlovarský kraj",65-69,196,7,203
@@ -2674,7 +2673,7 @@
 2021-04-29,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",40-44,0,4,4
 2021-04-29,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",45-49,0,5,5
 2021-04-29,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",50-54,0,4,4
-2021-04-29,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",55-59,0,6,6
+2021-04-29,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",55-59,0,7,7
 2021-04-29,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",60-64,0,3,3
 2021-04-29,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",65-69,0,5,5
 2021-04-29,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",70-74,0,8,8
@@ -2727,7 +2726,7 @@
 2021-05-02,Comirnaty,CZ041,"Karlovarský kraj",25-29,7,0,7
 2021-05-02,Comirnaty,CZ041,"Karlovarský kraj",30-34,13,0,13
 2021-05-02,Comirnaty,CZ041,"Karlovarský kraj",35-39,23,0,23
-2021-05-02,Comirnaty,CZ041,"Karlovarský kraj",40-44,21,2,23
+2021-05-02,Comirnaty,CZ041,"Karlovarský kraj",40-44,21,1,22
 2021-05-02,Comirnaty,CZ041,"Karlovarský kraj",45-49,40,1,41
 2021-05-02,Comirnaty,CZ041,"Karlovarský kraj",50-54,31,1,32
 2021-05-02,Comirnaty,CZ041,"Karlovarský kraj",55-59,277,1,278
@@ -2740,7 +2739,7 @@
 2021-05-02,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",25-29,0,1,1
 2021-05-02,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",30-34,0,4,4
 2021-05-02,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",35-39,0,3,3
-2021-05-02,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",40-44,0,6,6
+2021-05-02,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",40-44,0,7,7
 2021-05-02,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",45-49,0,9,9
 2021-05-02,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",50-54,0,6,6
 2021-05-02,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",55-59,0,9,9
@@ -2753,16 +2752,16 @@
 2021-05-03,Comirnaty,CZ041,"Karlovarský kraj",0-17,1,0,1
 2021-05-03,Comirnaty,CZ041,"Karlovarský kraj",18-24,4,0,4
 2021-05-03,Comirnaty,CZ041,"Karlovarský kraj",25-29,5,0,5
-2021-05-03,Comirnaty,CZ041,"Karlovarský kraj",30-34,11,0,11
+2021-05-03,Comirnaty,CZ041,"Karlovarský kraj",30-34,13,0,13
 2021-05-03,Comirnaty,CZ041,"Karlovarský kraj",35-39,13,0,13
 2021-05-03,Comirnaty,CZ041,"Karlovarský kraj",40-44,9,1,10
-2021-05-03,Comirnaty,CZ041,"Karlovarský kraj",45-49,25,3,28
-2021-05-03,Comirnaty,CZ041,"Karlovarský kraj",50-54,30,4,34
-2021-05-03,Comirnaty,CZ041,"Karlovarský kraj",55-59,606,3,609
-2021-05-03,Comirnaty,CZ041,"Karlovarský kraj",60-64,348,3,351
-2021-05-03,Comirnaty,CZ041,"Karlovarský kraj",65-69,169,4,173
-2021-05-03,Comirnaty,CZ041,"Karlovarský kraj",70-74,44,13,57
-2021-05-03,Comirnaty,CZ041,"Karlovarský kraj",75-79,27,6,33
+2021-05-03,Comirnaty,CZ041,"Karlovarský kraj",45-49,28,3,31
+2021-05-03,Comirnaty,CZ041,"Karlovarský kraj",50-54,33,4,37
+2021-05-03,Comirnaty,CZ041,"Karlovarský kraj",55-59,635,3,638
+2021-05-03,Comirnaty,CZ041,"Karlovarský kraj",60-64,370,3,373
+2021-05-03,Comirnaty,CZ041,"Karlovarský kraj",65-69,177,4,181
+2021-05-03,Comirnaty,CZ041,"Karlovarský kraj",70-74,45,14,59
+2021-05-03,Comirnaty,CZ041,"Karlovarský kraj",75-79,28,6,34
 2021-05-03,Comirnaty,CZ041,"Karlovarský kraj",80+,10,3,13
 2021-05-03,"COVID-19 Vaccine Janssen",CZ041,"Karlovarský kraj",40-44,2,0,2
 2021-05-03,"COVID-19 Vaccine Janssen",CZ041,"Karlovarský kraj",60-64,2,0,2
@@ -2773,7 +2772,7 @@
 2021-05-03,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",50-54,0,1,1
 2021-05-03,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",60-64,0,1,1
 2021-05-03,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",65-69,1,4,5
-2021-05-03,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",70-74,0,37,37
+2021-05-03,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",70-74,0,38,38
 2021-05-03,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",75-79,0,24,24
 2021-05-03,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",80+,0,2,2
 2021-05-03,VAXZEVRIA,CZ041,"Karlovarský kraj",35-39,1,0,1
@@ -2785,3 +2784,96 @@
 2021-05-03,VAXZEVRIA,CZ041,"Karlovarský kraj",70-74,7,0,7
 2021-05-03,VAXZEVRIA,CZ041,"Karlovarský kraj",75-79,2,0,2
 2021-05-03,VAXZEVRIA,CZ041,"Karlovarský kraj",80+,1,0,1
+2021-05-04,Comirnaty,CZ041,"Karlovarský kraj",18-24,9,1,10
+2021-05-04,Comirnaty,CZ041,"Karlovarský kraj",25-29,7,0,7
+2021-05-04,Comirnaty,CZ041,"Karlovarský kraj",30-34,17,1,18
+2021-05-04,Comirnaty,CZ041,"Karlovarský kraj",35-39,18,1,19
+2021-05-04,Comirnaty,CZ041,"Karlovarský kraj",40-44,31,1,32
+2021-05-04,Comirnaty,CZ041,"Karlovarský kraj",45-49,31,2,33
+2021-05-04,Comirnaty,CZ041,"Karlovarský kraj",50-54,34,1,35
+2021-05-04,Comirnaty,CZ041,"Karlovarský kraj",55-59,450,1,451
+2021-05-04,Comirnaty,CZ041,"Karlovarský kraj",60-64,261,0,261
+2021-05-04,Comirnaty,CZ041,"Karlovarský kraj",65-69,126,1,127
+2021-05-04,Comirnaty,CZ041,"Karlovarský kraj",70-74,45,2,47
+2021-05-04,Comirnaty,CZ041,"Karlovarský kraj",75-79,20,0,20
+2021-05-04,Comirnaty,CZ041,"Karlovarský kraj",80+,18,2,20
+2021-05-04,"COVID-19 Vaccine Janssen",CZ041,"Karlovarský kraj",35-39,1,0,1
+2021-05-04,"COVID-19 Vaccine Janssen",CZ041,"Karlovarský kraj",40-44,3,0,3
+2021-05-04,"COVID-19 Vaccine Janssen",CZ041,"Karlovarský kraj",45-49,3,0,3
+2021-05-04,"COVID-19 Vaccine Janssen",CZ041,"Karlovarský kraj",50-54,1,0,1
+2021-05-04,"COVID-19 Vaccine Janssen",CZ041,"Karlovarský kraj",55-59,5,0,5
+2021-05-04,"COVID-19 Vaccine Janssen",CZ041,"Karlovarský kraj",60-64,1,0,1
+2021-05-04,"COVID-19 Vaccine Janssen",CZ041,"Karlovarský kraj",65-69,2,0,2
+2021-05-04,"COVID-19 Vaccine Janssen",CZ041,"Karlovarský kraj",75-79,1,0,1
+2021-05-04,"COVID-19 Vaccine Janssen",CZ041,"Karlovarský kraj",80+,1,0,1
+2021-05-04,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",18-24,0,1,1
+2021-05-04,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",30-34,0,3,3
+2021-05-04,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",35-39,0,1,1
+2021-05-04,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",40-44,0,5,5
+2021-05-04,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",45-49,0,6,6
+2021-05-04,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",50-54,0,8,8
+2021-05-04,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",55-59,0,12,12
+2021-05-04,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",60-64,0,19,19
+2021-05-04,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",65-69,0,15,15
+2021-05-04,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",70-74,0,118,118
+2021-05-04,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",75-79,0,58,58
+2021-05-04,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",80+,0,23,23
+2021-05-04,VAXZEVRIA,CZ041,"Karlovarský kraj",18-24,2,0,2
+2021-05-04,VAXZEVRIA,CZ041,"Karlovarský kraj",25-29,1,0,1
+2021-05-04,VAXZEVRIA,CZ041,"Karlovarský kraj",30-34,2,0,2
+2021-05-04,VAXZEVRIA,CZ041,"Karlovarský kraj",35-39,5,0,5
+2021-05-04,VAXZEVRIA,CZ041,"Karlovarský kraj",40-44,2,0,2
+2021-05-04,VAXZEVRIA,CZ041,"Karlovarský kraj",45-49,3,1,4
+2021-05-04,VAXZEVRIA,CZ041,"Karlovarský kraj",50-54,13,0,13
+2021-05-04,VAXZEVRIA,CZ041,"Karlovarský kraj",55-59,66,0,66
+2021-05-04,VAXZEVRIA,CZ041,"Karlovarský kraj",60-64,61,0,61
+2021-05-04,VAXZEVRIA,CZ041,"Karlovarský kraj",65-69,37,0,37
+2021-05-04,VAXZEVRIA,CZ041,"Karlovarský kraj",70-74,22,1,23
+2021-05-04,VAXZEVRIA,CZ041,"Karlovarský kraj",75-79,7,0,7
+2021-05-04,VAXZEVRIA,CZ041,"Karlovarský kraj",80+,9,0,9
+2021-05-05,Comirnaty,CZ041,"Karlovarský kraj",18-24,9,0,9
+2021-05-05,Comirnaty,CZ041,"Karlovarský kraj",25-29,11,0,11
+2021-05-05,Comirnaty,CZ041,"Karlovarský kraj",30-34,15,0,15
+2021-05-05,Comirnaty,CZ041,"Karlovarský kraj",35-39,26,0,26
+2021-05-05,Comirnaty,CZ041,"Karlovarský kraj",40-44,45,0,45
+2021-05-05,Comirnaty,CZ041,"Karlovarský kraj",45-49,57,1,58
+2021-05-05,Comirnaty,CZ041,"Karlovarský kraj",50-54,300,0,300
+2021-05-05,Comirnaty,CZ041,"Karlovarský kraj",55-59,502,2,504
+2021-05-05,Comirnaty,CZ041,"Karlovarský kraj",60-64,220,0,220
+2021-05-05,Comirnaty,CZ041,"Karlovarský kraj",65-69,174,0,174
+2021-05-05,Comirnaty,CZ041,"Karlovarský kraj",70-74,56,2,58
+2021-05-05,Comirnaty,CZ041,"Karlovarský kraj",75-79,16,1,17
+2021-05-05,Comirnaty,CZ041,"Karlovarský kraj",80+,17,0,17
+2021-05-05,"COVID-19 Vaccine Janssen",CZ041,"Karlovarský kraj",30-34,1,0,1
+2021-05-05,"COVID-19 Vaccine Janssen",CZ041,"Karlovarský kraj",35-39,1,0,1
+2021-05-05,"COVID-19 Vaccine Janssen",CZ041,"Karlovarský kraj",40-44,1,0,1
+2021-05-05,"COVID-19 Vaccine Janssen",CZ041,"Karlovarský kraj",45-49,1,0,1
+2021-05-05,"COVID-19 Vaccine Janssen",CZ041,"Karlovarský kraj",50-54,1,0,1
+2021-05-05,"COVID-19 Vaccine Janssen",CZ041,"Karlovarský kraj",55-59,6,0,6
+2021-05-05,"COVID-19 Vaccine Janssen",CZ041,"Karlovarský kraj",60-64,9,0,9
+2021-05-05,"COVID-19 Vaccine Janssen",CZ041,"Karlovarský kraj",65-69,1,0,1
+2021-05-05,"COVID-19 Vaccine Janssen",CZ041,"Karlovarský kraj",70-74,3,0,3
+2021-05-05,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",25-29,0,2,2
+2021-05-05,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",35-39,0,1,1
+2021-05-05,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",40-44,0,3,3
+2021-05-05,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",45-49,0,2,2
+2021-05-05,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",50-54,0,2,2
+2021-05-05,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",55-59,0,2,2
+2021-05-05,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",60-64,0,5,5
+2021-05-05,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",65-69,0,5,5
+2021-05-05,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",70-74,0,58,58
+2021-05-05,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",75-79,0,8,8
+2021-05-05,"COVID-19 Vaccine Moderna",CZ041,"Karlovarský kraj",80+,0,2,2
+2021-05-05,VAXZEVRIA,CZ041,"Karlovarský kraj",18-24,1,0,1
+2021-05-05,VAXZEVRIA,CZ041,"Karlovarský kraj",25-29,2,0,2
+2021-05-05,VAXZEVRIA,CZ041,"Karlovarský kraj",30-34,3,0,3
+2021-05-05,VAXZEVRIA,CZ041,"Karlovarský kraj",35-39,3,0,3
+2021-05-05,VAXZEVRIA,CZ041,"Karlovarský kraj",40-44,4,0,4
+2021-05-05,VAXZEVRIA,CZ041,"Karlovarský kraj",45-49,9,2,11
+2021-05-05,VAXZEVRIA,CZ041,"Karlovarský kraj",50-54,16,1,17
+2021-05-05,VAXZEVRIA,CZ041,"Karlovarský kraj",55-59,73,0,73
+2021-05-05,VAXZEVRIA,CZ041,"Karlovarský kraj",60-64,75,0,75
+2021-05-05,VAXZEVRIA,CZ041,"Karlovarský kraj",65-69,42,0,42
+2021-05-05,VAXZEVRIA,CZ041,"Karlovarský kraj",70-74,17,0,17
+2021-05-05,VAXZEVRIA,CZ041,"Karlovarský kraj",75-79,12,1,13
+2021-05-05,VAXZEVRIA,CZ041,"Karlovarský kraj",80+,3,0,3
