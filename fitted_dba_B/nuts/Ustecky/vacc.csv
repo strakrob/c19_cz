@@ -696,7 +696,7 @@
 2021-02-16,VAXZEVRIA,CZ042,"Ústecký kraj",40-44,3,0,3
 2021-02-16,VAXZEVRIA,CZ042,"Ústecký kraj",45-49,6,0,6
 2021-02-16,VAXZEVRIA,CZ042,"Ústecký kraj",50-54,5,0,5
-2021-02-16,VAXZEVRIA,CZ042,"Ústecký kraj",55-59,2,0,2
+2021-02-16,VAXZEVRIA,CZ042,"Ústecký kraj",55-59,4,0,4
 2021-02-17,Comirnaty,CZ042,"Ústecký kraj",18-24,10,5,15
 2021-02-17,Comirnaty,CZ042,"Ústecký kraj",25-29,17,5,22
 2021-02-17,Comirnaty,CZ042,"Ústecký kraj",30-34,13,11,24
@@ -851,6 +851,7 @@
 2021-02-22,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",40-44,3,0,3
 2021-02-22,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",45-49,1,0,1
 2021-02-22,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",50-54,3,0,3
+2021-02-22,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",60-64,1,0,1
 2021-02-22,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",80+,80,0,80
 2021-02-22,VAXZEVRIA,CZ042,"Ústecký kraj",35-39,1,0,1
 2021-02-22,VAXZEVRIA,CZ042,"Ústecký kraj",40-44,2,0,2
@@ -1071,7 +1072,7 @@
 2021-03-02,VAXZEVRIA,CZ042,"Ústecký kraj",40-44,25,0,25
 2021-03-02,VAXZEVRIA,CZ042,"Ústecký kraj",45-49,42,0,42
 2021-03-02,VAXZEVRIA,CZ042,"Ústecký kraj",50-54,50,0,50
-2021-03-02,VAXZEVRIA,CZ042,"Ústecký kraj",55-59,55,0,55
+2021-03-02,VAXZEVRIA,CZ042,"Ústecký kraj",55-59,56,0,56
 2021-03-02,VAXZEVRIA,CZ042,"Ústecký kraj",60-64,51,0,51
 2021-03-02,VAXZEVRIA,CZ042,"Ústecký kraj",65-69,63,0,63
 2021-03-02,VAXZEVRIA,CZ042,"Ústecký kraj",70-74,67,0,67
@@ -1334,7 +1335,7 @@
 2021-03-09,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",45-49,49,35,84
 2021-03-09,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",50-54,56,17,73
 2021-03-09,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",55-59,52,37,89
-2021-03-09,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",60-64,42,17,59
+2021-03-09,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",60-64,41,17,58
 2021-03-09,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",65-69,32,4,36
 2021-03-09,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",70-74,51,0,51
 2021-03-09,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",75-79,93,0,93
@@ -1440,7 +1441,7 @@
 2021-03-12,Comirnaty,CZ042,"Ústecký kraj",55-59,157,27,184
 2021-03-12,Comirnaty,CZ042,"Ústecký kraj",60-64,142,17,159
 2021-03-12,Comirnaty,CZ042,"Ústecký kraj",65-69,159,20,179
-2021-03-12,Comirnaty,CZ042,"Ústecký kraj",70-74,291,15,306
+2021-03-12,Comirnaty,CZ042,"Ústecký kraj",70-74,292,15,307
 2021-03-12,Comirnaty,CZ042,"Ústecký kraj",75-79,532,9,541
 2021-03-12,Comirnaty,CZ042,"Ústecký kraj",80+,306,132,438
 2021-03-12,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",18-24,3,1,4
@@ -1465,6 +1466,7 @@
 2021-03-12,VAXZEVRIA,CZ042,"Ústecký kraj",55-59,9,0,9
 2021-03-12,VAXZEVRIA,CZ042,"Ústecký kraj",60-64,7,0,7
 2021-03-12,VAXZEVRIA,CZ042,"Ústecký kraj",65-69,2,0,2
+2021-03-13,Comirnaty,CZ042,"Ústecký kraj",0-17,1,0,1
 2021-03-13,Comirnaty,CZ042,"Ústecký kraj",18-24,33,6,39
 2021-03-13,Comirnaty,CZ042,"Ústecký kraj",25-29,23,3,26
 2021-03-13,Comirnaty,CZ042,"Ústecký kraj",30-34,30,2,32
@@ -1621,9 +1623,9 @@
 2021-03-18,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",45-49,49,14,63
 2021-03-18,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",50-54,59,4,63
 2021-03-18,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",55-59,91,12,103
-2021-03-18,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",60-64,38,3,41
-2021-03-18,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",65-69,58,4,62
-2021-03-18,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",70-74,166,1,167
+2021-03-18,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",60-64,37,3,40
+2021-03-18,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",65-69,59,4,63
+2021-03-18,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",70-74,167,1,168
 2021-03-18,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",75-79,144,3,147
 2021-03-18,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",80+,65,169,234
 2021-03-18,VAXZEVRIA,CZ042,"Ústecký kraj",18-24,6,0,6
@@ -1856,8 +1858,8 @@
 2021-03-25,Comirnaty,CZ042,"Ústecký kraj",55-59,49,10,59
 2021-03-25,Comirnaty,CZ042,"Ústecký kraj",60-64,55,13,68
 2021-03-25,Comirnaty,CZ042,"Ústecký kraj",65-69,60,18,78
-2021-03-25,Comirnaty,CZ042,"Ústecký kraj",70-74,191,42,233
-2021-03-25,Comirnaty,CZ042,"Ústecký kraj",75-79,261,89,350
+2021-03-25,Comirnaty,CZ042,"Ústecký kraj",70-74,192,42,234
+2021-03-25,Comirnaty,CZ042,"Ústecký kraj",75-79,260,89,349
 2021-03-25,Comirnaty,CZ042,"Ústecký kraj",80+,164,290,454
 2021-03-25,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",18-24,1,0,1
 2021-03-25,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",25-29,14,0,14
@@ -2089,7 +2091,7 @@
 2021-04-01,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",55-59,14,12,26
 2021-04-01,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",60-64,13,17,30
 2021-04-01,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",65-69,28,35,63
-2021-04-01,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",70-74,128,124,252
+2021-04-01,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",70-74,129,124,253
 2021-04-01,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",75-79,65,85,150
 2021-04-01,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",80+,35,127,162
 2021-04-01,VAXZEVRIA,CZ042,"Ústecký kraj",0-17,1,0,1
@@ -2114,7 +2116,7 @@
 2021-04-02,Comirnaty,CZ042,"Ústecký kraj",55-59,24,90,114
 2021-04-02,Comirnaty,CZ042,"Ústecký kraj",60-64,18,69,87
 2021-04-02,Comirnaty,CZ042,"Ústecký kraj",65-69,28,58,86
-2021-04-02,Comirnaty,CZ042,"Ústecký kraj",70-74,179,228,407
+2021-04-02,Comirnaty,CZ042,"Ústecký kraj",70-74,179,229,408
 2021-04-02,Comirnaty,CZ042,"Ústecký kraj",75-79,229,488,717
 2021-04-02,Comirnaty,CZ042,"Ústecký kraj",80+,37,243,280
 2021-04-02,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",50-54,1,0,1
@@ -2298,7 +2300,7 @@
 2021-04-08,Comirnaty,CZ042,"Ústecký kraj",60-64,61,34,95
 2021-04-08,Comirnaty,CZ042,"Ústecký kraj",65-69,90,93,183
 2021-04-08,Comirnaty,CZ042,"Ústecký kraj",70-74,723,207,930
-2021-04-08,Comirnaty,CZ042,"Ústecký kraj",75-79,259,213,472
+2021-04-08,Comirnaty,CZ042,"Ústecký kraj",75-79,260,213,473
 2021-04-08,Comirnaty,CZ042,"Ústecký kraj",80+,56,96,152
 2021-04-08,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",18-24,0,2,2
 2021-04-08,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",25-29,2,3,5
@@ -2326,7 +2328,7 @@
 2021-04-08,VAXZEVRIA,CZ042,"Ústecký kraj",70-74,344,0,344
 2021-04-08,VAXZEVRIA,CZ042,"Ústecký kraj",75-79,226,0,226
 2021-04-08,VAXZEVRIA,CZ042,"Ústecký kraj",80+,155,0,155
-2021-04-09,Comirnaty,CZ042,"Ústecký kraj",18-24,33,36,69
+2021-04-09,Comirnaty,CZ042,"Ústecký kraj",18-24,34,36,70
 2021-04-09,Comirnaty,CZ042,"Ústecký kraj",25-29,30,33,63
 2021-04-09,Comirnaty,CZ042,"Ústecký kraj",30-34,43,42,85
 2021-04-09,Comirnaty,CZ042,"Ústecký kraj",35-39,74,52,126
@@ -2348,7 +2350,7 @@
 2021-04-09,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",50-54,14,16,30
 2021-04-09,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",55-59,8,29,37
 2021-04-09,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",60-64,5,16,21
-2021-04-09,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",65-69,6,6,12
+2021-04-09,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",65-69,7,6,13
 2021-04-09,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",70-74,5,4,9
 2021-04-09,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",75-79,6,10,16
 2021-04-09,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",80+,0,112,112
@@ -2359,13 +2361,13 @@
 2021-04-09,VAXZEVRIA,CZ042,"Ústecký kraj",40-44,7,0,7
 2021-04-09,VAXZEVRIA,CZ042,"Ústecký kraj",45-49,16,1,17
 2021-04-09,VAXZEVRIA,CZ042,"Ústecký kraj",50-54,18,0,18
-2021-04-09,VAXZEVRIA,CZ042,"Ústecký kraj",55-59,37,0,37
+2021-04-09,VAXZEVRIA,CZ042,"Ústecký kraj",55-59,37,2,39
 2021-04-09,VAXZEVRIA,CZ042,"Ústecký kraj",60-64,60,0,60
 2021-04-09,VAXZEVRIA,CZ042,"Ústecký kraj",65-69,146,0,146
 2021-04-09,VAXZEVRIA,CZ042,"Ústecký kraj",70-74,482,0,482
 2021-04-09,VAXZEVRIA,CZ042,"Ústecký kraj",75-79,264,0,264
 2021-04-09,VAXZEVRIA,CZ042,"Ústecký kraj",80+,127,0,127
-2021-04-10,Comirnaty,CZ042,"Ústecký kraj",0-17,1,1,2
+2021-04-10,Comirnaty,CZ042,"Ústecký kraj",0-17,1,2,3
 2021-04-10,Comirnaty,CZ042,"Ústecký kraj",18-24,16,39,55
 2021-04-10,Comirnaty,CZ042,"Ústecký kraj",25-29,13,28,41
 2021-04-10,Comirnaty,CZ042,"Ústecký kraj",30-34,10,47,57
@@ -2611,7 +2613,7 @@
 2021-04-17,Comirnaty,CZ042,"Ústecký kraj",55-59,191,58,249
 2021-04-17,Comirnaty,CZ042,"Ústecký kraj",60-64,129,33,162
 2021-04-17,Comirnaty,CZ042,"Ústecký kraj",65-69,512,16,528
-2021-04-17,Comirnaty,CZ042,"Ústecký kraj",70-74,783,28,811
+2021-04-17,Comirnaty,CZ042,"Ústecký kraj",70-74,782,28,810
 2021-04-17,Comirnaty,CZ042,"Ústecký kraj",75-79,79,138,217
 2021-04-17,Comirnaty,CZ042,"Ústecký kraj",80+,30,31,61
 2021-04-17,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",18-24,0,20,20
@@ -2777,8 +2779,8 @@
 2021-04-22,Comirnaty,CZ042,"Ústecký kraj",55-59,137,37,174
 2021-04-22,Comirnaty,CZ042,"Ústecký kraj",60-64,209,24,233
 2021-04-22,Comirnaty,CZ042,"Ústecký kraj",65-69,1800,27,1827
-2021-04-22,Comirnaty,CZ042,"Ústecký kraj",70-74,606,139,745
-2021-04-22,Comirnaty,CZ042,"Ústecký kraj",75-79,154,243,397
+2021-04-22,Comirnaty,CZ042,"Ústecký kraj",70-74,606,140,746
+2021-04-22,Comirnaty,CZ042,"Ústecký kraj",75-79,154,242,396
 2021-04-22,Comirnaty,CZ042,"Ústecký kraj",80+,54,69,123
 2021-04-22,"COVID-19 Vaccine Janssen",CZ042,"Ústecký kraj",60-64,3,0,3
 2021-04-22,"COVID-19 Vaccine Janssen",CZ042,"Ústecký kraj",70-74,1,0,1
@@ -2791,9 +2793,9 @@
 2021-04-22,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",45-49,1,8,9
 2021-04-22,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",50-54,2,9,11
 2021-04-22,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",55-59,5,12,17
-2021-04-22,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",60-64,3,9,12
-2021-04-22,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",65-69,2,34,36
-2021-04-22,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",70-74,1,153,154
+2021-04-22,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",60-64,3,10,13
+2021-04-22,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",65-69,1,35,36
+2021-04-22,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",70-74,0,154,154
 2021-04-22,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",75-79,0,54,54
 2021-04-22,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",80+,3,35,38
 2021-04-22,VAXZEVRIA,CZ042,"Ústecký kraj",18-24,2,0,2
@@ -2943,7 +2945,7 @@
 2021-04-26,Comirnaty,CZ042,"Ústecký kraj",45-49,124,20,144
 2021-04-26,Comirnaty,CZ042,"Ústecký kraj",50-54,125,19,144
 2021-04-26,Comirnaty,CZ042,"Ústecký kraj",55-59,106,31,137
-2021-04-26,Comirnaty,CZ042,"Ústecký kraj",60-64,862,20,882
+2021-04-26,Comirnaty,CZ042,"Ústecký kraj",60-64,863,20,883
 2021-04-26,Comirnaty,CZ042,"Ústecký kraj",65-69,1220,35,1255
 2021-04-26,Comirnaty,CZ042,"Ústecký kraj",70-74,434,133,567
 2021-04-26,Comirnaty,CZ042,"Ústecký kraj",75-79,129,116,245
@@ -3134,9 +3136,9 @@
 2021-04-30,Comirnaty,CZ042,"Ústecký kraj",40-44,117,41,158
 2021-04-30,Comirnaty,CZ042,"Ústecký kraj",45-49,151,39,190
 2021-04-30,Comirnaty,CZ042,"Ústecký kraj",50-54,112,17,129
-2021-04-30,Comirnaty,CZ042,"Ústecký kraj",55-59,881,27,908
-2021-04-30,Comirnaty,CZ042,"Ústecký kraj",60-64,1578,9,1587
-2021-04-30,Comirnaty,CZ042,"Ústecký kraj",65-69,771,10,781
+2021-04-30,Comirnaty,CZ042,"Ústecký kraj",55-59,883,27,910
+2021-04-30,Comirnaty,CZ042,"Ústecký kraj",60-64,1579,9,1588
+2021-04-30,Comirnaty,CZ042,"Ústecký kraj",65-69,774,10,784
 2021-04-30,Comirnaty,CZ042,"Ústecký kraj",70-74,320,2,322
 2021-04-30,Comirnaty,CZ042,"Ústecký kraj",75-79,129,11,140
 2021-04-30,Comirnaty,CZ042,"Ústecký kraj",80+,53,5,58
@@ -3162,7 +3164,7 @@
 2021-04-30,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",55-59,3,9,12
 2021-04-30,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",60-64,4,3,7
 2021-04-30,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",65-69,3,3,6
-2021-04-30,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",70-74,0,116,116
+2021-04-30,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",70-74,0,117,117
 2021-04-30,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",75-79,0,58,58
 2021-04-30,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",80+,1,11,12
 2021-04-30,VAXZEVRIA,CZ042,"Ústecký kraj",18-24,2,0,2
@@ -3187,7 +3189,7 @@
 2021-05-01,Comirnaty,CZ042,"Ústecký kraj",45-49,87,8,95
 2021-05-01,Comirnaty,CZ042,"Ústecký kraj",50-54,70,8,78
 2021-05-01,Comirnaty,CZ042,"Ústecký kraj",55-59,1408,5,1413
-2021-05-01,Comirnaty,CZ042,"Ústecký kraj",60-64,1056,4,1060
+2021-05-01,Comirnaty,CZ042,"Ústecký kraj",60-64,1058,4,1062
 2021-05-01,Comirnaty,CZ042,"Ústecký kraj",65-69,445,4,449
 2021-05-01,Comirnaty,CZ042,"Ústecký kraj",70-74,198,6,204
 2021-05-01,Comirnaty,CZ042,"Ústecký kraj",75-79,78,3,81
@@ -3215,7 +3217,7 @@
 2021-05-01,VAXZEVRIA,CZ042,"Ústecký kraj",60-64,3,0,3
 2021-05-01,VAXZEVRIA,CZ042,"Ústecký kraj",65-69,2,0,2
 2021-05-01,VAXZEVRIA,CZ042,"Ústecký kraj",70-74,1,0,1
-2021-05-01,VAXZEVRIA,CZ042,"Ústecký kraj",80+,1,0,1
+2021-05-01,VAXZEVRIA,CZ042,"Ústecký kraj",80+,3,0,3
 2021-05-02,Comirnaty,CZ042,"Ústecký kraj",0-17,4,0,4
 2021-05-02,Comirnaty,CZ042,"Ústecký kraj",18-24,29,1,30
 2021-05-02,Comirnaty,CZ042,"Ústecký kraj",25-29,17,0,17
@@ -3284,7 +3286,7 @@
 2021-05-03,VAXZEVRIA,CZ042,"Ústecký kraj",45-49,6,0,6
 2021-05-03,VAXZEVRIA,CZ042,"Ústecký kraj",50-54,12,0,12
 2021-05-03,VAXZEVRIA,CZ042,"Ústecký kraj",55-59,39,0,39
-2021-05-03,VAXZEVRIA,CZ042,"Ústecký kraj",60-64,34,0,34
+2021-05-03,VAXZEVRIA,CZ042,"Ústecký kraj",60-64,35,0,35
 2021-05-03,VAXZEVRIA,CZ042,"Ústecký kraj",65-69,64,0,64
 2021-05-03,VAXZEVRIA,CZ042,"Ústecký kraj",70-74,67,0,67
 2021-05-03,VAXZEVRIA,CZ042,"Ústecký kraj",75-79,24,0,24
@@ -3292,13 +3294,13 @@
 2021-05-04,Comirnaty,CZ042,"Ústecký kraj",18-24,18,0,18
 2021-05-04,Comirnaty,CZ042,"Ústecký kraj",25-29,28,1,29
 2021-05-04,Comirnaty,CZ042,"Ústecký kraj",30-34,33,0,33
-2021-05-04,Comirnaty,CZ042,"Ústecký kraj",35-39,53,2,55
+2021-05-04,Comirnaty,CZ042,"Ústecký kraj",35-39,56,2,58
 2021-05-04,Comirnaty,CZ042,"Ústecký kraj",40-44,77,0,77
-2021-05-04,Comirnaty,CZ042,"Ústecký kraj",45-49,127,2,129
-2021-05-04,Comirnaty,CZ042,"Ústecký kraj",50-54,110,5,115
-2021-05-04,Comirnaty,CZ042,"Ústecký kraj",55-59,1465,5,1470
-2021-05-04,Comirnaty,CZ042,"Ústecký kraj",60-64,1034,7,1041
-2021-05-04,Comirnaty,CZ042,"Ústecký kraj",65-69,839,9,848
+2021-05-04,Comirnaty,CZ042,"Ústecký kraj",45-49,128,2,130
+2021-05-04,Comirnaty,CZ042,"Ústecký kraj",50-54,111,5,116
+2021-05-04,Comirnaty,CZ042,"Ústecký kraj",55-59,1472,5,1477
+2021-05-04,Comirnaty,CZ042,"Ústecký kraj",60-64,1038,7,1045
+2021-05-04,Comirnaty,CZ042,"Ústecký kraj",65-69,840,9,849
 2021-05-04,Comirnaty,CZ042,"Ústecký kraj",70-74,373,9,382
 2021-05-04,Comirnaty,CZ042,"Ústecký kraj",75-79,131,8,139
 2021-05-04,Comirnaty,CZ042,"Ústecký kraj",80+,52,9,61
@@ -3318,7 +3320,7 @@
 2021-05-04,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",30-34,7,0,7
 2021-05-04,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",35-39,10,0,10
 2021-05-04,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",40-44,16,1,17
-2021-05-04,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",45-49,4,0,4
+2021-05-04,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",45-49,5,0,5
 2021-05-04,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",50-54,7,0,7
 2021-05-04,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",55-59,7,0,7
 2021-05-04,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",60-64,14,0,14
@@ -3340,17 +3342,17 @@
 2021-05-05,Comirnaty,CZ042,"Ústecký kraj",0-17,4,0,4
 2021-05-05,Comirnaty,CZ042,"Ústecký kraj",18-24,37,4,41
 2021-05-05,Comirnaty,CZ042,"Ústecký kraj",25-29,36,2,38
-2021-05-05,Comirnaty,CZ042,"Ústecký kraj",30-34,65,4,69
+2021-05-05,Comirnaty,CZ042,"Ústecký kraj",30-34,66,4,70
 2021-05-05,Comirnaty,CZ042,"Ústecký kraj",35-39,83,4,87
-2021-05-05,Comirnaty,CZ042,"Ústecký kraj",40-44,116,8,124
-2021-05-05,Comirnaty,CZ042,"Ústecký kraj",45-49,212,9,221
-2021-05-05,Comirnaty,CZ042,"Ústecký kraj",50-54,178,17,195
-2021-05-05,Comirnaty,CZ042,"Ústecký kraj",55-59,1252,11,1263
-2021-05-05,Comirnaty,CZ042,"Ústecký kraj",60-64,990,11,1001
-2021-05-05,Comirnaty,CZ042,"Ústecký kraj",65-69,733,11,744
-2021-05-05,Comirnaty,CZ042,"Ústecký kraj",70-74,319,20,339
+2021-05-05,Comirnaty,CZ042,"Ústecký kraj",40-44,117,8,125
+2021-05-05,Comirnaty,CZ042,"Ústecký kraj",45-49,213,9,222
+2021-05-05,Comirnaty,CZ042,"Ústecký kraj",50-54,181,17,198
+2021-05-05,Comirnaty,CZ042,"Ústecký kraj",55-59,1263,11,1274
+2021-05-05,Comirnaty,CZ042,"Ústecký kraj",60-64,999,11,1010
+2021-05-05,Comirnaty,CZ042,"Ústecký kraj",65-69,740,11,751
+2021-05-05,Comirnaty,CZ042,"Ústecký kraj",70-74,320,21,341
 2021-05-05,Comirnaty,CZ042,"Ústecký kraj",75-79,155,50,205
-2021-05-05,Comirnaty,CZ042,"Ústecký kraj",80+,81,10,91
+2021-05-05,Comirnaty,CZ042,"Ústecký kraj",80+,83,10,93
 2021-05-05,"COVID-19 Vaccine Janssen",CZ042,"Ústecký kraj",30-34,2,0,2
 2021-05-05,"COVID-19 Vaccine Janssen",CZ042,"Ústecký kraj",35-39,1,0,1
 2021-05-05,"COVID-19 Vaccine Janssen",CZ042,"Ústecký kraj",40-44,2,0,2
@@ -3361,12 +3363,19 @@
 2021-05-05,"COVID-19 Vaccine Janssen",CZ042,"Ústecký kraj",70-74,6,0,6
 2021-05-05,"COVID-19 Vaccine Janssen",CZ042,"Ústecký kraj",75-79,3,0,3
 2021-05-05,"COVID-19 Vaccine Janssen",CZ042,"Ústecký kraj",80+,5,0,5
-2021-05-05,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",35-39,0,1,1
-2021-05-05,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",45-49,2,0,2
-2021-05-05,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",55-59,4,0,4
-2021-05-05,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",60-64,2,1,3
-2021-05-05,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",65-69,1,1,2
-2021-05-05,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",80+,1,1,2
+2021-05-05,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",25-29,2,1,3
+2021-05-05,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",30-34,4,0,4
+2021-05-05,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",35-39,0,2,2
+2021-05-05,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",40-44,5,0,5
+2021-05-05,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",45-49,6,0,6
+2021-05-05,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",50-54,10,1,11
+2021-05-05,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",55-59,15,0,15
+2021-05-05,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",60-64,19,1,20
+2021-05-05,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",65-69,18,1,19
+2021-05-05,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",70-74,7,0,7
+2021-05-05,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",75-79,2,0,2
+2021-05-05,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",80+,2,1,3
+2021-05-05,VAXZEVRIA,CZ042,"Ústecký kraj",18-24,0,1,1
 2021-05-05,VAXZEVRIA,CZ042,"Ústecký kraj",25-29,1,0,1
 2021-05-05,VAXZEVRIA,CZ042,"Ústecký kraj",30-34,2,0,2
 2021-05-05,VAXZEVRIA,CZ042,"Ústecký kraj",35-39,3,1,4
@@ -3375,7 +3384,52 @@
 2021-05-05,VAXZEVRIA,CZ042,"Ústecký kraj",50-54,22,2,24
 2021-05-05,VAXZEVRIA,CZ042,"Ústecký kraj",55-59,43,1,44
 2021-05-05,VAXZEVRIA,CZ042,"Ústecký kraj",60-64,47,0,47
-2021-05-05,VAXZEVRIA,CZ042,"Ústecký kraj",65-69,66,1,67
-2021-05-05,VAXZEVRIA,CZ042,"Ústecký kraj",70-74,93,1,94
-2021-05-05,VAXZEVRIA,CZ042,"Ústecký kraj",75-79,38,0,38
+2021-05-05,VAXZEVRIA,CZ042,"Ústecký kraj",65-69,67,1,68
+2021-05-05,VAXZEVRIA,CZ042,"Ústecký kraj",70-74,94,1,95
+2021-05-05,VAXZEVRIA,CZ042,"Ústecký kraj",75-79,39,0,39
 2021-05-05,VAXZEVRIA,CZ042,"Ústecký kraj",80+,20,0,20
+2021-05-06,Comirnaty,CZ042,"Ústecký kraj",0-17,2,0,2
+2021-05-06,Comirnaty,CZ042,"Ústecký kraj",18-24,46,2,48
+2021-05-06,Comirnaty,CZ042,"Ústecký kraj",25-29,79,1,80
+2021-05-06,Comirnaty,CZ042,"Ústecký kraj",30-34,80,2,82
+2021-05-06,Comirnaty,CZ042,"Ústecký kraj",35-39,105,1,106
+2021-05-06,Comirnaty,CZ042,"Ústecký kraj",40-44,189,8,197
+2021-05-06,Comirnaty,CZ042,"Ústecký kraj",45-49,231,17,248
+2021-05-06,Comirnaty,CZ042,"Ústecký kraj",50-54,1228,19,1247
+2021-05-06,Comirnaty,CZ042,"Ústecký kraj",55-59,1160,10,1170
+2021-05-06,Comirnaty,CZ042,"Ústecký kraj",60-64,628,6,634
+2021-05-06,Comirnaty,CZ042,"Ústecký kraj",65-69,653,9,662
+2021-05-06,Comirnaty,CZ042,"Ústecký kraj",70-74,363,19,382
+2021-05-06,Comirnaty,CZ042,"Ústecký kraj",75-79,144,37,181
+2021-05-06,Comirnaty,CZ042,"Ústecký kraj",80+,70,6,76
+2021-05-06,"COVID-19 Vaccine Janssen",CZ042,"Ústecký kraj",18-24,3,0,3
+2021-05-06,"COVID-19 Vaccine Janssen",CZ042,"Ústecký kraj",25-29,1,0,1
+2021-05-06,"COVID-19 Vaccine Janssen",CZ042,"Ústecký kraj",40-44,2,0,2
+2021-05-06,"COVID-19 Vaccine Janssen",CZ042,"Ústecký kraj",45-49,4,0,4
+2021-05-06,"COVID-19 Vaccine Janssen",CZ042,"Ústecký kraj",50-54,9,0,9
+2021-05-06,"COVID-19 Vaccine Janssen",CZ042,"Ústecký kraj",55-59,2,0,2
+2021-05-06,"COVID-19 Vaccine Janssen",CZ042,"Ústecký kraj",60-64,8,0,8
+2021-05-06,"COVID-19 Vaccine Janssen",CZ042,"Ústecký kraj",65-69,18,0,18
+2021-05-06,"COVID-19 Vaccine Janssen",CZ042,"Ústecký kraj",70-74,16,0,16
+2021-05-06,"COVID-19 Vaccine Janssen",CZ042,"Ústecký kraj",75-79,14,0,14
+2021-05-06,"COVID-19 Vaccine Janssen",CZ042,"Ústecký kraj",80+,11,0,11
+2021-05-06,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",18-24,0,1,1
+2021-05-06,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",30-34,1,0,1
+2021-05-06,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",35-39,5,0,5
+2021-05-06,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",40-44,1,0,1
+2021-05-06,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",45-49,2,0,2
+2021-05-06,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",55-59,2,0,2
+2021-05-06,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",60-64,3,0,3
+2021-05-06,"COVID-19 Vaccine Moderna",CZ042,"Ústecký kraj",70-74,0,2,2
+2021-05-06,VAXZEVRIA,CZ042,"Ústecký kraj",18-24,1,0,1
+2021-05-06,VAXZEVRIA,CZ042,"Ústecký kraj",25-29,1,0,1
+2021-05-06,VAXZEVRIA,CZ042,"Ústecký kraj",35-39,1,0,1
+2021-05-06,VAXZEVRIA,CZ042,"Ústecký kraj",40-44,3,0,3
+2021-05-06,VAXZEVRIA,CZ042,"Ústecký kraj",45-49,9,0,9
+2021-05-06,VAXZEVRIA,CZ042,"Ústecký kraj",50-54,7,0,7
+2021-05-06,VAXZEVRIA,CZ042,"Ústecký kraj",55-59,19,0,19
+2021-05-06,VAXZEVRIA,CZ042,"Ústecký kraj",60-64,8,0,8
+2021-05-06,VAXZEVRIA,CZ042,"Ústecký kraj",65-69,13,0,13
+2021-05-06,VAXZEVRIA,CZ042,"Ústecký kraj",70-74,16,0,16
+2021-05-06,VAXZEVRIA,CZ042,"Ústecký kraj",75-79,12,0,12
+2021-05-06,VAXZEVRIA,CZ042,"Ústecký kraj",80+,8,0,8
