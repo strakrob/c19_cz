@@ -1,5 +1,5 @@
 
-# Curve 0 of 1, 271 points
+# Curve 0 of 1, 274 points
 # Curve title: ""d70_79i.dat" u 1:($1>0 ? $2 : 0)"
 # x y type
 -1  0  o
@@ -273,4 +273,7 @@
  491  7151  i
  492  7158  i
  494  7159  i
+ 495  7164  i
+ 496  7168  i
+ 497  7171  i
 

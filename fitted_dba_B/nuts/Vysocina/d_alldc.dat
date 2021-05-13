@@ -1,5 +1,5 @@
 
-# Curve 0 of 1, 235 points
+# Curve 0 of 1, 238 points
 # Curve title: ""d_alld.dat" u 1:($1>0 ? $2 : 0)"
 # x y type
  88  1  i
@@ -237,4 +237,7 @@
  485  1331  i
  486  1334  i
  487  1338  i
+ 488  1339  i
+ 489  1343  i
+ 490  1350  i
 
