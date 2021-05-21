@@ -92,6 +92,9 @@ The inferred R using the simple SEIR approach.
 <img src="./cz_sanity1.png" width="1024"/><br>
 Consistency check. In grey are 100 sets of death data simulated forward from the inferred median fatal infection profile. Symbols are the UZIS daily death data on which inference is based. The dashed curves are 95% confidence intervals for underlying death rate estimated by direct fitting of Eq. 1 in the Wood's paper.
 
+## Model output 1.3.2020 - 1.5.2021
+<img src="./cz_deaths12.png" width="1024"/><br>
+
 ---
 
 List of important events:
