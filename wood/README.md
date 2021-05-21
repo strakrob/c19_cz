@@ -43,20 +43,20 @@ The draws from the combined infection to death distribution model - Filtered UZI
 
 *Right*: As middle, but combined infection to death model. Blue is mean infection to death distribution based on CHESS data from original paper.
 
-The above is used as an input to the main code together with following DF for infection->death (values in {} are mean intervals in days):
+The above is used as an input to the main code together with following DF for infection->death (values in {} are mean onset/infection to death intervals in days):
 ```
 ## UZIS filtered 1.3.2020 - 1.9.2020
-o2d[le,ls]= [2.567969, 0.5894433] {13 days}
-i2d[le,ls]= [2.958302, 0.4453127] {19.3 days}
+o2d[le,ls]= [2.567969, 0.5894433] {15.5 days}
+i2d[le,ls]= [2.958302, 0.4453127] {21.3 days}
 ## UZIS filtered 1.9.2020 - 1.5.2021
-o2d[le,ls]= [2.745226, 0.4827882] {15.6 days}
-i2d[le,ls]= [3.073937, 0.3835695] {21.6 days}
+o2d[le,ls]= [2.745226, 0.4827882] {17.5 days}
+i2d[le,ls]= [3.073937, 0.3835695] {23.3 days}
 ## UZIS filtered combined 1.3.2020 - 1.5.2021
-o2d[le,ls]= [2.665169, 0.5541375] {14.4 days}
-i2d[le,ls]= [3.022099, 0.4279544] {20.5 days}
+o2d[le,ls]= [2.665169, 0.5541375] {16.8 days}
+i2d[le,ls]= [3.022099, 0.4279544] {22.5 days}
 ## CHESS data from Wood's paper
-o2d[le,ls]= [2.891, 0.5560864] {18.1 days}
-i2d[le,ls]= [3.186, 0.443451] {24.3 days}
+o2d[le,ls]= [2.891, 0.5560864] {21 days}
+i2d[le,ls]= [3.186, 0.443451] {26.7 days}
 ```
 
 ## Model output 1.9.2020 - 1.5.2021
