@@ -88,7 +88,7 @@ For different age groups (**TODO check onset->death DFs for each age group**)
 ### Ages 90-104
 <img src="./cz_deaths-midF90.png" width="1024"/><br>
 ---
-## Model output 1.3.2020 - 1.5.2020
+## Model output 1.3.2020 - 1.5.2021
 **Inferred fatal infections**
 <img src="./cz_fatal1.png" width="1024"/><br>
 Inference for the Czech hospital deaths including disease duration uncertainty. Black line is inferred fatal incidence and show the posterior median, while light grey and dark grey regions show, respectively, 95% and 68% confidence regions, including uncertainty in the fatal disease duration distribution. Day 0 is 13th March 2020. Red symbols are the hospital deaths from which incidence is inferred. Notable restrictions (black and red[lockdowns]) and easings(blue) are marked, together with known outbreaks (green - consecutively: Karvina miners outbreak, OKD outbreak, Prague music club outbreak, B.1.1.7 confirmed in December, B.1.351 confirmed) and other outstanding events (pink), full list with dates is attached later.
@@ -103,6 +103,26 @@ Consistency check. In grey are 100 sets of death data simulated forward from the
 
 ## Model output 1.3.2020 - 1.5.2021
 <img src="./cz_deaths12.png" width="1024"/><br>
+
+---
+## Convergency analysis
+The above results are obtained for the following smoothing parameters in GAM ( ks - nr of knots, bs - spline type):
+```
+1.9.2020 - 1.5.2021: ks=20 bs="tp"
+1.3.2020 - 1.5.2021: ks=30 bs="tp"
+```
+increasing number of knots above aforementioned values didn't change the results substantially, thin plate splines gave better consistency check than adaptive ones (bs="ad") 
+
+### 1.9.2020 - 1.5.2021 fatal infections & Rt
+<img src="./cz_deaths-mid_conv.png" width="1024"/><br>
+<img src="./cz_Rt12-mid_conv.png" width="1024"/><br>
+
+### 1.3.2020 - 1.5.2021 fatal infections & Rt
+<img src="./cz_deaths-mid_conv.png" width="1024"/><br>
+<img src="./cz_Rt12-mid_conv.png" width="1024"/><br>
+
+## Sensitivity analysis for i2o and o2d
+**TODO**
 
 ---
 
@@ -153,7 +173,7 @@ List of important events:
 
 ---
 
-# First attempt (17th-20th May 2021)
+# First attempt (17th-20th May 2021) DEPRECATED
 Initial approach...
 ## Onset to death distributions
 Comparison of real data & fits based on UZIS closed datasets, together with distributions used in the Wood's paper (Wu,Linton,Verity).
