@@ -118,8 +118,8 @@ increasing number of knots above aforementioned values didn't change the results
 <img src="./cz_Rt12-mid_conv.png" width="1024"/><br>
 
 ### 1.3.2020 - 1.5.2021 fatal infections & Rt
-<img src="./cz_deaths-mid_conv.png" width="1024"/><br>
-<img src="./cz_Rt12-mid_conv.png" width="1024"/><br>
+<img src="./cz_deaths12conv.png" width="1024"/><br>
+<img src="./cz_Rt12conv.png" width="1024"/><br>
 
 ## Sensitivity analysis for i2o and o2d
 **TODO**
