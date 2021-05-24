@@ -1,11 +1,11 @@
 # C19-CZ fatal infections dynamics inferred by the Wood's stochastic model
 **Based on paper & R scripts by Wood**: https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13462
 
-There are only 2 inputs:  **the daily number of C19 related deaths** and **onset to death distribution**.
+There are 2 inputs only:  **the daily number of C19 related deaths** and **onset to death distribution**.
 
 (and also infection to onset distribution as noted later...)
 
-Deaths data are taken from the closed UZIS hospital dataset (data range 19.3.2020 - 29.4.2021).
+Deaths data are taken from the closed UZIS hospital dataset (date range 19.3.2020 - 29.4.2021).
 <img src="./o2d_hist_te.png" width="1024"/><br>
 The UZIS dataset is a real garbage, the dataset was filtered to include only deaths with the following conditions:
 ```onset->specimen < onset->hospitalization
@@ -79,6 +79,10 @@ Consistency check. In grey are 100 sets of death data simulated forward from the
 <img src="./cz_sanity2.png" width="1024"/><br>
 
 For different age groups (**TODO check onset->death DFs for each age group**)
+### Ages 0-49
+<img src="./cz_deaths-midF00.png" width="1024"/><br>
+### Ages 50-59
+<img src="./cz_deaths-midF50.png" width="1024"/><br>
 ### Ages 60-69
 <img src="./cz_deaths-midF60.png" width="1024"/><br>
 ### Ages 70-79
@@ -121,7 +125,15 @@ increasing number of knots above aforementioned values didn't change the results
 <img src="./cz_deaths12conv.png" width="1024"/><br>
 <img src="./cz_Rt12conv.png" width="1024"/><br>
 
-## Sensitivity analysis for i2o and o2d
+---
+
+## Sensitivity analysis concerning change in i2o and o2d DFs (also AGE & NUTS shapes of DFs)
+**TODO**
+
+## IFR change over time (February change in CFR, NUTS dependency)
+**TODO**
+
+## Thinplate vs adaptive spline basis discrepancy
 **TODO**
 
 ---
