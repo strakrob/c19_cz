@@ -125,9 +125,12 @@ increasing number of knots above aforementioned values didn't change the results
 <img src="./cz_deaths12conv.png" width="1024"/><br>
 <img src="./cz_Rt12conv.png" width="1024"/><br>
 
+### 1.3.2020 - 1.5.2021 ks=80 bs="ad"
+<img src="./cz_deaths12c.png" width="1024"/><br>
+
 ---
 
-## Sensitivity analysis concerning change in i2o and o2d DFs (also AGE & NUTS shapes of DFs)
+## Sensitivity analysis concerning change in i2o and o2d DFs (also AGE & NUTS & WAVE no. DFs' shapes dependency)
 **TODO**
 
 ## IFR change over time (February change in CFR, NUTS dependency)
