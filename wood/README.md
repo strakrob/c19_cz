@@ -79,6 +79,7 @@ Consistency check. In grey are 100 sets of death data simulated forward from the
 <img src="./cz_sanity2.png" width="1024"/><br>
 
 [For different age groups click here!](./age)
+
 [For different regions (NUTS3) click here!](./nuts)
 
 ---
