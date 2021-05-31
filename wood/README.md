@@ -78,19 +78,9 @@ Consistency check. In grey are 100 sets of death data simulated forward from the
 <img src="./cz_Rt2.png" width="1024"/><br>
 <img src="./cz_sanity2.png" width="1024"/><br>
 
-For different age groups (**TODO check onset->death DFs for each age group**)
-### Ages 0-49
-<img src="./cz_deaths-midF00.png" width="1024"/><br>
-### Ages 50-59
-<img src="./cz_deaths-midF50.png" width="1024"/><br>
-### Ages 60-69
-<img src="./cz_deaths-midF60.png" width="1024"/><br>
-### Ages 70-79
-<img src="./cz_deaths-midF70.png" width="1024"/><br>
-### Ages 80-89
-<img src="./cz_deaths-midF80.png" width="1024"/><br>
-### Ages 90-104
-<img src="./cz_deaths-midF90.png" width="1024"/><br>
+[For different age groups click here!](./age)
+[For different regions (NUTS3) click here!](./nuts)
+
 ---
 ## Model output 1.3.2020 - 1.5.2021
 **Inferred fatal infections**
