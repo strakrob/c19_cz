@@ -1,5 +1,5 @@
 
-# Curve 0 of 1, 25 points
+# Curve 0 of 1, 27 points
 # Curve title: "reported"
 # x y type
 -1  0  i
@@ -27,4 +27,6 @@
  483  1  i
  485  1  i
  486  1  i
+ 496  1  i
+ 516  1  o
 

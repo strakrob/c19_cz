@@ -1,5 +1,5 @@
 
-# Curve 0 of 1, 16 points
+# Curve 0 of 1, 17 points
 # Curve title: "reported"
 # x y type
 -1  0  o
@@ -18,4 +18,5 @@
  446  1  i
  450  1  i
  457  1  i
+ 509  1  o
 
