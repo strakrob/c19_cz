@@ -1,5 +1,7 @@
 # C19-CZ fatal infections dynamics inferred by the Wood's stochastic model - REGIONS (NUTS3)
 
+[Interactive aggregated plot is here](./plotly/index.html)
+
 For different regions(NUTS3) (**TODO check onset->death DFs for each region**)
 
 # Praha - CZ010
