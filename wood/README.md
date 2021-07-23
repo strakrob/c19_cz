@@ -1,4 +1,4 @@
-# C19-CZ fatal infections dynamics inferred by the Wood's stochastic model
+# C19-CZ fatal infections dynamic inferred by the Wood's stochastic model
 **Based on paper & R scripts by Wood**: https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13462
 
 There are 2 inputs only:  **the daily number of C19 related deaths** and **onset to death distribution**.
